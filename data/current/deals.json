@@ -1,1 +1,3474 @@
-[]
+[
+  {
+    "id": "product-6946a7ab6b1c20",
+    "name": "Apple AirPods 4 With Active Noise Cancellation",
+    "category": "Fruit & Vegetables",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "202170",
+        "name": "Apple AirPods 4 With Active Noise Cancellation",
+        "salePrice": 279.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hfb/hf3/273475815637022.jpg",
+        "sourceUrl": "https://www.costco.com.au/Electronics/Audio/AirPods/Apple-AirPods-4-With-Active-Noise-Cancellation/p/202170",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Apple AirPods 4 With Active Noise Cancellation",
+        "displayName": "Apple AirPods 4 With Active Noise Cancellation",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-6946a7ab6b1c20",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hfb/hf3/273475815637022.jpg"
+  },
+  {
+    "id": "product-7e542dbae24269",
+    "name": "Apple Airpods Pro 2 With MagSafe Case USB-C",
+    "category": "Fruit & Vegetables",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "176868",
+        "name": "Apple Airpods Pro 2 With MagSafe Case USB-C",
+        "salePrice": 359.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h0e/h0c/175594992336926.jpg",
+        "sourceUrl": "https://www.costco.com.au/Electronics/Audio/Headphones/Apple-Airpods-Pro-2-With-MagSafe-Case-USB-C/p/176868",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Apple Airpods Pro 2 With MagSafe Case USB-C",
+        "displayName": "Apple Airpods Pro 2 With MagSafe Case USB-C",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-7e542dbae24269",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h0e/h0c/175594992336926.jpg"
+  },
+  {
+    "id": "product-71db74c3495dde",
+    "name": "Apple iPhone 17 Pro Max 256GB",
+    "category": "Fruit & Vegetables",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "240979",
+        "name": "Apple iPhone 17 Pro Max 256GB",
+        "salePrice": 2099.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h6d/h6e/381563596013598.jpg",
+        "sourceUrl": "https://www.costco.com.au/Electronics/Mobile-Phones/iPhones/iPhone-17-Pro-Max/Apple-iPhone-17-Pro-Max-256GB/p/240979",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Apple iPhone 17 Pro Max 256GB",
+        "displayName": "Apple iPhone 17 Pro Max 256GB",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-71db74c3495dde",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h6d/h6e/381563596013598.jpg"
+  },
+  {
+    "id": "product-1027545f0db526",
+    "name": "BERG",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/berg-smoked-hocks-per-kg-000000000000398906",
+        "name": "BERG",
+        "salePrice": 9.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/fc037a24-df73-41e2-91f4-03b49993ba32/Smoked%20Hocks%20per%20kg",
+        "sourceUrl": "https://www.aldi.com.au/product/berg-smoked-hocks-per-kg-000000000000398906",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "BERG",
+        "displayName": "BERG",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-1027545f0db526",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/fc037a24-df73-41e2-91f4-03b49993ba32/Smoked%20Hocks%20per%20kg"
+  },
+  {
+    "id": "product-cc35236583af0a",
+    "name": "BIG BEAR",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/big-bear-california-chardonnay-750ml-000000000000584688",
+        "name": "BIG BEAR",
+        "salePrice": 13.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c0fb6d7d-91cd-48b7-8d3b-160338d6f400/California%20Chardonnay%20750ml",
+        "sourceUrl": "https://www.aldi.com.au/product/big-bear-california-chardonnay-750ml-000000000000584688",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "BIG BEAR",
+        "displayName": "BIG BEAR",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-cc35236583af0a",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c0fb6d7d-91cd-48b7-8d3b-160338d6f400/California%20Chardonnay%20750ml"
+  },
+  {
+    "id": "product-34faef0ef6d670",
+    "name": "Blackstone Omnivore Griddle With Hood And Soft Cover",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "1934226",
+        "name": "Blackstone Omnivore Griddle With Hood And Soft Cover",
+        "salePrice": 699.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h5e/hb8/418483845759006.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Blackstone-Omnivore-Griddle-With-Hood-And-Soft-Cover/p/1934226",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Blackstone Omnivore Griddle With Hood And Soft Cover",
+        "displayName": "Blackstone Omnivore Griddle With Hood And Soft Cover",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-34faef0ef6d670",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h5e/hb8/418483845759006.jpg"
+  },
+  {
+    "id": "product-64191c2c8faa6b",
+    "name": "BLACKSTONE PADDOCK",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/blackstone-paddock-limited-release-margaret-river-chardonnay-750ml-000000000000366906",
+        "name": "BLACKSTONE PADDOCK",
+        "salePrice": 16.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3a73b434-c207-4fb5-b300-c6f2c9e81f0e/Limited%20Release%20Margaret%20River%20Chardonnay%20750ml",
+        "sourceUrl": "https://www.aldi.com.au/product/blackstone-paddock-limited-release-margaret-river-chardonnay-750ml-000000000000366906",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "BLACKSTONE PADDOCK",
+        "displayName": "BLACKSTONE PADDOCK",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-64191c2c8faa6b",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3a73b434-c207-4fb5-b300-c6f2c9e81f0e/Limited%20Release%20Margaret%20River%20Chardonnay%20750ml"
+  },
+  {
+    "id": "product-ef753d03b8c65d",
+    "name": "Boogie Board Magic Sketch Club Pack",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "196381",
+        "name": "Boogie Board Magic Sketch Club Pack",
+        "salePrice": 39.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he3/h95/326031297675294.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Boogie-Board-Magic-Sketch-Club-Pack/p/196381",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Boogie Board Magic Sketch Club Pack",
+        "displayName": "Boogie Board Magic Sketch Club Pack",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-ef753d03b8c65d",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he3/h95/326031297675294.jpg"
+  },
+  {
+    "id": "product-956d3d4910067e",
+    "name": "Breville Barista Express Coffee Machine BES875BSS",
+    "category": "Drinks",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "50634",
+        "name": "Breville Barista Express Coffee Machine BES875BSS",
+        "salePrice": 699.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hd7/h4d/64352409157662.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Coffee-Drink-Makers/Coffee-Espresso-Machines/Breville-Barista-Express-Coffee-Machine-BES875BSS/p/50634",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Breville Barista Express Coffee Machine BES875BSS",
+        "displayName": "Breville Barista Express Coffee Machine BES875BSS",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-956d3d4910067e",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd7/h4d/64352409157662.jpg"
+  },
+  {
+    "id": "product-fc9e0f645aa847",
+    "name": "BROAD OAK FARMS",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/broad-oak-farms-rspca-approved-chicken-tenderloins-value-pack-per-kg-000000000000704838",
+        "name": "BROAD OAK FARMS",
+        "salePrice": 12.49,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/592c62fa-371b-4642-b914-297bf006f987/RSPCA%20Approved%20Chicken%20Tenderloins%20Value%20Pack%20per%20kg",
+        "sourceUrl": "https://www.aldi.com.au/product/broad-oak-farms-rspca-approved-chicken-tenderloins-value-pack-per-kg-000000000000704838",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "BROAD OAK FARMS",
+        "displayName": "BROAD OAK FARMS",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-fc9e0f645aa847",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/592c62fa-371b-4642-b914-297bf006f987/RSPCA%20Approved%20Chicken%20Tenderloins%20Value%20Pack%20per%20kg"
+  },
+  {
+    "id": "product-1ccc725b7bb1d4",
+    "name": "BROOKLEA",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/brooklea-no-added-sugar-banana-yogurt-pouch-110g-000000000000614423",
+        "name": "BROOKLEA",
+        "salePrice": 1.17,
+        "pricePerUnit": 11.7,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ae023736-c696-4a93-b7ef-bd3956ebd2fb/No%20Added%20Sugar%20Banana%20Yogurt%20Pouch%20110g",
+        "sourceUrl": "https://www.aldi.com.au/product/brooklea-no-added-sugar-banana-yogurt-pouch-110g-000000000000614423",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "BROOKLEA",
+        "displayName": "BROOKLEA",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-1ccc725b7bb1d4",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ae023736-c696-4a93-b7ef-bd3956ebd2fb/No%20Added%20Sugar%20Banana%20Yogurt%20Pouch%20110g"
+  },
+  {
+    "id": "product-4071950ce49369",
+    "name": "BROWN BROTHERS",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/brown-brothers-winter-red-750ml-000000000000366957",
+        "name": "BROWN BROTHERS",
+        "salePrice": 9.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/74415ca2-a88b-4cc7-9a1c-bf9f62bf1662/Winter%20Red%20750ml",
+        "sourceUrl": "https://www.aldi.com.au/product/brown-brothers-winter-red-750ml-000000000000366957",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "BROWN BROTHERS",
+        "displayName": "BROWN BROTHERS",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-4071950ce49369",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/74415ca2-a88b-4cc7-9a1c-bf9f62bf1662/Winter%20Red%20750ml"
+  },
+  {
+    "id": "product-8ab0fbf5cf6bb8",
+    "name": "Callaway Hex Tour Golf Balls 24 Pack",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "159359",
+        "name": "Callaway Hex Tour Golf Balls 24 Pack",
+        "salePrice": 69.99,
+        "quantity": 24,
+        "unit": "pcs",
+        "pricePerUnit": 2.3,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h4b/h1c/185895089307678.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Callaway-Hex-Tour-Golf-Balls-24-Pack/p/159359",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Callaway Hex Tour Golf Balls 24 Pack",
+        "displayName": "Callaway Hex Tour Golf Balls 24 Pack",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-8ab0fbf5cf6bb8",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h4b/h1c/185895089307678.jpg"
+  },
+  {
+    "id": "product-9276966cad0763",
+    "name": "CAT Excavator / Steel Dump Truck",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "1851476",
+        "name": "CAT Excavator / Steel Dump Truck",
+        "salePrice": 79.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h5e/hb6/484278709518366.jpg",
+        "sourceUrl": "https://www.costco.com.au/Baby-Kids-Toys/Kids-Toys/Toy-Cars-Trucks/CAT-Excavator-Steel-Dump-Truck/p/1851476",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "CAT Excavator / Steel Dump Truck",
+        "displayName": "CAT Excavator / Steel Dump Truck",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-9276966cad0763",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h5e/hb6/484278709518366.jpg"
+  },
+  {
+    "id": "product-3cc9a4cc82fb59",
+    "name": "Coco Earth Organic MCT Oil 1L",
+    "category": "Pantry",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "54610",
+        "name": "Coco Earth Organic MCT Oil 1L",
+        "salePrice": 36.99,
+        "quantity": 1,
+        "unit": "l",
+        "pricePerUnit": 29.5,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hb8/h6b/278223122202654.jpg",
+        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Nutrition-Weight-Management/Vitamins-Supplements/Coco-Earth-Organic-MCT-Oil-1L/p/54610",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Coco Earth Organic MCT Oil 1L",
+        "displayName": "Coco Earth Organic MCT Oil 1L",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-3cc9a4cc82fb59",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb8/h6b/278223122202654.jpg"
+  },
+  {
+    "id": "product-89455e2f243cb4",
+    "name": "Cuckoo Micom Rice Cooker 6 Cups CR-0685FW",
+    "category": "Pantry",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "226750",
+        "name": "Cuckoo Micom Rice Cooker 6 Cups CR-0685FW",
+        "salePrice": 159.98,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h87/h83/348838977044510.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Kitchen-Appliances/Rice-Cookers/Cuckoo-Micom-Rice-Cooker-6-Cups-CR-0685FW/p/226750",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Cuckoo Micom Rice Cooker 6 Cups CR-0685FW",
+        "displayName": "Cuckoo Micom Rice Cooker 6 Cups CR-0685FW",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-89455e2f243cb4",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h87/h83/348838977044510.jpg"
+  },
+  {
+    "id": "product-546ebe0e50a128",
+    "name": "DAMORA",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/damora-damora-crisps-sea-salt-150g-000000000000606622",
+        "name": "DAMORA",
+        "salePrice": 1.99,
+        "pricePerUnit": 19.9,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/d5f5da50-3736-43d1-8217-fb6c2a9b4e57/Damora%20Crisps%20Sea%20Salt%20150g",
+        "sourceUrl": "https://www.aldi.com.au/product/damora-damora-crisps-sea-salt-150g-000000000000606622",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "DAMORA",
+        "displayName": "DAMORA",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-546ebe0e50a128",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/damora-damora-crisps-sweet-chilli-150g-000000000000606637",
+        "name": "DAMORA",
+        "salePrice": 1.99,
+        "pricePerUnit": 19.9,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/1e565163-d363-4f57-b728-1ecee90a1463/Damora%20Crisps%20Sweet%20Chilli%20150g",
+        "sourceUrl": "https://www.aldi.com.au/product/damora-damora-crisps-sweet-chilli-150g-000000000000606637",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "DAMORA",
+        "displayName": "DAMORA",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-546ebe0e50a128",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/d5f5da50-3736-43d1-8217-fb6c2a9b4e57/Damora%20Crisps%20Sea%20Salt%20150g"
+  },
+  {
+    "id": "product-922258feaa1027",
+    "name": "Dyson Airwrap i.d. TM Multi-Styler & Dryer Ceramic Pink 601887-01",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "235767",
+        "name": "Dyson Airwrap i.d. TM Multi-Styler & Dryer Ceramic Pink 601887-01",
+        "salePrice": 799.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h3d/hbb/369356317884446.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Dyson-Airwrap-id-TM-Multi-Styler-Dryer-Ceramic-Pink-601887-01/p/235767",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Dyson Airwrap i.d. TM Multi-Styler & Dryer Ceramic Pink 601887-01",
+        "displayName": "Dyson Airwrap i.d. TM Multi-Styler & Dryer Ceramic Pink 601887-01",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-922258feaa1027",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h3d/hbb/369356317884446.jpg"
+  },
+  {
+    "id": "product-fc367f9f16d73d",
+    "name": "Dyson Clean and Wash Hygiene 637626-01",
+    "category": "Household",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "262015",
+        "name": "Dyson Clean and Wash Hygiene 637626-01",
+        "salePrice": 749.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h24/h08/439016475721758.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Dyson-Clean-and-Wash-Hygiene-637626-01/p/262015",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Dyson Clean and Wash Hygiene 637626-01",
+        "displayName": "Dyson Clean and Wash Hygiene 637626-01",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-fc367f9f16d73d",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h24/h08/439016475721758.jpg"
+  },
+  {
+    "id": "product-490e691de8509d",
+    "name": "Dyson Purifier Hot + Cool HP2 De-NOx 546294-01",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "224537",
+        "name": "Dyson Purifier Hot + Cool HP2 De-NOx 546294-01",
+        "salePrice": 1149.98,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h7a/h82/333989511823390.jpg",
+        "sourceUrl": "https://www.costco.com.au/Home-Kitchen/Heating-Cooling/Fans/Dyson-Purifier-Hot-Cool-HP2-De-NOx-546294-01/p/224537",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Dyson Purifier Hot + Cool HP2 De-NOx 546294-01",
+        "displayName": "Dyson Purifier Hot + Cool HP2 De-NOx 546294-01",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-490e691de8509d",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h7a/h82/333989511823390.jpg"
+  },
+  {
+    "id": "product-77826bd9b916a1",
+    "name": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "277440",
+        "name": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
+        "salePrice": 599.98,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h32/hbe/502720337346590.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Dyson-V8-Cyclone-Cordless-Vacuum-626406-01/p/277440",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
+        "displayName": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-77826bd9b916a1",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h32/hbe/502720337346590.jpg"
+  },
+  {
+    "id": "product-fea99608396259",
+    "name": "EL TORA",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/el-tora-tortilla-strips-white-corn-230g-000000000000526266",
+        "name": "EL TORA",
+        "salePrice": 1.43,
+        "pricePerUnit": 14.3,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/79a57017-d838-48db-9b90-15401cfb5241/Tortilla%20Strips%20White%20Corn%20230g",
+        "sourceUrl": "https://www.aldi.com.au/product/el-tora-tortilla-strips-white-corn-230g-000000000000526266",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "EL TORA",
+        "displayName": "EL TORA",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-fea99608396259",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/79a57017-d838-48db-9b90-15401cfb5241/Tortilla%20Strips%20White%20Corn%20230g"
+  },
+  {
+    "id": "product-9f713b258c18af",
+    "name": "Evergrace Home Comforter King 3 Piece Set",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "1901546",
+        "name": "Evergrace Home Comforter King 3 Piece Set",
+        "salePrice": 69.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h65/h25/485501333209118.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Evergrace-Home-Comforter-King-3-Piece-Set/p/1901546",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Evergrace Home Comforter King 3 Piece Set",
+        "displayName": "Evergrace Home Comforter King 3 Piece Set",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-9f713b258c18af",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h65/h25/485501333209118.jpg"
+  },
+  {
+    "id": "product-5062d098f404a3",
+    "name": "EXPRESSI",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/expressi-irish-creme-flavoured-coffee-capsules-16-pack-000000000000368664",
+        "name": "EXPRESSI",
+        "salePrice": 0.5,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f707bed8-dec2-4274-bd6c-f0736e37fbd2/Irish%20Crme%20Flavoured%20Coffee%20Capsules%2016%20Pack",
+        "sourceUrl": "https://www.aldi.com.au/product/expressi-irish-creme-flavoured-coffee-capsules-16-pack-000000000000368664",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "EXPRESSI",
+        "displayName": "EXPRESSI",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-5062d098f404a3",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f707bed8-dec2-4274-bd6c-f0736e37fbd2/Irish%20Crme%20Flavoured%20Coffee%20Capsules%2016%20Pack"
+  },
+  {
+    "id": "product-37ac4685fc64f2",
+    "name": "FOOD ENVY",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/food-envy-protein-pancakes-160g-000000000000543414",
+        "name": "FOOD ENVY",
+        "salePrice": 2.49,
+        "pricePerUnit": 24.9,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/850c6ca5-2ed1-4b8b-8cf3-d9edc7d773b8/Protein%20Pancakes%20160g",
+        "sourceUrl": "https://www.aldi.com.au/product/food-envy-protein-pancakes-160g-000000000000543414",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "FOOD ENVY",
+        "displayName": "FOOD ENVY",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-37ac4685fc64f2",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/food-envy-mousse-with-biscoff-spread-2-pack-90g-000000000000560180",
+        "name": "FOOD ENVY",
+        "salePrice": 2.77,
+        "pricePerUnit": 27.7,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/33a266a1-d6e4-49bc-9f82-167f5cc67a8c/Mousse%20with%20Biscoff%20Spread%202%20Pack%2090g",
+        "sourceUrl": "https://www.aldi.com.au/product/food-envy-mousse-with-biscoff-spread-2-pack-90g-000000000000560180",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "FOOD ENVY",
+        "displayName": "FOOD ENVY",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-37ac4685fc64f2",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/850c6ca5-2ed1-4b8b-8cf3-d9edc7d773b8/Protein%20Pancakes%20160g"
+  },
+  {
+    "id": "product-2bab88c9f96acf",
+    "name": "Hisense 145L Hybrid Chest Freezer HRCF146",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "195863",
+        "name": "Hisense 145L Hybrid Chest Freezer HRCF146",
+        "salePrice": 389.99,
+        "quantity": 145,
+        "unit": "l",
+        "pricePerUnit": 2.69,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h1a/hbc/242919061323806.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Freezers/Hisense-145L-Hybrid-Chest-Freezer-HRCF146/p/195863",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Hisense 145L Hybrid Chest Freezer HRCF146",
+        "displayName": "Hisense 145L Hybrid Chest Freezer HRCF146",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-2bab88c9f96acf",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h1a/hbc/242919061323806.jpg"
+  },
+  {
+    "id": "product-ae5a7f9ae503a5",
+    "name": "Hisense 240L Vertical Hybrid Fridge/Freezer HRVF240",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "167395",
+        "name": "Hisense 240L Vertical Hybrid Fridge/Freezer HRVF240",
+        "salePrice": 799.99,
+        "quantity": 240,
+        "unit": "l",
+        "pricePerUnit": 3.33,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/ha6/h8f/225367606886430.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/Hisense-240L-Vertical-Hybrid-FridgeFreezer-HRVF240/p/167395",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Hisense 240L Vertical Hybrid Fridge/Freezer HRVF240",
+        "displayName": "Hisense 240L Vertical Hybrid Fridge/Freezer HRVF240",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-ae5a7f9ae503a5",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/ha6/h8f/225367606886430.jpg"
+  },
+  {
+    "id": "product-59662bfbbedeb2",
+    "name": "Hisense 326L Top Mount Fridge Silver HRTF325S",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "204700",
+        "name": "Hisense 326L Top Mount Fridge Silver HRTF325S",
+        "salePrice": 749.99,
+        "quantity": 326,
+        "unit": "l",
+        "pricePerUnit": 2.3,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he4/hc9/279734997286942.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Hisense-326L-Top-Mount-Fridge-Silver-HRTF325S/p/204700",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Hisense 326L Top Mount Fridge Silver HRTF325S",
+        "displayName": "Hisense 326L Top Mount Fridge Silver HRTF325S",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-59662bfbbedeb2",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he4/hc9/279734997286942.jpg"
+  },
+  {
+    "id": "product-ecb51080a919b0",
+    "name": "Hisense 424L Top Mount Refrigerator HRTF424S",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "177526",
+        "name": "Hisense 424L Top Mount Refrigerator HRTF424S",
+        "salePrice": 879.99,
+        "quantity": 424,
+        "unit": "l",
+        "pricePerUnit": 2.08,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h93/hb3/187205429133342.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/Hisense-424L-Top-Mount-Refrigerator-HRTF424S/p/177526",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Hisense 424L Top Mount Refrigerator HRTF424S",
+        "displayName": "Hisense 424L Top Mount Refrigerator HRTF424S",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-ecb51080a919b0",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h93/hb3/187205429133342.jpg"
+  },
+  {
+    "id": "product-9377747bee2743",
+    "name": "Hisense 632L Side By Side Fridge Black HRSBS633BW",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "246603",
+        "name": "Hisense 632L Side By Side Fridge Black HRSBS633BW",
+        "salePrice": 1699.98,
+        "quantity": 632,
+        "unit": "l",
+        "pricePerUnit": 2.69,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h2f/h72/454907421327390.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Hisense-632L-Side-By-Side-Fridge-Black-HRSBS633BW/p/246603",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Hisense 632L Side By Side Fridge Black HRSBS633BW",
+        "displayName": "Hisense 632L Side By Side Fridge Black HRSBS633BW",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-9377747bee2743",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h2f/h72/454907421327390.jpg"
+  },
+  {
+    "id": "product-b45fc05a545dfe",
+    "name": "Honest To Goodness Organic Barley Grass 1kg",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "205717",
+        "name": "Honest To Goodness Organic Barley Grass 1kg",
+        "salePrice": 59.99,
+        "quantity": 1,
+        "unit": "kg",
+        "pricePerUnit": 45,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hc4/h7f/332274173116446.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Honest-To-Goodness-Organic-Barley-Grass-1kg/p/205717",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Honest To Goodness Organic Barley Grass 1kg",
+        "displayName": "Honest To Goodness Organic Barley Grass 1kg",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-b45fc05a545dfe",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hc4/h7f/332274173116446.jpg"
+  },
+  {
+    "id": "product-6faec88552406f",
+    "name": "Hotel Grand Cluster Gel Fibre Pillow 2 Pack",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "251028",
+        "name": "Hotel Grand Cluster Gel Fibre Pillow 2 Pack",
+        "salePrice": 44.99,
+        "quantity": 2,
+        "unit": "pcs",
+        "pricePerUnit": 22.5,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h53/ha9/466196099203102.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Hotel-Grand-Cluster-Gel-Fibre-Pillow-2-Pack/p/251028",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Hotel Grand Cluster Gel Fibre Pillow 2 Pack",
+        "displayName": "Hotel Grand Cluster Gel Fibre Pillow 2 Pack",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-6faec88552406f",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h53/ha9/466196099203102.jpg"
+  },
+  {
+    "id": "product-dee325d469b1e8",
+    "name": "IMPERIAL GRAIN",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/imperial-grain-sweet-chilli-lime-rice-pouch-250g-000000000000474656",
+        "name": "IMPERIAL GRAIN",
+        "salePrice": 0.68,
+        "pricePerUnit": 6.8,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/86bab045-ad56-47b2-b6fb-a1b4ad246ef4/Sweet%20Chilli%20%20Lime%20Rice%20Pouch%20250g",
+        "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-sweet-chilli-lime-rice-pouch-250g-000000000000474656",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "IMPERIAL GRAIN",
+        "displayName": "IMPERIAL GRAIN",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-dee325d469b1e8",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/86bab045-ad56-47b2-b6fb-a1b4ad246ef4/Sweet%20Chilli%20%20Lime%20Rice%20Pouch%20250g"
+  },
+  {
+    "id": "product-9a4e1a45d1e3f8",
+    "name": "Incontro Sports Compact 3 Wheel Golf Push Cart",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "1762127",
+        "name": "Incontro Sports Compact 3 Wheel Golf Push Cart",
+        "salePrice": 219.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h1c/hab/400698551664670.jpg",
+        "sourceUrl": "https://www.costco.com.au/Sports-Fitness/Outdoor-Sports/Golf/Incontro-Sports-Compact-3-Wheel-Golf-Push-Cart/p/1762127",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Incontro Sports Compact 3 Wheel Golf Push Cart",
+        "displayName": "Incontro Sports Compact 3 Wheel Golf Push Cart",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-9a4e1a45d1e3f8",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h1c/hab/400698551664670.jpg"
+  },
+  {
+    "id": "product-aabf286d3aabdd",
+    "name": "IRONBARK PORK",
+    "category": "Meat",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-leg-roast-boneless-000000000000399756",
+        "name": "IRONBARK PORK",
+        "salePrice": 7.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/2082ff8f-624e-49a3-9549-a7c2e7eda0b6/Pork%20Leg%20Roast%20Boneless",
+        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-leg-roast-boneless-000000000000399756",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "IRONBARK PORK",
+        "displayName": "IRONBARK PORK",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-aabf286d3aabdd",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
+        "name": "IRONBARK PORK",
+        "salePrice": 13.49,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c9eb0b80-61e4-424b-9374-b6d9e9eb6c6f/Pork%20Scotch%20Fillet%20Roast",
+        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "IRONBARK PORK",
+        "displayName": "IRONBARK PORK",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-aabf286d3aabdd",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-steak-000000000000479821",
+        "name": "IRONBARK PORK",
+        "salePrice": 15.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/1d43747c-94d1-4e26-ac97-a98a9e48297f/Pork%20Scotch%20Fillet%20Steak",
+        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-steak-000000000000479821",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "IRONBARK PORK",
+        "displayName": "IRONBARK PORK",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-aabf286d3aabdd",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/2082ff8f-624e-49a3-9549-a7c2e7eda0b6/Pork%20Leg%20Roast%20Boneless"
+  },
+  {
+    "id": "product-4c13de8cce2743",
+    "name": "JINDURRA STATION",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/jindurra-station-beef-chuck-casserole-000000000000401302",
+        "name": "JINDURRA STATION",
+        "salePrice": 16.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c32e57a1-d5ae-4f79-a1fe-553dae6f0021/Beef%20Chuck%20Casserole",
+        "sourceUrl": "https://www.aldi.com.au/product/jindurra-station-beef-chuck-casserole-000000000000401302",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "JINDURRA STATION",
+        "displayName": "JINDURRA STATION",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-4c13de8cce2743",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/jindurra-station-beef-scotch-portion-000000000000400621",
+        "name": "JINDURRA STATION",
+        "salePrice": 31.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/2a0f282f-f80d-4c90-9f3d-31c3345d4b52/Beef%20Scotch%20Portion",
+        "sourceUrl": "https://www.aldi.com.au/product/jindurra-station-beef-scotch-portion-000000000000400621",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "JINDURRA STATION",
+        "displayName": "JINDURRA STATION",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-4c13de8cce2743",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c32e57a1-d5ae-4f79-a1fe-553dae6f0021/Beef%20Chuck%20Casserole"
+  },
+  {
+    "id": "product-09053bd9215db4",
+    "name": "KAPITI",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/kapiti-marlborough-salted-caramel-ice-cream-1l-000000000000581983",
+        "name": "KAPITI",
+        "salePrice": 0.7,
+        "pricePerUnit": 7,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ce10e222-0b9f-47b3-b7d4-67292ddedc62/Marlborough%20Salted%20Caramel%20Ice%20Cream%201L",
+        "sourceUrl": "https://www.aldi.com.au/product/kapiti-marlborough-salted-caramel-ice-cream-1l-000000000000581983",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "KAPITI",
+        "displayName": "KAPITI",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-09053bd9215db4",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/kapiti-nelson-boysenberry-ice-cream-6-pack-360ml-000000000000366675",
+        "name": "KAPITI",
+        "salePrice": 1.94,
+        "pricePerUnit": 19.4,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5a7dbed4-0810-4798-8a37-aa80fd3fa413/Nelson%20Boysenberry%20Ice%20Cream%206%20Pack%20360ml",
+        "sourceUrl": "https://www.aldi.com.au/product/kapiti-nelson-boysenberry-ice-cream-6-pack-360ml-000000000000366675",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "KAPITI",
+        "displayName": "KAPITI",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-09053bd9215db4",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5a7dbed4-0810-4798-8a37-aa80fd3fa413/Nelson%20Boysenberry%20Ice%20Cream%206%20Pack%20360ml"
+  },
+  {
+    "id": "product-825b5433911cb2",
+    "name": "KILLARNEE",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/killarnee-half-lamb-leg-bone-in-000000000000400247",
+        "name": "KILLARNEE",
+        "salePrice": 14.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3eba644b-ecb5-4ab2-92ba-de86a1cb1a50/Half%20Lamb%20Leg%20Bone%20In",
+        "sourceUrl": "https://www.aldi.com.au/product/killarnee-half-lamb-leg-bone-in-000000000000400247",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "KILLARNEE",
+        "displayName": "KILLARNEE",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-825b5433911cb2",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3eba644b-ecb5-4ab2-92ba-de86a1cb1a50/Half%20Lamb%20Leg%20Bone%20In"
+  },
+  {
+    "id": "product-212d9dd63eb847",
+    "name": "Kirkland Signature 3 Ply Bath Tissue 48 x 270 Sheets",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "1170795",
+        "name": "Kirkland Signature 3 Ply Bath Tissue 48 x 270 Sheets",
+        "salePrice": 39.99,
+        "pricePerUnit": 16.4,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h21/h62/332273411227678.jpg",
+        "sourceUrl": "https://www.costco.com.au/KIRKLAND-SIGNATURE/Kirkland-Signature-3-Ply-Bath-Tissue-48-x-270-Sheets/p/1170795",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Kirkland Signature 3 Ply Bath Tissue 48 x 270 Sheets",
+        "displayName": "Kirkland Signature 3 Ply Bath Tissue 48 x 270 Sheets",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-212d9dd63eb847",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h21/h62/332273411227678.jpg"
+  },
+  {
+    "id": "product-101806263895cd",
+    "name": "Kirkland Signature American Vodka 1.75L",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "639271",
+        "name": "Kirkland Signature American Vodka 1.75L",
+        "salePrice": 109.99,
+        "quantity": 1.75,
+        "unit": "l",
+        "pricePerUnit": 57.2,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he9/hde/17572104863774.jpg",
+        "sourceUrl": "https://www.costco.com.au/Wine-Spirits/Spirits/Vodka/Kirkland-Signature-American-Vodka-175L/p/639271",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Kirkland Signature American Vodka 1.75L",
+        "displayName": "Kirkland Signature American Vodka 1.75L",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-101806263895cd",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he9/hde/17572104863774.jpg"
+  },
+  {
+    "id": "product-134faee1d473a0",
+    "name": "L’EXPRESSION",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/l-expression-pinot-gris-750ml-000000000000368102",
+        "name": "L’EXPRESSION",
+        "salePrice": 10.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/376f49f0-dc57-420a-8591-1264c83b4422/Pinot%20Gris%20750ml",
+        "sourceUrl": "https://www.aldi.com.au/product/l-expression-pinot-gris-750ml-000000000000368102",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "L’EXPRESSION",
+        "displayName": "L’EXPRESSION",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-134faee1d473a0",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/376f49f0-dc57-420a-8591-1264c83b4422/Pinot%20Gris%20750ml"
+  },
+  {
+    "id": "product-e791e33c0ff83a",
+    "name": "LES ARGELIÈRES",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/les-argelieres-pinot-noir-750ml-000000000000368903",
+        "name": "LES ARGELIÈRES",
+        "salePrice": 11.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/41da4ebe-bbbe-4522-9712-501341f5a809/Pinot%20Noir%20750ml",
+        "sourceUrl": "https://www.aldi.com.au/product/les-argelieres-pinot-noir-750ml-000000000000368903",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "LES ARGELIÈRES",
+        "displayName": "LES ARGELIÈRES",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-e791e33c0ff83a",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/41da4ebe-bbbe-4522-9712-501341f5a809/Pinot%20Noir%20750ml"
+  },
+  {
+    "id": "product-e5621e05160727",
+    "name": "LG 14 Place Quad Wash Dishwasher XD5B14WH",
+    "category": "Household",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "218510",
+        "name": "LG 14 Place Quad Wash Dishwasher XD5B14WH",
+        "salePrice": 899.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hc4/h6a/333749195997214.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/LG-14-Place-Quad-Wash-Dishwasher-XD5B14WH/p/218510",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "LG 14 Place Quad Wash Dishwasher XD5B14WH",
+        "displayName": "LG 14 Place Quad Wash Dishwasher XD5B14WH",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-e5621e05160727",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hc4/h6a/333749195997214.jpg"
+  },
+  {
+    "id": "product-6ea27de7e1dfde",
+    "name": "LG 355L Bottom Mount Fridge GB-B300MWH",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "218549",
+        "name": "LG 355L Bottom Mount Fridge GB-B300MWH",
+        "salePrice": 999.99,
+        "quantity": 355,
+        "unit": "l",
+        "pricePerUnit": 2.82,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h1f/hc2/332253939662878.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/LG-355L-Bottom-Mount-Fridge-GB-B300MWH/p/218549",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "LG 355L Bottom Mount Fridge GB-B300MWH",
+        "displayName": "LG 355L Bottom Mount Fridge GB-B300MWH",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-6ea27de7e1dfde",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h1f/hc2/332253939662878.jpg"
+  },
+  {
+    "id": "product-86d98066ea2cef",
+    "name": "LG 375L Top Mount Fridge GT-5S",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "237040",
+        "name": "LG 375L Top Mount Fridge GT-5S",
+        "salePrice": 929.98,
+        "quantity": 375,
+        "unit": "l",
+        "pricePerUnit": 2.48,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hc7/h82/379046633177118.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/LG-375L-Top-Mount-Fridge-GT-5S/p/237040",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "LG 375L Top Mount Fridge GT-5S",
+        "displayName": "LG 375L Top Mount Fridge GT-5S",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-86d98066ea2cef",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hc7/h82/379046633177118.jpg"
+  },
+  {
+    "id": "product-c873d7ed7fa11e",
+    "name": "LG 420L Bottom Mount Refrigerator GB-455MBL",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "91159",
+        "name": "LG 420L Bottom Mount Refrigerator GB-455MBL",
+        "salePrice": 1299.99,
+        "quantity": 420,
+        "unit": "l",
+        "pricePerUnit": 3.1,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he5/hc1/28050338611230.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/LG-420L-Bottom-Mount-Refrigerator-GB-455MBL/p/91159",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "LG 420L Bottom Mount Refrigerator GB-455MBL",
+        "displayName": "LG 420L Bottom Mount Refrigerator GB-455MBL",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-c873d7ed7fa11e",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he5/hc1/28050338611230.jpg"
+  },
+  {
+    "id": "product-a940f475695abc",
+    "name": "LG 506L Slim French Door Fridge With Ice And Water Dispenser Stainless Steel GF-L500PL",
+    "category": "Drinks",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "197747",
+        "name": "LG 506L Slim French Door Fridge With Ice And Water Dispenser Stainless Steel GF-L500PL",
+        "salePrice": 2399.99,
+        "quantity": 506,
+        "unit": "l",
+        "pricePerUnit": 4.74,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h2d/h66/245650828427294.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/LG-506L-Slim-French-Door-Fridge-With-Ice-And-Water-Dispenser-Stainless-Steel-GF-L500PL/p/197747",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "LG 506L Slim French Door Fridge With Ice And Water Dispenser Stainless Steel GF-L500PL",
+        "displayName": "LG 506L Slim French Door Fridge With Ice And Water Dispenser Stainless Steel GF-L500PL",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-a940f475695abc",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h2d/h66/245650828427294.jpg"
+  },
+  {
+    "id": "product-9e2a47048f2015",
+    "name": "LG 530L Slim French Door Fridge Matte Black GF-B505MBL",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "197708",
+        "name": "LG 530L Slim French Door Fridge Matte Black GF-B505MBL",
+        "salePrice": 1999.99,
+        "quantity": 530,
+        "unit": "l",
+        "pricePerUnit": 3.77,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/haa/h1e/246134424240158.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/LG-530L-Slim-French-Door-Fridge-Matte-Black-GF-B505MBL/p/197708",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "LG 530L Slim French Door Fridge Matte Black GF-B505MBL",
+        "displayName": "LG 530L Slim French Door Fridge Matte Black GF-B505MBL",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-9e2a47048f2015",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/haa/h1e/246134424240158.jpg"
+  },
+  {
+    "id": "product-83c8ad5c270387",
+    "name": "LG 530L Slim French Door Fridge Stainless Steel GF-B505PL",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "197745",
+        "name": "LG 530L Slim French Door Fridge Stainless Steel GF-B505PL",
+        "salePrice": 1949.99,
+        "quantity": 530,
+        "unit": "l",
+        "pricePerUnit": 3.68,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/ha8/hcd/245650822201374.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/LG-530L-Slim-French-Door-Fridge-Stainless-Steel-GF-B505PL/p/197745",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "LG 530L Slim French Door Fridge Stainless Steel GF-B505PL",
+        "displayName": "LG 530L Slim French Door Fridge Stainless Steel GF-B505PL",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-83c8ad5c270387",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/ha8/hcd/245650822201374.jpg"
+  },
+  {
+    "id": "product-faeee97b7d3feb",
+    "name": "MCGUIGAN",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/mcguigan-black-label-red-1l-000000000000529284",
+        "name": "MCGUIGAN",
+        "salePrice": 8.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/4f19070e-a1fc-45cb-a3a8-b02522f4d835/Black%20Label%20Red%201L",
+        "sourceUrl": "https://www.aldi.com.au/product/mcguigan-black-label-red-1l-000000000000529284",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "MCGUIGAN",
+        "displayName": "MCGUIGAN",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-faeee97b7d3feb",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/4f19070e-a1fc-45cb-a3a8-b02522f4d835/Black%20Label%20Red%201L"
+  },
+  {
+    "id": "product-bf21e62178f5ef",
+    "name": "Oral-B Floss Action Clean Electric Toothbrush Refills 20 pack",
+    "category": "Household",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "231970",
+        "name": "Oral-B Floss Action Clean Electric Toothbrush Refills 20 pack",
+        "salePrice": 89.99,
+        "quantity": 20,
+        "unit": "pcs",
+        "pricePerUnit": 3.5,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h56/h2c/383149319651358.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Oral-B-Floss-Action-Clean-Electric-Toothbrush-Refills-20-pack/p/231970",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Oral-B Floss Action Clean Electric Toothbrush Refills 20 pack",
+        "displayName": "Oral-B Floss Action Clean Electric Toothbrush Refills 20 pack",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-bf21e62178f5ef",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h56/h2c/383149319651358.jpg"
+  },
+  {
+    "id": "product-791c54be5688f4",
+    "name": "PC PETITE CUISINE",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/pc-petite-cuisine-crumbed-pork-schnitzels-440g-000000000000634900",
+        "name": "PC PETITE CUISINE",
+        "salePrice": 22.7,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/a145198a-d282-4c3a-b77e-a3b3ce88f0a8/Crumbed%20Pork%20Schnitzels%20440g",
+        "sourceUrl": "https://www.aldi.com.au/product/pc-petite-cuisine-crumbed-pork-schnitzels-440g-000000000000634900",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "PC PETITE CUISINE",
+        "displayName": "PC PETITE CUISINE",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-791c54be5688f4",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/a145198a-d282-4c3a-b77e-a3b3ce88f0a8/Crumbed%20Pork%20Schnitzels%20440g"
+  },
+  {
+    "id": "product-deba8e15e0f30d",
+    "name": "Philips Sonicare 3100 Range Black And White Bundle Pack Toothbrush",
+    "category": "Bakery",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "131602",
+        "name": "Philips Sonicare 3100 Range Black And White Bundle Pack Toothbrush",
+        "salePrice": 149.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h40/he6/105047453499422.jpg",
+        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Personal-Care/Oral-Care/Philips-Sonicare-3100-Range-Black-And-White-Bundle-Pack-Toothbrush/p/131602",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Philips Sonicare 3100 Range Black And White Bundle Pack Toothbrush",
+        "displayName": "Philips Sonicare 3100 Range Black And White Bundle Pack Toothbrush",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-deba8e15e0f30d",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h40/he6/105047453499422.jpg"
+  },
+  {
+    "id": "product-a611178a0bf552",
+    "name": "Philips Sonicare W2 Optimal Standard Brush Heads 8 Pack",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "229499",
+        "name": "Philips Sonicare W2 Optimal Standard Brush Heads 8 Pack",
+        "salePrice": 69.99,
+        "quantity": 8,
+        "unit": "pcs",
+        "pricePerUnit": 8.75,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/ha1/h9d/361217735917598.jpg",
+        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Personal-Care/Oral-Care/Philips-Sonicare-W2-Optimal-Standard-Brush-Heads-8-Pack/p/229499",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Philips Sonicare W2 Optimal Standard Brush Heads 8 Pack",
+        "displayName": "Philips Sonicare W2 Optimal Standard Brush Heads 8 Pack",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-a611178a0bf552",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/ha1/h9d/361217735917598.jpg"
+  },
+  {
+    "id": "product-5c7a7ed4387f1c",
+    "name": "Pisti Pistachio Cream Spread 6x600g",
+    "category": "Dairy & Eggs",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "132481",
+        "name": "Pisti Pistachio Cream Spread 6x600g",
+        "salePrice": 109.99,
+        "quantity": 3600,
+        "unit": "g",
+        "pricePerUnit": 16.4,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hd3/hbf/316412343877662.jpg",
+        "sourceUrl": "https://www.costco.com.au/Grocery-Household/Pisti-Pistachio-Cream-Spread-6x600g/p/132481",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Pisti Pistachio Cream Spread 6x600g",
+        "displayName": "Pisti Pistachio Cream Spread 6x600g",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-5c7a7ed4387f1c",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd3/hbf/316412343877662.jpg"
+  },
+  {
+    "id": "product-0ba204545fa3a3",
+    "name": "READY, SET…COOK!",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/ready-set-cook-prosciutto-wrapped-rspca-approved-chicken-breast-parmigiana-2-pack-500g-000000000000403361",
+        "name": "READY, SET…COOK!",
+        "salePrice": 17.98,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6b1a9886-6d04-4ab9-975c-aa1b4e8bba40/Prosciutto%20Wrapped%20RSPCA%20Approved%20Chicken%20Breast%20Parmigiana%202%20Pack%20500g",
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-prosciutto-wrapped-rspca-approved-chicken-breast-parmigiana-2-pack-500g-000000000000403361",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "displayName": "READY, SET…COOK!",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-0ba204545fa3a3",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/ready-set-cook-sweet-sour-pork-meal-kit-800g-000000000000602725",
+        "name": "READY, SET…COOK!",
+        "salePrice": 18.74,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/8cdd3b62-20f0-43c6-83cd-e2e268a7c674/Sweet%20%20Sour%20Pork%20Meal%20Kit%20800g",
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-sweet-sour-pork-meal-kit-800g-000000000000602725",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "displayName": "READY, SET…COOK!",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-0ba204545fa3a3",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/ready-set-cook-beef-nasi-goreng-825g-000000000000584331",
+        "name": "READY, SET…COOK!",
+        "salePrice": 19.38,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/2eebd500-f0b9-4e3b-b163-b4532c384f49/Beef%20Nasi%20Goreng%20825g",
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-beef-nasi-goreng-825g-000000000000584331",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "displayName": "READY, SET…COOK!",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-0ba204545fa3a3",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/ready-set-cook-pork-cordon-bleu-480g-4-pack-000000000000590581",
+        "name": "READY, SET…COOK!",
+        "salePrice": 20.81,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/18be35d3-2217-44b2-a53f-bf364e1c597c/Pork%20Cordon%20Bleu%20480g%204%20Pack",
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-pork-cordon-bleu-480g-4-pack-000000000000590581",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "displayName": "READY, SET…COOK!",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-0ba204545fa3a3",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/ready-set-cook-chicken-tikka-pita-kit-680g-000000000000548320",
+        "name": "READY, SET…COOK!",
+        "salePrice": 22.04,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/54acbe43-e42b-463f-8304-454ce24f303c/Chicken%20Tikka%20Pita%20Kit%20680g",
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-chicken-tikka-pita-kit-680g-000000000000548320",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "displayName": "READY, SET…COOK!",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-0ba204545fa3a3",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/ready-set-cook-beef-peppered-steak-300g-000000000000677066",
+        "name": "READY, SET…COOK!",
+        "salePrice": 24.97,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/59c1b103-cab7-43f2-8577-ac08c9d5eb52/Beef%20Peppered%20Steak%20300g",
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-beef-peppered-steak-300g-000000000000677066",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "displayName": "READY, SET…COOK!",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-0ba204545fa3a3",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6b1a9886-6d04-4ab9-975c-aa1b4e8bba40/Prosciutto%20Wrapped%20RSPCA%20Approved%20Chicken%20Breast%20Parmigiana%202%20Pack%20500g"
+  },
+  {
+    "id": "product-b178547d6bb167",
+    "name": "Ricardo The Rock Reversible Raclette Party Grill",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "215645",
+        "name": "Ricardo The Rock Reversible Raclette Party Grill",
+        "salePrice": 129.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h54/h94/455949414858782.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Ricardo-The-Rock-Reversible-Raclette-Party-Grill/p/215645",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Ricardo The Rock Reversible Raclette Party Grill",
+        "displayName": "Ricardo The Rock Reversible Raclette Party Grill",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-b178547d6bb167",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h54/h94/455949414858782.jpg"
+  },
+  {
+    "id": "product-e39344036745ea",
+    "name": "Roborock Qrevo Curv2 Flow PR-QC2F02-03-WHT",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "248031",
+        "name": "Roborock Qrevo Curv2 Flow PR-QC2F02-03-WHT",
+        "salePrice": 2299.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h0f/h26/400041826943006.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Roborock-Qrevo-Curv2-Flow-PR-QC2F02-03-WHT/p/248031",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Roborock Qrevo Curv2 Flow PR-QC2F02-03-WHT",
+        "displayName": "Roborock Qrevo Curv2 Flow PR-QC2F02-03-WHT",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-e39344036745ea",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h0f/h26/400041826943006.jpg"
+  },
+  {
+    "id": "product-7e17d64ac278e8",
+    "name": "Roborock Qrevo Edge C RR-QREC02-03-WHT",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "244942",
+        "name": "Roborock Qrevo Edge C RR-QREC02-03-WHT",
+        "salePrice": 1799.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h29/hc0/399936167542814.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Roborock-Qrevo-Edge-C-RR-QREC02-03-WHT/p/244942",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Roborock Qrevo Edge C RR-QREC02-03-WHT",
+        "displayName": "Roborock Qrevo Edge C RR-QREC02-03-WHT",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-7e17d64ac278e8",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h29/hc0/399936167542814.jpg"
+  },
+  {
+    "id": "product-d00f8fb9b6e535",
+    "name": "Samsung 12kg Top Load Washer White WA12A8376GW",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "197294",
+        "name": "Samsung 12kg Top Load Washer White WA12A8376GW",
+        "salePrice": 1149.98,
+        "quantity": 12,
+        "unit": "kg",
+        "pricePerUnit": 95.83,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hb9/ha3/256063035113502.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Washers-Dryers/Washing-Machines/Samsung-12kg-Top-Load-Washer-White-WA12A8376GW/p/197294",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Samsung 12kg Top Load Washer White WA12A8376GW",
+        "displayName": "Samsung 12kg Top Load Washer White WA12A8376GW",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-d00f8fb9b6e535",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb9/ha3/256063035113502.jpg"
+  },
+  {
+    "id": "product-0a64154771992b",
+    "name": "Samsung 14kg Top Load Washer Black WA14A8377GV",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "188150",
+        "name": "Samsung 14kg Top Load Washer Black WA14A8377GV",
+        "salePrice": 1299.99,
+        "quantity": 14,
+        "unit": "kg",
+        "pricePerUnit": 92.86,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h94/h7c/238595203661854.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Washers-Dryers/Washing-Machines/Samsung-14kg-Top-Load-Washer-Black-WA14A8377GV/p/188150",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Samsung 14kg Top Load Washer Black WA14A8377GV",
+        "displayName": "Samsung 14kg Top Load Washer Black WA14A8377GV",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-0a64154771992b",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h94/h7c/238595203661854.jpg"
+  },
+  {
+    "id": "product-9167f3cdcefb07",
+    "name": "Samsung 427L Bottom Mount Fridge Black SRL4200B",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "216451",
+        "name": "Samsung 427L Bottom Mount Fridge Black SRL4200B",
+        "salePrice": 1299.99,
+        "quantity": 427,
+        "unit": "l",
+        "pricePerUnit": 3.04,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h64/h2f/315379949142046.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Samsung-427L-Bottom-Mount-Fridge-Black-SRL4200B/p/216451",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Samsung 427L Bottom Mount Fridge Black SRL4200B",
+        "displayName": "Samsung 427L Bottom Mount Fridge Black SRL4200B",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-9167f3cdcefb07",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h64/h2f/315379949142046.jpg"
+  },
+  {
+    "id": "product-a03daa3fea8338",
+    "name": "Samsung 640L Family Hub French Door Fridge Black SRF7900BFH",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "134705",
+        "name": "Samsung 640L Family Hub French Door Fridge Black SRF7900BFH",
+        "salePrice": 3849.99,
+        "quantity": 640,
+        "unit": "l",
+        "pricePerUnit": 6.02,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h9e/hc3/103747428941854.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/Samsung-640L-Family-Hub-French-Door-Fridge-Black-SRF7900BFH/p/134705",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Samsung 640L Family Hub French Door Fridge Black SRF7900BFH",
+        "displayName": "Samsung 640L Family Hub French Door Fridge Black SRF7900BFH",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-a03daa3fea8338",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h9e/hc3/103747428941854.jpg"
+  },
+  {
+    "id": "product-9502826c771aa7",
+    "name": "Samsung 9kg Top Load Washing Machine SS White WA90CG6745BW",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "197290",
+        "name": "Samsung 9kg Top Load Washing Machine SS White WA90CG6745BW",
+        "salePrice": 899.99,
+        "quantity": 9,
+        "unit": "kg",
+        "pricePerUnit": 100,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hf4/hc7/256783664644126.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Samsung-9kg-Top-Load-Washing-Machine-SS-White-WA90CG6745BW/p/197290",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Samsung 9kg Top Load Washing Machine SS White WA90CG6745BW",
+        "displayName": "Samsung 9kg Top Load Washing Machine SS White WA90CG6745BW",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-9502826c771aa7",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf4/hc7/256783664644126.jpg"
+  },
+  {
+    "id": "product-321483a3886aa6",
+    "name": "Samsung Bespoke 9kg Heat Pump Dryer DV90BB9440GH",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "224305",
+        "name": "Samsung Bespoke 9kg Heat Pump Dryer DV90BB9440GH",
+        "salePrice": 1699.98,
+        "quantity": 9,
+        "unit": "kg",
+        "pricePerUnit": 188.89,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he2/ha9/383170274263070.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Samsung-Bespoke-9kg-Heat-Pump-Dryer-DV90BB9440GH/p/224305",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Samsung Bespoke 9kg Heat Pump Dryer DV90BB9440GH",
+        "displayName": "Samsung Bespoke 9kg Heat Pump Dryer DV90BB9440GH",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-321483a3886aa6",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he2/ha9/383170274263070.jpg"
+  },
+  {
+    "id": "product-30fd3486943d84",
+    "name": "SCHNITS FINE FOODS",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/schnits-fine-foods-herb-garlic-rspca-approved-chicken-burgers-4pk-600g-000000000000760408",
+        "name": "SCHNITS FINE FOODS",
+        "salePrice": 19.98,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/4b27b51f-c96e-4164-871b-b7fd8351e1b2/Herb%20%20Garlic%20RSPCA%20Approved%20Chicken%20Burgers%204pk%20600g",
+        "sourceUrl": "https://www.aldi.com.au/product/schnits-fine-foods-herb-garlic-rspca-approved-chicken-burgers-4pk-600g-000000000000760408",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "SCHNITS FINE FOODS",
+        "displayName": "SCHNITS FINE FOODS",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-30fd3486943d84",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/4b27b51f-c96e-4164-871b-b7fd8351e1b2/Herb%20%20Garlic%20RSPCA%20Approved%20Chicken%20Burgers%204pk%20600g"
+  },
+  {
+    "id": "product-25761bbac66a5d",
+    "name": "STEGGLES",
+    "category": "Dairy & Eggs",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/steggles-chicken-breast-schnitzel-panko-quinoa-crumb-4-pack-600g-000000000000401221",
+        "name": "STEGGLES",
+        "salePrice": 14.98,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/839ad8a6-3659-4347-a000-572c3a8417f1/Chicken%20Breast%20Schnitzel%20Panko%20%20Quinoa%20Crumb%204%20Pack%20600g",
+        "sourceUrl": "https://www.aldi.com.au/product/steggles-chicken-breast-schnitzel-panko-quinoa-crumb-4-pack-600g-000000000000401221",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "STEGGLES",
+        "displayName": "STEGGLES",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-25761bbac66a5d",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/839ad8a6-3659-4347-a000-572c3a8417f1/Chicken%20Breast%20Schnitzel%20Panko%20%20Quinoa%20Crumb%204%20Pack%20600g"
+  },
+  {
+    "id": "product-71de671521cfab",
+    "name": "TAVERNELLO",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/tavernello-organic-sangiovese-2023-000000000000368021",
+        "name": "TAVERNELLO",
+        "salePrice": 8.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5304be62-31cf-4f93-96fa-810ec506b787/Organic%20Sangiovese%202023",
+        "sourceUrl": "https://www.aldi.com.au/product/tavernello-organic-sangiovese-2023-000000000000368021",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "TAVERNELLO",
+        "displayName": "TAVERNELLO",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-71de671521cfab",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5304be62-31cf-4f93-96fa-810ec506b787/Organic%20Sangiovese%202023"
+  },
+  {
+    "id": "product-14c6572d6be944",
+    "name": "THE FISHMONGER",
+    "category": "Fish & Seafood",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/the-fishmonger-garlic-prawns-280g-000000000000482114",
+        "name": "THE FISHMONGER",
+        "salePrice": 26.75,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/b44f9eeb-18f9-4750-9182-077253e9dca0/Garlic%20Prawns%20280g",
+        "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-garlic-prawns-280g-000000000000482114",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "THE FISHMONGER",
+        "displayName": "THE FISHMONGER",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-14c6572d6be944",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/the-fishmonger-fresh-tasmanian-salmon-fillets-skin-on-4-pack-460g-000000000000405629",
+        "name": "THE FISHMONGER",
+        "salePrice": 32.59,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/39ae0862-7694-47e6-9772-c35f4e67d2aa/Fresh%20Tasmanian%20Salmon%20Fillets%20Skin%20On%204%20Pack%20460g",
+        "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-fresh-tasmanian-salmon-fillets-skin-on-4-pack-460g-000000000000405629",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "THE FISHMONGER",
+        "displayName": "THE FISHMONGER",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-14c6572d6be944",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/39ae0862-7694-47e6-9772-c35f4e67d2aa/Fresh%20Tasmanian%20Salmon%20Fillets%20Skin%20On%204%20Pack%20460g"
+  },
+  {
+    "id": "product-f996ffdc98dd34",
+    "name": "ThermoFlask Stainless Steel Bottles 950ml x 2 Pack",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "1901817",
+        "name": "ThermoFlask Stainless Steel Bottles 950ml x 2 Pack",
+        "salePrice": 44.99,
+        "quantity": 950,
+        "unit": "ml",
+        "pricePerUnit": 47.36,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h70/ha7/472552807530526.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/ThermoFlask-Stainless-Steel-Bottles-950ml-x-2-Pack/p/1901817",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "ThermoFlask Stainless Steel Bottles 950ml x 2 Pack",
+        "displayName": "ThermoFlask Stainless Steel Bottles 950ml x 2 Pack",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-f996ffdc98dd34",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h70/ha7/472552807530526.jpg"
+  },
+  {
+    "id": "product-1c53ef779938ff",
+    "name": "Waterpik Ultra And Cordless Plus Waterflosser Pack",
+    "category": "Drinks",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "138464",
+        "name": "Waterpik Ultra And Cordless Plus Waterflosser Pack",
+        "salePrice": 149.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hba/h1c/140304854679582.jpg",
+        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Personal-Care/Oral-Care/Waterpik-Ultra-And-Cordless-Plus-Waterflosser-Pack/p/138464",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Waterpik Ultra And Cordless Plus Waterflosser Pack",
+        "displayName": "Waterpik Ultra And Cordless Plus Waterflosser Pack",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-1c53ef779938ff",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hba/h1c/140304854679582.jpg"
+  },
+  {
+    "id": "product-9837f846eefee7",
+    "name": "YMF Memory Foam Bath Mat 60 cm x 91 cm",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "1796329",
+        "name": "YMF Memory Foam Bath Mat 60 cm x 91 cm",
+        "salePrice": 34.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/products/hc2/hbd/466246114344990.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/YMF-Memory-Foam-Bath-Mat-60-cm-x-91-cm/p/1796329",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "YMF Memory Foam Bath Mat 60 cm x 91 cm",
+        "displayName": "YMF Memory Foam Bath Mat 60 cm x 91 cm",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-9837f846eefee7",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/products/hc2/hbd/466246114344990.jpg"
+  }
+]
