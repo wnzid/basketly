@@ -10,6 +10,16 @@ export interface BrowserCapture {
   finalUrl: string;
 }
 
+function proxyConfig() {
+  const server = process.env.BASKETLY_PROXY_SERVER?.trim();
+  if (!server) return undefined;
+  return {
+    server,
+    username: process.env.BASKETLY_PROXY_USERNAME?.trim() || undefined,
+    password: process.env.BASKETLY_PROXY_PASSWORD || undefined,
+  };
+}
+
 async function settle(page: Page, waitMs = 2500) {
   await page.waitForLoadState("domcontentloaded").catch(() => undefined);
   await page.waitForLoadState("networkidle", { timeout: 10000 }).catch(() => undefined);
@@ -17,7 +27,7 @@ async function settle(page: Page, waitMs = 2500) {
 }
 
 export async function withBrowser<T>(run: (context: BrowserContext) => Promise<T>): Promise<T> {
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch({ headless: true, proxy: proxyConfig() });
   try {
     const context = await browser.newContext({
       locale: "en-AU",

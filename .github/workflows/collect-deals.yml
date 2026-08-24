@@ -27,7 +27,13 @@ jobs:
           key: playwright-${{ runner.os }}-${{ hashFiles('package.json') }}
       - name: Install Chromium
         run: npx playwright install --with-deps chromium
-      - run: npm run collect
+      - name: Collect offers
+        run: npm run collect
+        env:
+          BASKETLY_PROXY_SERVER: ${{ secrets.BASKETLY_PROXY_SERVER }}
+          BASKETLY_PROXY_USERNAME: ${{ secrets.BASKETLY_PROXY_USERNAME }}
+          BASKETLY_PROXY_PASSWORD: ${{ secrets.BASKETLY_PROXY_PASSWORD }}
+          COLES_BUILD_ID: ${{ secrets.COLES_BUILD_ID }}
       - name: Commit meaningful data changes
         id: changes
         run: |

@@ -9,6 +9,7 @@ import { capturePage, withBrowser } from "./browser.js";
 const BASE = "https://www.coles.com.au";
 const IMAGE_BASE = "https://cdn.productimages.coles.com.au/productimages";
 const SPECIAL_PROMOS = new Set(["SPECIAL", "DOWN", "MULTIBUY", "PERCENT_OFF"]);
+const PAGE_SIZE = 48;
 
 type AnyRecord = Record<string, any>;
 
@@ -26,8 +27,11 @@ function discoverBuildId(html: string): string | undefined {
 
 function collectProductRows(value: unknown): AnyRecord[] {
   const rows: AnyRecord[] = [];
+  const visited = new Set<object>();
   const visit = (item: unknown) => {
     if (!item || typeof item !== "object") return;
+    if (visited.has(item as object)) return;
+    visited.add(item as object);
     if (Array.isArray(item)) return void item.forEach(visit);
     const row = item as AnyRecord;
     if (row.pricing && row.name && (row.id || row.productId)) rows.push(row);
@@ -37,6 +41,14 @@ function collectProductRows(value: unknown): AnyRecord[] {
   return rows;
 }
 
+function resultMeta(data: unknown) {
+  const raw = data as AnyRecord;
+  const search = raw?.pageProps?.searchResults ?? raw?.pageProps?.results ?? {};
+  const rows = Array.isArray(search?.results) ? search.results : collectProductRows(data);
+  const total = Number(search?.totalResults ?? search?.total ?? raw?.pageProps?.totalResults ?? 0);
+  return { rows, total: Number.isFinite(total) ? total : 0 };
+}
+
 function colesOffer(row: AnyRecord, sourceUrl: string): RawOffer | undefined {
   const pricing = row.pricing ?? {};
   const promotionType = String(pricing.promotionType ?? "").toUpperCase();
@@ -44,8 +56,8 @@ function colesOffer(row: AnyRecord, sourceUrl: string): RawOffer | undefined {
   if (!salePrice || salePrice <= 0) return;
   if (promotionType && !SPECIAL_PROMOS.has(promotionType)) return;
 
-  const regularPrice = asNumber(pricing.was) ??
-    (asNumber(pricing.saveAmount) ? Number((salePrice + asNumber(pricing.saveAmount)!).toFixed(2)) : undefined);
+  const saveAmount = asNumber(pricing.saveAmount);
+  const regularPrice = asNumber(pricing.was) ?? (saveAmount ? Number((salePrice + saveAmount).toFixed(2)) : undefined);
   if (!promotionType && (!regularPrice || regularPrice <= salePrice)) return;
 
   const name = [row.brand, row.name, row.size].filter(Boolean).join(" ").replace(/\s+/g, " ").trim();
@@ -86,84 +98,97 @@ function colesOffer(row: AnyRecord, sourceUrl: string): RawOffer | undefined {
 
 async function getBuildId(): Promise<string> {
   if (process.env.COLES_BUILD_ID) return process.env.COLES_BUILD_ID;
-  for (const url of [BASE, `${BASE}/on-special`]) {
+  for (const url of [BASE, `${BASE}/search/products?q=milk`, `${BASE}/on-special`]) {
     try {
-      const id = discoverBuildId(await fetchText(url, { headers: { cookie: `shoppingStore=${STORE_TARGETS.coles.retailerStoreId ?? "7612"}` } }));
+      const html = await fetchText(url, {
+        headers: { cookie: `shoppingStore=${STORE_TARGETS.coles.retailerStoreId ?? "7612"}` },
+      });
+      const id = discoverBuildId(html);
       if (id) return id;
     } catch {
-      // GitHub runners can normally read at least one Coles HTML entry point.
+      // Try the next public entry point.
     }
   }
   throw new Error("coles: could not discover current Next.js build ID; set COLES_BUILD_ID as a temporary override");
 }
 
-async function fetchSpecialPage(buildId: string, page: number): Promise<unknown> {
-  const candidates = [
-    `${BASE}/_next/data/${encodeURIComponent(buildId)}/en/on-special.json?page=${page}`,
-    `${BASE}/_next/data/${encodeURIComponent(buildId)}/en/on-special.json?pid=on-special&page=${page}`,
+async function fetchSearchPage(buildId: string, query: string, page: number): Promise<unknown> {
+  const params = new URLSearchParams();
+  if (query) params.set("q", query);
+  if (page > 1) params.set("page", String(page));
+  const suffix = params.toString();
+  const url = `${BASE}/_next/data/${encodeURIComponent(buildId)}/en/search/products.json${suffix ? `?${suffix}` : ""}`;
+  return fetchJson(url, {
+    headers: {
+      referer: `${BASE}/search/products?${params.toString()}`,
+      cookie: `shoppingStore=${STORE_TARGETS.coles.retailerStoreId ?? "7612"}`,
+    },
+  });
+}
+
+function defaultSearchTerms() {
+  const configured = process.env.COLES_SEARCH_TERMS?.split(",").map(term => term.trim()).filter(Boolean);
+  if (configured?.length) return configured;
+  // The empty query is attempted first. These terms are only a fallback for Coles builds
+  // that require a non-empty q parameter. Unioning broad grocery terms keeps requests modest.
+  return [
+    "milk", "bread", "cheese", "yoghurt", "meat", "chicken", "beef", "pork", "fish", "fruit", "vegetable",
+    "snack", "chips", "chocolate", "biscuit", "cereal", "coffee", "tea", "drink", "water", "juice", "soft drink",
+    "pasta", "rice", "sauce", "frozen", "ice cream", "cleaning", "laundry", "toilet", "shampoo", "baby", "pet",
   ];
-  let lastError: unknown;
-  for (const url of candidates) {
-    try {
-      return await fetchJson(url, {
-        headers: {
-          referer: `${BASE}/on-special?page=${page}`,
-          cookie: `shoppingStore=${STORE_TARGETS.coles.retailerStoreId ?? "7612"}`,
-        },
-      });
-    } catch (error) {
-      lastError = error;
-    }
+}
+
+async function collectSearch(buildId: string, query: string, maxPages: number): Promise<RawOffer[]> {
+  const offers: RawOffer[] = [];
+  for (let page = 1; page <= maxPages; page += 1) {
+    const data = await fetchSearchPage(buildId, query, page);
+    const meta = resultMeta(data);
+    const pageUrl = `${BASE}/search/products?q=${encodeURIComponent(query)}${page > 1 ? `&page=${page}` : ""}`;
+    offers.push(...meta.rows.map(row => colesOffer(row, pageUrl)).filter(Boolean) as RawOffer[]);
+    if (!meta.rows.length || meta.rows.length < PAGE_SIZE) break;
+    if (meta.total && page * PAGE_SIZE >= meta.total) break;
   }
-  throw lastError instanceof Error ? lastError : new Error("Coles specials endpoint failed");
+  return offers;
 }
 
 export async function collectColes(): Promise<StoreData> {
-  const maxPages = Math.max(1, Number(process.env.COLES_MAX_PAGES ?? 160));
   const offers: RawOffer[] = [];
   let directError: unknown;
 
   try {
     const buildId = await getBuildId();
-    let emptyPages = 0;
-    for (let page = 1; page <= maxPages; page += 1) {
-      let data: unknown;
-      try {
-        data = await fetchSpecialPage(buildId, page);
-      } catch (error) {
-        if (page === 1) throw error;
-        break;
+    const maxPages = Math.max(1, Number(process.env.COLES_MAX_PAGES_PER_QUERY ?? 12));
+
+    // First try an empty search. Some Coles builds return the whole catalogue here.
+    try {
+      offers.push(...(await collectSearch(buildId, "", Math.max(maxPages, 40))));
+    } catch (error) {
+      directError = error;
+    }
+
+    // If empty-search coverage is poor, sweep a bounded set of normal product searches
+    // and keep only products whose official promotionType marks them as specials.
+    if (dedupeOffers(offers).length < Number(process.env.COLES_MIN_DIRECT_OFFERS ?? 300)) {
+      for (const term of defaultSearchTerms()) {
+        try {
+          offers.push(...(await collectSearch(buildId, term, maxPages)));
+        } catch (error) {
+          directError ??= error;
+        }
       }
-
-      const pageUrl = `${BASE}/on-special?page=${page}`;
-      const parsed = collectProductRows(data).map(row => colesOffer(row, pageUrl)).filter(Boolean) as RawOffer[];
-      offers.push(...parsed);
-      if (!parsed.length) offers.push(...parseGenericStructured(data, { store: "coles", pageUrl, promotionType: "SALE", confidence: "MEDIUM" }));
-
-      if (!parsed.length) emptyPages += 1;
-      else emptyPages = 0;
-      if (emptyPages >= 2) break;
-
-      const raw = data as AnyRecord;
-      const total = Number(
-        raw?.pageProps?.searchResults?.totalResults ??
-          raw?.pageProps?.searchResults?.total ??
-          raw?.pageProps?.totalResults ??
-          0,
-      );
-      if (total && page * 48 >= total) break;
     }
   } catch (error) {
     directError = error;
   }
 
+  // HTML/browser fallback remains useful for future site changes, but is not the primary source.
   if (!offers.length) {
     try {
       await withBrowser(async context => {
         await context.addCookies([
           { name: "shoppingStore", value: STORE_TARGETS.coles.retailerStoreId ?? "7612", domain: ".coles.com.au", path: "/" },
         ]);
-        const capture = await capturePage(context, `${BASE}/on-special?page=1`, (url, contentType) =>
+        const capture = await capturePage(context, `${BASE}/search/products?q=milk`, (url, contentType) =>
           contentType.includes("json") && /coles\.com\.au/i.test(url),
         );
         offers.push(...parseProductHtml(capture.html, { store: "coles", pageUrl: capture.finalUrl, promotionType: "SALE", confidence: "MEDIUM" }));
@@ -178,7 +203,9 @@ export async function collectColes(): Promise<StoreData> {
   }
 
   const unique = dedupeOffers(offers).filter(offer => offer.salePrice && offer.salePrice > 0);
-  if (!unique.length) throw new Error(`coles: direct feed and browser fallback returned no sale offers${directError ? ` (${directError instanceof Error ? directError.message : String(directError)})` : ""}`);
+  if (!unique.length) {
+    throw new Error(`coles: official Next.js search feed returned no sale offers${directError ? ` (${directError instanceof Error ? directError.message : String(directError)})` : ""}`);
+  }
 
   return {
     store: "coles",

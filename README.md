@@ -20,10 +20,24 @@ npm run dev
 ## Collectors
 
 - **ALDI:** public Super Savers / Limited Time / Special Buys pages; nearest configured store is ALDI Brimbank.
-- **Coles:** Next.js JSON data feed; targets Coles Brimbank (`7612`). `COLES_BUILD_ID` can temporarily override automatic build-ID discovery.
-- **Woolworths:** anonymous Chromium session + Woolworths JSON API, targeting postcode `3021` where the site accepts postcode context.
+- **Coles:** official Next.js search JSON feed. Basketly discovers the current build ID, searches the public catalogue, then keeps only official promotion types (`SPECIAL`, `DOWN`, `MULTIBUY`, `PERCENT_OFF`). `COLES_BUILD_ID` is only a temporary override if Coles blocks build-ID discovery.
+- **Woolworths:** anonymous Chromium session + Woolworths JSON API, targeting postcode `3021`. Woolworths may block cloud/datacenter IPs; Basketly supports an optional Australian proxy for the browser collector.
 - **Costco:** public Hot Buy and Warehouse Savings sources. Costco membership is required and online/warehouse prices can differ.
 - **IGA:** IGA Saint Albans weekly catalogue, including client-rendered catalogue/network data when available. `IGA_CATALOGUE_URL` can override the catalogue entry point.
+
+## Optional Australian proxy
+
+Only configure this if Woolworths (or another browser collector) returns 403 from GitHub Actions. Do **not** commit proxy credentials.
+
+Local `.env`/shell variables:
+
+```bash
+BASKETLY_PROXY_SERVER=http://host:port
+BASKETLY_PROXY_USERNAME=username
+BASKETLY_PROXY_PASSWORD=password
+```
+
+For GitHub Actions add repository secrets with the same three names. The included collection workflow passes them to Playwright automatically. Prefer an Australian endpoint because Basketly targets St Albans VIC 3021.
 
 ## Commands
 
@@ -48,4 +62,4 @@ Enable **Settings -> Pages -> Source: GitHub Actions** if Pages is not already e
 
 ## Data / legal note
 
-Basketly is independent and is not affiliated with the listed retailers. Retailer prices, availability and promotional conditions remain authoritative. IGA pricing can vary by independently operated store; Costco warehouse and online prices can differ; some Coles/Woolworths availability is location/session dependent.
+Basketly is independent and is not affiliated with the listed retailers. It reads publicly available retailer information and does not bypass login/paywall access. Retailer prices, availability and promotional conditions remain authoritative. IGA pricing can vary by independently operated store; Costco warehouse and online prices can differ; some Coles/Woolworths availability is location/session dependent.
