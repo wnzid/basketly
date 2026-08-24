@@ -41,10 +41,12 @@ function collectProductRows(value: unknown): AnyRecord[] {
   return rows;
 }
 
-function resultMeta(data: unknown) {
+function resultMeta(data: unknown): { rows: AnyRecord[]; total: number } {
   const raw = data as AnyRecord;
   const search = raw?.pageProps?.searchResults ?? raw?.pageProps?.results ?? {};
-  const rows = Array.isArray(search?.results) ? search.results : collectProductRows(data);
+  const rows: AnyRecord[] = Array.isArray(search?.results)
+    ? (search.results as AnyRecord[])
+    : collectProductRows(data);
   const total = Number(search?.totalResults ?? search?.total ?? raw?.pageProps?.totalResults ?? 0);
   return { rows, total: Number.isFinite(total) ? total : 0 };
 }
