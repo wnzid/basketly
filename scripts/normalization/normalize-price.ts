@@ -1,0 +1,2 @@
+export function parsePrice(value?:string|number){if(typeof value==="number")return Number.isFinite(value)&&value>=0?value:undefined;if(!value)return;const cents=value.match(/(?:^|\s)(\d{1,3})\s*¢/i);if(cents&&!value.includes("$"))return Number(cents[1])/100;const match=value.replace(/,/g,"").match(/\$?\s*(\d+(?:\.\d{1,2})?)/);if(!match)return;const number=Number(match[1]);return Number.isFinite(number)?number:undefined}
+export function discount(sale?:number,regular?:number){return sale!=null&&regular!=null&&regular>sale&&sale>0?Math.round((1-sale/regular)*100):undefined}

@@ -1,0 +1,1 @@
+export const siteConfig={siteName:"PriceRadar AU",operatorName:"PriceRadar AU",contactEmail:"anthone2548@gmail.com",githubUrl:"https://github.com/wnzid/",legalLastUpdated:"24 August 2026",privacyLastUpdated:"24 August 2026"}as const;

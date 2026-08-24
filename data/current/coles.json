@@ -1,0 +1,13 @@
+{
+  "store": "coles",
+  "collectedAt": "1970-01-01T00:00:00.000Z",
+  "source": "https://www.coles.com.au/on-special",
+  "target": {
+    "area": "St Albans VIC 3021, Melbourne",
+    "postcode": "3021",
+    "storeName": "Coles Brimbank",
+    "address": "Brimbank Shopping Centre, Neale Rd & Station Rd, Deer Park VIC 3021",
+    "scope": "postcode-targeted"
+  },
+  "offers": []
+}
