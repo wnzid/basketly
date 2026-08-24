@@ -1,8 +1,1198 @@
 {
-  "generatedAt": "1970-01-01T00:00:00.000Z",
-  "all": [],
+  "generatedAt": "2026-08-24T18:36:49.487Z",
+  "all": [
+    {
+      "rank": 1,
+      "dealId": "product-1027545f0db526",
+      "product": "BERG",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "BERG",
+      "salePrice": 9.99,
+      "sourceUrl": "https://www.aldi.com.au/product/berg-smoked-hocks-per-kg-000000000000398906",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 2,
+      "dealId": "product-cc35236583af0a",
+      "product": "BIG BEAR",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "BIG BEAR",
+      "salePrice": 13.99,
+      "sourceUrl": "https://www.aldi.com.au/product/big-bear-california-chardonnay-750ml-000000000000584688",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 3,
+      "dealId": "product-64191c2c8faa6b",
+      "product": "BLACKSTONE PADDOCK",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "BLACKSTONE PADDOCK",
+      "salePrice": 16.99,
+      "sourceUrl": "https://www.aldi.com.au/product/blackstone-paddock-limited-release-margaret-river-chardonnay-750ml-000000000000366906",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 4,
+      "dealId": "product-fc9e0f645aa847",
+      "product": "BROAD OAK FARMS",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "BROAD OAK FARMS",
+      "salePrice": 12.49,
+      "sourceUrl": "https://www.aldi.com.au/product/broad-oak-farms-rspca-approved-chicken-tenderloins-value-pack-per-kg-000000000000704838",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 5,
+      "dealId": "product-1ccc725b7bb1d4",
+      "product": "BROOKLEA",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "BROOKLEA",
+      "salePrice": 1.17,
+      "pricePerUnit": 11.7,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/brooklea-no-added-sugar-banana-yogurt-pouch-110g-000000000000614423",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 6,
+      "dealId": "product-4071950ce49369",
+      "product": "BROWN BROTHERS",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "BROWN BROTHERS",
+      "salePrice": 9.99,
+      "sourceUrl": "https://www.aldi.com.au/product/brown-brothers-winter-red-750ml-000000000000366957",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 7,
+      "dealId": "product-546ebe0e50a128",
+      "product": "DAMORA",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "DAMORA",
+      "salePrice": 1.99,
+      "pricePerUnit": 19.9,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/damora-damora-crisps-sea-salt-150g-000000000000606622",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 8,
+      "dealId": "product-546ebe0e50a128",
+      "product": "DAMORA",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "DAMORA",
+      "salePrice": 1.99,
+      "pricePerUnit": 19.9,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/damora-damora-crisps-sweet-chilli-150g-000000000000606637",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 9,
+      "dealId": "product-fea99608396259",
+      "product": "EL TORA",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "EL TORA",
+      "salePrice": 1.43,
+      "pricePerUnit": 14.3,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/el-tora-tortilla-strips-white-corn-230g-000000000000526266",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 10,
+      "dealId": "product-5062d098f404a3",
+      "product": "EXPRESSI",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "EXPRESSI",
+      "salePrice": 0.5,
+      "sourceUrl": "https://www.aldi.com.au/product/expressi-irish-creme-flavoured-coffee-capsules-16-pack-000000000000368664",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 11,
+      "dealId": "product-37ac4685fc64f2",
+      "product": "FOOD ENVY",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "FOOD ENVY",
+      "salePrice": 2.49,
+      "pricePerUnit": 24.9,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/food-envy-protein-pancakes-160g-000000000000543414",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 12,
+      "dealId": "product-37ac4685fc64f2",
+      "product": "FOOD ENVY",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "FOOD ENVY",
+      "salePrice": 2.77,
+      "pricePerUnit": 27.7,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/food-envy-mousse-with-biscoff-spread-2-pack-90g-000000000000560180",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 13,
+      "dealId": "product-dee325d469b1e8",
+      "product": "IMPERIAL GRAIN",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "IMPERIAL GRAIN",
+      "salePrice": 0.68,
+      "pricePerUnit": 6.8,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-sweet-chilli-lime-rice-pouch-250g-000000000000474656",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 14,
+      "dealId": "product-aabf286d3aabdd",
+      "product": "IRONBARK PORK",
+      "category": "Meat",
+      "store": "aldi",
+      "sourceName": "IRONBARK PORK",
+      "salePrice": 7.99,
+      "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-leg-roast-boneless-000000000000399756",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 15,
+      "dealId": "product-aabf286d3aabdd",
+      "product": "IRONBARK PORK",
+      "category": "Meat",
+      "store": "aldi",
+      "sourceName": "IRONBARK PORK",
+      "salePrice": 13.49,
+      "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 16,
+      "dealId": "product-aabf286d3aabdd",
+      "product": "IRONBARK PORK",
+      "category": "Meat",
+      "store": "aldi",
+      "sourceName": "IRONBARK PORK",
+      "salePrice": 15.99,
+      "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-steak-000000000000479821",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 17,
+      "dealId": "product-4c13de8cce2743",
+      "product": "JINDURRA STATION",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "JINDURRA STATION",
+      "salePrice": 16.99,
+      "sourceUrl": "https://www.aldi.com.au/product/jindurra-station-beef-chuck-casserole-000000000000401302",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 18,
+      "dealId": "product-4c13de8cce2743",
+      "product": "JINDURRA STATION",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "JINDURRA STATION",
+      "salePrice": 31.99,
+      "sourceUrl": "https://www.aldi.com.au/product/jindurra-station-beef-scotch-portion-000000000000400621",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 19,
+      "dealId": "product-09053bd9215db4",
+      "product": "KAPITI",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "KAPITI",
+      "salePrice": 0.7,
+      "pricePerUnit": 7,
+      "pricePerUnitType": "l",
+      "sourceUrl": "https://www.aldi.com.au/product/kapiti-marlborough-salted-caramel-ice-cream-1l-000000000000581983",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 20,
+      "dealId": "product-09053bd9215db4",
+      "product": "KAPITI",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "KAPITI",
+      "salePrice": 1.94,
+      "pricePerUnit": 19.4,
+      "pricePerUnitType": "l",
+      "sourceUrl": "https://www.aldi.com.au/product/kapiti-nelson-boysenberry-ice-cream-6-pack-360ml-000000000000366675",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 21,
+      "dealId": "product-825b5433911cb2",
+      "product": "KILLARNEE",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "KILLARNEE",
+      "salePrice": 14.99,
+      "sourceUrl": "https://www.aldi.com.au/product/killarnee-half-lamb-leg-bone-in-000000000000400247",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 22,
+      "dealId": "product-134faee1d473a0",
+      "product": "L’EXPRESSION",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "L’EXPRESSION",
+      "salePrice": 10.99,
+      "sourceUrl": "https://www.aldi.com.au/product/l-expression-pinot-gris-750ml-000000000000368102",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 23,
+      "dealId": "product-e791e33c0ff83a",
+      "product": "LES ARGELIÈRES",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "LES ARGELIÈRES",
+      "salePrice": 11.99,
+      "sourceUrl": "https://www.aldi.com.au/product/les-argelieres-pinot-noir-750ml-000000000000368903",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 24,
+      "dealId": "product-faeee97b7d3feb",
+      "product": "MCGUIGAN",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "MCGUIGAN",
+      "salePrice": 8.99,
+      "sourceUrl": "https://www.aldi.com.au/product/mcguigan-black-label-red-1l-000000000000529284",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 25,
+      "dealId": "product-791c54be5688f4",
+      "product": "PC PETITE CUISINE",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "PC PETITE CUISINE",
+      "salePrice": 22.7,
+      "sourceUrl": "https://www.aldi.com.au/product/pc-petite-cuisine-crumbed-pork-schnitzels-440g-000000000000634900",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 26,
+      "dealId": "product-0ba204545fa3a3",
+      "product": "READY, SET…COOK!",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "READY, SET…COOK!",
+      "salePrice": 17.98,
+      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-prosciutto-wrapped-rspca-approved-chicken-breast-parmigiana-2-pack-500g-000000000000403361",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 27,
+      "dealId": "product-0ba204545fa3a3",
+      "product": "READY, SET…COOK!",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "READY, SET…COOK!",
+      "salePrice": 18.74,
+      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-sweet-sour-pork-meal-kit-800g-000000000000602725",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 28,
+      "dealId": "product-0ba204545fa3a3",
+      "product": "READY, SET…COOK!",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "READY, SET…COOK!",
+      "salePrice": 19.38,
+      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-beef-nasi-goreng-825g-000000000000584331",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 29,
+      "dealId": "product-0ba204545fa3a3",
+      "product": "READY, SET…COOK!",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "READY, SET…COOK!",
+      "salePrice": 20.81,
+      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-pork-cordon-bleu-480g-4-pack-000000000000590581",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 30,
+      "dealId": "product-0ba204545fa3a3",
+      "product": "READY, SET…COOK!",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "READY, SET…COOK!",
+      "salePrice": 22.04,
+      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-chicken-tikka-pita-kit-680g-000000000000548320",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 31,
+      "dealId": "product-0ba204545fa3a3",
+      "product": "READY, SET…COOK!",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "READY, SET…COOK!",
+      "salePrice": 24.97,
+      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-beef-peppered-steak-300g-000000000000677066",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 32,
+      "dealId": "product-30fd3486943d84",
+      "product": "SCHNITS FINE FOODS",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "SCHNITS FINE FOODS",
+      "salePrice": 19.98,
+      "sourceUrl": "https://www.aldi.com.au/product/schnits-fine-foods-herb-garlic-rspca-approved-chicken-burgers-4pk-600g-000000000000760408",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 33,
+      "dealId": "product-25761bbac66a5d",
+      "product": "STEGGLES",
+      "category": "Dairy & Eggs",
+      "store": "aldi",
+      "sourceName": "STEGGLES",
+      "salePrice": 14.98,
+      "sourceUrl": "https://www.aldi.com.au/product/steggles-chicken-breast-schnitzel-panko-quinoa-crumb-4-pack-600g-000000000000401221",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 34,
+      "dealId": "product-71de671521cfab",
+      "product": "TAVERNELLO",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "TAVERNELLO",
+      "salePrice": 8.99,
+      "sourceUrl": "https://www.aldi.com.au/product/tavernello-organic-sangiovese-2023-000000000000368021",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 35,
+      "dealId": "product-14c6572d6be944",
+      "product": "THE FISHMONGER",
+      "category": "Fish & Seafood",
+      "store": "aldi",
+      "sourceName": "THE FISHMONGER",
+      "salePrice": 26.75,
+      "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-garlic-prawns-280g-000000000000482114",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 36,
+      "dealId": "product-14c6572d6be944",
+      "product": "THE FISHMONGER",
+      "category": "Fish & Seafood",
+      "store": "aldi",
+      "sourceName": "THE FISHMONGER",
+      "salePrice": 32.59,
+      "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-fresh-tasmanian-salmon-fillets-skin-on-4-pack-460g-000000000000405629",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    }
+  ],
   "byStore": {
-    "aldi": [],
+    "aldi": [
+      {
+        "rank": 1,
+        "dealId": "product-1027545f0db526",
+        "product": "BERG",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "BERG",
+        "salePrice": 9.99,
+        "sourceUrl": "https://www.aldi.com.au/product/berg-smoked-hocks-per-kg-000000000000398906",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 2,
+        "dealId": "product-cc35236583af0a",
+        "product": "BIG BEAR",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "BIG BEAR",
+        "salePrice": 13.99,
+        "sourceUrl": "https://www.aldi.com.au/product/big-bear-california-chardonnay-750ml-000000000000584688",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 3,
+        "dealId": "product-64191c2c8faa6b",
+        "product": "BLACKSTONE PADDOCK",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "BLACKSTONE PADDOCK",
+        "salePrice": 16.99,
+        "sourceUrl": "https://www.aldi.com.au/product/blackstone-paddock-limited-release-margaret-river-chardonnay-750ml-000000000000366906",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 4,
+        "dealId": "product-fc9e0f645aa847",
+        "product": "BROAD OAK FARMS",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "BROAD OAK FARMS",
+        "salePrice": 12.49,
+        "sourceUrl": "https://www.aldi.com.au/product/broad-oak-farms-rspca-approved-chicken-tenderloins-value-pack-per-kg-000000000000704838",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 5,
+        "dealId": "product-1ccc725b7bb1d4",
+        "product": "BROOKLEA",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "BROOKLEA",
+        "salePrice": 1.17,
+        "pricePerUnit": 11.7,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/brooklea-no-added-sugar-banana-yogurt-pouch-110g-000000000000614423",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 6,
+        "dealId": "product-4071950ce49369",
+        "product": "BROWN BROTHERS",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "BROWN BROTHERS",
+        "salePrice": 9.99,
+        "sourceUrl": "https://www.aldi.com.au/product/brown-brothers-winter-red-750ml-000000000000366957",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 7,
+        "dealId": "product-546ebe0e50a128",
+        "product": "DAMORA",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "DAMORA",
+        "salePrice": 1.99,
+        "pricePerUnit": 19.9,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/damora-damora-crisps-sea-salt-150g-000000000000606622",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 8,
+        "dealId": "product-546ebe0e50a128",
+        "product": "DAMORA",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "DAMORA",
+        "salePrice": 1.99,
+        "pricePerUnit": 19.9,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/damora-damora-crisps-sweet-chilli-150g-000000000000606637",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 9,
+        "dealId": "product-fea99608396259",
+        "product": "EL TORA",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "EL TORA",
+        "salePrice": 1.43,
+        "pricePerUnit": 14.3,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/el-tora-tortilla-strips-white-corn-230g-000000000000526266",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 10,
+        "dealId": "product-5062d098f404a3",
+        "product": "EXPRESSI",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "EXPRESSI",
+        "salePrice": 0.5,
+        "sourceUrl": "https://www.aldi.com.au/product/expressi-irish-creme-flavoured-coffee-capsules-16-pack-000000000000368664",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 11,
+        "dealId": "product-37ac4685fc64f2",
+        "product": "FOOD ENVY",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "FOOD ENVY",
+        "salePrice": 2.49,
+        "pricePerUnit": 24.9,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/food-envy-protein-pancakes-160g-000000000000543414",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 12,
+        "dealId": "product-37ac4685fc64f2",
+        "product": "FOOD ENVY",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "FOOD ENVY",
+        "salePrice": 2.77,
+        "pricePerUnit": 27.7,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/food-envy-mousse-with-biscoff-spread-2-pack-90g-000000000000560180",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 13,
+        "dealId": "product-dee325d469b1e8",
+        "product": "IMPERIAL GRAIN",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "IMPERIAL GRAIN",
+        "salePrice": 0.68,
+        "pricePerUnit": 6.8,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-sweet-chilli-lime-rice-pouch-250g-000000000000474656",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 14,
+        "dealId": "product-aabf286d3aabdd",
+        "product": "IRONBARK PORK",
+        "category": "Meat",
+        "store": "aldi",
+        "sourceName": "IRONBARK PORK",
+        "salePrice": 7.99,
+        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-leg-roast-boneless-000000000000399756",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 15,
+        "dealId": "product-aabf286d3aabdd",
+        "product": "IRONBARK PORK",
+        "category": "Meat",
+        "store": "aldi",
+        "sourceName": "IRONBARK PORK",
+        "salePrice": 13.49,
+        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 16,
+        "dealId": "product-aabf286d3aabdd",
+        "product": "IRONBARK PORK",
+        "category": "Meat",
+        "store": "aldi",
+        "sourceName": "IRONBARK PORK",
+        "salePrice": 15.99,
+        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-steak-000000000000479821",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 17,
+        "dealId": "product-4c13de8cce2743",
+        "product": "JINDURRA STATION",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "JINDURRA STATION",
+        "salePrice": 16.99,
+        "sourceUrl": "https://www.aldi.com.au/product/jindurra-station-beef-chuck-casserole-000000000000401302",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 18,
+        "dealId": "product-4c13de8cce2743",
+        "product": "JINDURRA STATION",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "JINDURRA STATION",
+        "salePrice": 31.99,
+        "sourceUrl": "https://www.aldi.com.au/product/jindurra-station-beef-scotch-portion-000000000000400621",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 19,
+        "dealId": "product-09053bd9215db4",
+        "product": "KAPITI",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "KAPITI",
+        "salePrice": 0.7,
+        "pricePerUnit": 7,
+        "pricePerUnitType": "l",
+        "sourceUrl": "https://www.aldi.com.au/product/kapiti-marlborough-salted-caramel-ice-cream-1l-000000000000581983",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 20,
+        "dealId": "product-09053bd9215db4",
+        "product": "KAPITI",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "KAPITI",
+        "salePrice": 1.94,
+        "pricePerUnit": 19.4,
+        "pricePerUnitType": "l",
+        "sourceUrl": "https://www.aldi.com.au/product/kapiti-nelson-boysenberry-ice-cream-6-pack-360ml-000000000000366675",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 21,
+        "dealId": "product-825b5433911cb2",
+        "product": "KILLARNEE",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "KILLARNEE",
+        "salePrice": 14.99,
+        "sourceUrl": "https://www.aldi.com.au/product/killarnee-half-lamb-leg-bone-in-000000000000400247",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 22,
+        "dealId": "product-134faee1d473a0",
+        "product": "L’EXPRESSION",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "L’EXPRESSION",
+        "salePrice": 10.99,
+        "sourceUrl": "https://www.aldi.com.au/product/l-expression-pinot-gris-750ml-000000000000368102",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 23,
+        "dealId": "product-e791e33c0ff83a",
+        "product": "LES ARGELIÈRES",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "LES ARGELIÈRES",
+        "salePrice": 11.99,
+        "sourceUrl": "https://www.aldi.com.au/product/les-argelieres-pinot-noir-750ml-000000000000368903",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 24,
+        "dealId": "product-faeee97b7d3feb",
+        "product": "MCGUIGAN",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "MCGUIGAN",
+        "salePrice": 8.99,
+        "sourceUrl": "https://www.aldi.com.au/product/mcguigan-black-label-red-1l-000000000000529284",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 25,
+        "dealId": "product-791c54be5688f4",
+        "product": "PC PETITE CUISINE",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "PC PETITE CUISINE",
+        "salePrice": 22.7,
+        "sourceUrl": "https://www.aldi.com.au/product/pc-petite-cuisine-crumbed-pork-schnitzels-440g-000000000000634900",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 26,
+        "dealId": "product-0ba204545fa3a3",
+        "product": "READY, SET…COOK!",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "salePrice": 17.98,
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-prosciutto-wrapped-rspca-approved-chicken-breast-parmigiana-2-pack-500g-000000000000403361",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 27,
+        "dealId": "product-0ba204545fa3a3",
+        "product": "READY, SET…COOK!",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "salePrice": 18.74,
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-sweet-sour-pork-meal-kit-800g-000000000000602725",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 28,
+        "dealId": "product-0ba204545fa3a3",
+        "product": "READY, SET…COOK!",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "salePrice": 19.38,
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-beef-nasi-goreng-825g-000000000000584331",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 29,
+        "dealId": "product-0ba204545fa3a3",
+        "product": "READY, SET…COOK!",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "salePrice": 20.81,
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-pork-cordon-bleu-480g-4-pack-000000000000590581",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 30,
+        "dealId": "product-0ba204545fa3a3",
+        "product": "READY, SET…COOK!",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "salePrice": 22.04,
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-chicken-tikka-pita-kit-680g-000000000000548320",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 31,
+        "dealId": "product-0ba204545fa3a3",
+        "product": "READY, SET…COOK!",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "salePrice": 24.97,
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-beef-peppered-steak-300g-000000000000677066",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 32,
+        "dealId": "product-30fd3486943d84",
+        "product": "SCHNITS FINE FOODS",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "SCHNITS FINE FOODS",
+        "salePrice": 19.98,
+        "sourceUrl": "https://www.aldi.com.au/product/schnits-fine-foods-herb-garlic-rspca-approved-chicken-burgers-4pk-600g-000000000000760408",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 33,
+        "dealId": "product-25761bbac66a5d",
+        "product": "STEGGLES",
+        "category": "Dairy & Eggs",
+        "store": "aldi",
+        "sourceName": "STEGGLES",
+        "salePrice": 14.98,
+        "sourceUrl": "https://www.aldi.com.au/product/steggles-chicken-breast-schnitzel-panko-quinoa-crumb-4-pack-600g-000000000000401221",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 34,
+        "dealId": "product-71de671521cfab",
+        "product": "TAVERNELLO",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "TAVERNELLO",
+        "salePrice": 8.99,
+        "sourceUrl": "https://www.aldi.com.au/product/tavernello-organic-sangiovese-2023-000000000000368021",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 35,
+        "dealId": "product-14c6572d6be944",
+        "product": "THE FISHMONGER",
+        "category": "Fish & Seafood",
+        "store": "aldi",
+        "sourceName": "THE FISHMONGER",
+        "salePrice": 26.75,
+        "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-garlic-prawns-280g-000000000000482114",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 36,
+        "dealId": "product-14c6572d6be944",
+        "product": "THE FISHMONGER",
+        "category": "Fish & Seafood",
+        "store": "aldi",
+        "sourceName": "THE FISHMONGER",
+        "salePrice": 32.59,
+        "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-fresh-tasmanian-salmon-fillets-skin-on-4-pack-460g-000000000000405629",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      }
+    ],
     "coles": [],
     "woolworths": [],
     "costco": [],

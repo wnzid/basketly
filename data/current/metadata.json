@@ -1,5 +1,5 @@
 {
-  "generatedAt": "1970-01-01T00:00:00.000Z",
+  "generatedAt": "2026-08-24T18:36:49.487Z",
   "target": {
     "suburb": "St Albans",
     "state": "VIC",
@@ -8,7 +8,63 @@
     "country": "Australia",
     "label": "St Albans VIC 3021, Melbourne"
   },
-  "stores": {},
-  "totalOffers": 0,
-  "normalizedProducts": 0
+  "stores": {
+    "aldi": {
+      "status": "success",
+      "offers": 36,
+      "target": {
+        "name": "ALDI Brimbank",
+        "address": "Cnr Neale and Station Roads, Deer Park VIC 3023",
+        "scope": "state-level",
+        "source": "https://www.aldi.com.au/products/super-savers/k/1588161426952145"
+      }
+    },
+    "coles": {
+      "status": "failure",
+      "offers": 0,
+      "error": "coles: direct feed and browser fallback returned no sale offers (Unexpected token '<', \"<html styl\"... is not valid JSON)",
+      "target": {
+        "name": "Coles Brimbank",
+        "address": "Neale Rd & Station Rd, Deer Park VIC 3023",
+        "scope": "postcode-targeted",
+        "source": "https://www.coles.com.au/on-special",
+        "retailerStoreId": "7612"
+      }
+    },
+    "woolworths": {
+      "status": "failure",
+      "offers": 0,
+      "error": "woolworths: browser/API collector returned no sale offers (Woolworths API returned HTTP 403)",
+      "target": {
+        "name": "Woolworths St Albans",
+        "address": "315-321 Main Road East, St Albans VIC 3021",
+        "scope": "postcode-targeted",
+        "source": "https://www.woolworths.com.au/shop/browse/specials"
+      }
+    },
+    "costco": {
+      "status": "failure",
+      "offers": 0,
+      "error": "costco: public Hot Buy / Warehouse Savings sources returned no comparable priced offers; previous Costco data preserved",
+      "target": {
+        "name": "Costco Ardeer",
+        "address": "740 Ballarat Road, Ardeer VIC 3022",
+        "scope": "national",
+        "source": "https://www.costco.com.au/"
+      }
+    },
+    "iga": {
+      "status": "failure",
+      "offers": 0,
+      "error": "iga: Saint Albans catalogue is currently image/viewer-only with no reliable product-price rows; previous IGA data preserved",
+      "target": {
+        "name": "IGA Saint Albans",
+        "address": "16-18 East Esplanade, St Albans VIC 3021",
+        "scope": "target-store",
+        "source": "https://www.iga.com.au/stores/iga-saint-albans/"
+      }
+    }
+  },
+  "totalOffers": 36,
+  "normalizedProducts": 24
 }
