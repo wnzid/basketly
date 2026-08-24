@@ -1,31 +1,51 @@
-# PriceRadar AU
+# Basketly
 
-Static supermarket promotion comparison for **St Albans VIC 3021, Melbourne**. It follows the original PriceRadar architecture: scheduled TypeScript collectors -> repository JSON -> conservative product grouping -> deal intelligence/history -> React/Vite -> GitHub Pages. No database or runtime server.
+Static supermarket specials comparison for **St Albans VIC 3021, Melbourne**.
 
-Retailers: **ALDI, Coles, Woolworths, Costco, IGA**.
+Basketly collects public offers from **ALDI, Coles, Woolworths, Costco and IGA**, normalizes prices/unit prices, conservatively groups equivalent products, ranks deals, keeps dated history, and deploys a React/Vite site to GitHub Pages. There is no database or runtime server.
 
-## Start
+## Setup
+
+Node 24 recommended.
 
 ```bash
 npm install
+npx playwright install chromium
 npm run collect
 npm run dev
 ```
 
-Useful commands: `npm test`, `npm run typecheck`, `npm run build`, `npm run collect:coles`, `npm run collect:woolworths`, `npm run collect:aldi`, `npm run collect:costco`, `npm run collect:iga`.
+`npm run collect` preserves the last good retailer JSON if a collector fails or returns suspiciously little data.
 
-## Location handling
+## Collectors
 
-The target is St Albans VIC 3021. Retailer sources do not all expose the same localisation controls, so every offer records its source scope (`target-store`, `postcode-targeted`, `state-level`, or `national`). The app never labels a general online price as an exact local shelf price.
+- **ALDI:** public Super Savers / Limited Time / Special Buys pages; nearest configured store is ALDI Brimbank.
+- **Coles:** Next.js JSON data feed; targets Coles Brimbank (`7612`). `COLES_BUILD_ID` can temporarily override automatic build-ID discovery.
+- **Woolworths:** anonymous Chromium session + Woolworths JSON API, targeting postcode `3021` where the site accepts postcode context.
+- **Costco:** public Hot Buy and Warehouse Savings sources. Costco membership is required and online/warehouse prices can differ.
+- **IGA:** IGA Saint Albans weekly catalogue, including client-rendered catalogue/network data when available. `IGA_CATALOGUE_URL` can override the catalogue entry point.
 
-Targets used by the collectors are in `scripts/config.ts`; change that one file to move the project to another suburb/postcode.
+## Commands
 
-## Collector safety
+```bash
+npm run collect
+npm run collect:aldi
+npm run collect:coles
+npm run collect:woolworths
+npm run collect:costco
+npm run collect:iga
+npm test
+npm run typecheck
+npm run lint
+npm run build
+```
 
-A collector that returns zero offers or a suspiciously large drop is rejected by `scripts/write-data.ts`, preserving the last good JSON. Costco and IGA may change catalogue/warehouse viewers; optional `COSTCO_SAVINGS_URL` and `IGA_CATALOGUE_URL` environment variables can point at a current official machine-readable page without changing code.
+## GitHub Pages
 
-`COLES_MAX_PAGES` and `WOOLWORTHS_MAX_PAGES` can cap collection during development.
+The included Actions workflow collects twice daily and commits only meaningful data changes. A data commit triggers the Pages workflow automatically.
 
-## Data / legal
+Enable **Settings -> Pages -> Source: GitHub Actions** if Pages is not already enabled.
 
-This is an independent comparison project, not affiliated with any listed retailer. Prices, catalogue coverage, membership conditions, stock and local availability can change. Retailer source pages remain authoritative. Do not bypass login, paywall, bot protection or access controls; the collectors use only publicly reachable sources.
+## Data / legal note
+
+Basketly is independent and is not affiliated with the listed retailers. Retailer prices, availability and promotional conditions remain authoritative. IGA pricing can vary by independently operated store; Costco warehouse and online prices can differ; some Coles/Woolworths availability is location/session dependent.

@@ -1,4 +1,4 @@
-name: Collect AU deals
+name: Collect Basketly deals
 on:
   schedule:
     - cron: "17 6,17 * * *"
@@ -7,7 +7,7 @@ permissions:
   contents: write
   actions: write
 concurrency:
-  group: au-deal-collection
+  group: basketly-deal-collection
   cancel-in-progress: false
 jobs:
   collect:
@@ -19,8 +19,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: npm
-      - run: npm ci
+      - run: npm install
+      - name: Cache Playwright browser
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package.json') }}
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
       - run: npm run collect
       - name: Commit meaningful data changes
         id: changes
@@ -32,11 +38,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git commit -m "data: update AU supermarket deals"
+          git commit -m "data: update Basketly supermarket deals"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
       - name: Trigger Pages deployment
         if: steps.changes.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh workflow run "Deploy GitHub Pages"
+        run: gh workflow run "Deploy Basketly"

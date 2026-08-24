@@ -1,4 +1,4 @@
-name: Deploy GitHub Pages
+name: Deploy Basketly
 on:
   push:
     branches: [main]
@@ -18,8 +18,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: npm
-      - run: npm ci
+      - run: npm install
       - run: npm test
       - run: npm run build
         env:

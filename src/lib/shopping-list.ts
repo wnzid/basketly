@@ -1,6 +1,6 @@
 import type {Deal} from "../types/index.js";
 
-export const SHOPPING_LIST_KEY="priceradar.au.shoppingList.v1";
+export const SHOPPING_LIST_KEY="basketly.shoppingList.v1";
 export interface ShoppingListItem{id:string;dealId:string;label:string}
 interface ReadStorage{getItem:(key:string)=>string|null}interface WriteStorage{setItem:(key:string,value:string)=>void}
 export const shoppingIdentity=(deal:Deal)=>`${deal.id.startsWith("unmatched-")?"deal":"canonical"}:${deal.id}`;
