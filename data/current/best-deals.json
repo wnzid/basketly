@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:48:22.789Z",
+  "generatedAt": "2026-08-25T07:08:52.136Z",
   "all": [
     {
       "rank": 1,
@@ -230,22 +230,6 @@
       "category": "Meat",
       "store": "aldi",
       "sourceName": "IRONBARK PORK",
-      "salePrice": 7.99,
-      "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-leg-roast-boneless-000000000000399756",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 15,
-      "dealId": "product-aabf286d3aabdd",
-      "product": "IRONBARK PORK",
-      "category": "Meat",
-      "store": "aldi",
-      "sourceName": "IRONBARK PORK",
       "salePrice": 13.49,
       "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
       "promotionType": "CAMPAIGN",
@@ -256,39 +240,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 16,
-      "dealId": "product-aabf286d3aabdd",
-      "product": "IRONBARK PORK",
-      "category": "Meat",
-      "store": "aldi",
-      "sourceName": "IRONBARK PORK",
-      "salePrice": 15.99,
-      "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-steak-000000000000479821",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 17,
-      "dealId": "product-4c13de8cce2743",
-      "product": "JINDURRA STATION",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "JINDURRA STATION",
-      "salePrice": 16.99,
-      "sourceUrl": "https://www.aldi.com.au/product/jindurra-station-beef-chuck-casserole-000000000000401302",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 18,
+      "rank": 15,
       "dealId": "product-4c13de8cce2743",
       "product": "JINDURRA STATION",
       "category": "Other",
@@ -304,7 +256,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 19,
+      "rank": 16,
       "dealId": "product-09053bd9215db4",
       "product": "KAPITI",
       "category": "Other",
@@ -322,7 +274,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 20,
+      "rank": 17,
       "dealId": "product-09053bd9215db4",
       "product": "KAPITI",
       "category": "Other",
@@ -340,23 +292,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 21,
-      "dealId": "product-825b5433911cb2",
-      "product": "KILLARNEE",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "KILLARNEE",
-      "salePrice": 14.99,
-      "sourceUrl": "https://www.aldi.com.au/product/killarnee-half-lamb-leg-bone-in-000000000000400247",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 22,
+      "rank": 18,
       "dealId": "product-134faee1d473a0",
       "product": "L’EXPRESSION",
       "category": "Other",
@@ -372,7 +308,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 23,
+      "rank": 19,
       "dealId": "product-e791e33c0ff83a",
       "product": "LES ARGELIÈRES",
       "category": "Other",
@@ -388,7 +324,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 24,
+      "rank": 20,
       "dealId": "product-faeee97b7d3feb",
       "product": "MCGUIGAN",
       "category": "Other",
@@ -404,7 +340,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 25,
+      "rank": 21,
       "dealId": "product-791c54be5688f4",
       "product": "PC PETITE CUISINE",
       "category": "Other",
@@ -420,23 +356,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 26,
-      "dealId": "product-0ba204545fa3a3",
-      "product": "READY, SET…COOK!",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "READY, SET…COOK!",
-      "salePrice": 17.98,
-      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-prosciutto-wrapped-rspca-approved-chicken-breast-parmigiana-2-pack-500g-000000000000403361",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 27,
+      "rank": 22,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -452,7 +372,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 28,
+      "rank": 23,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -468,7 +388,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 29,
+      "rank": 24,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -484,7 +404,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 30,
+      "rank": 25,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -500,7 +420,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 31,
+      "rank": 26,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -516,7 +436,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 32,
+      "rank": 27,
       "dealId": "product-30fd3486943d84",
       "product": "SCHNITS FINE FOODS",
       "category": "Other",
@@ -532,7 +452,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 33,
+      "rank": 28,
       "dealId": "product-25761bbac66a5d",
       "product": "STEGGLES",
       "category": "Dairy & Eggs",
@@ -548,7 +468,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 34,
+      "rank": 29,
       "dealId": "product-71de671521cfab",
       "product": "TAVERNELLO",
       "category": "Other",
@@ -564,23 +484,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 35,
-      "dealId": "product-14c6572d6be944",
-      "product": "THE FISHMONGER",
-      "category": "Fish & Seafood",
-      "store": "aldi",
-      "sourceName": "THE FISHMONGER",
-      "salePrice": 26.75,
-      "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-garlic-prawns-280g-000000000000482114",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 36,
+      "rank": 30,
       "dealId": "product-14c6572d6be944",
       "product": "THE FISHMONGER",
       "category": "Fish & Seafood",
@@ -827,22 +731,6 @@
         "category": "Meat",
         "store": "aldi",
         "sourceName": "IRONBARK PORK",
-        "salePrice": 7.99,
-        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-leg-roast-boneless-000000000000399756",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 15,
-        "dealId": "product-aabf286d3aabdd",
-        "product": "IRONBARK PORK",
-        "category": "Meat",
-        "store": "aldi",
-        "sourceName": "IRONBARK PORK",
         "salePrice": 13.49,
         "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
         "promotionType": "CAMPAIGN",
@@ -853,39 +741,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 16,
-        "dealId": "product-aabf286d3aabdd",
-        "product": "IRONBARK PORK",
-        "category": "Meat",
-        "store": "aldi",
-        "sourceName": "IRONBARK PORK",
-        "salePrice": 15.99,
-        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-steak-000000000000479821",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 17,
-        "dealId": "product-4c13de8cce2743",
-        "product": "JINDURRA STATION",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "JINDURRA STATION",
-        "salePrice": 16.99,
-        "sourceUrl": "https://www.aldi.com.au/product/jindurra-station-beef-chuck-casserole-000000000000401302",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 18,
+        "rank": 15,
         "dealId": "product-4c13de8cce2743",
         "product": "JINDURRA STATION",
         "category": "Other",
@@ -901,7 +757,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 19,
+        "rank": 16,
         "dealId": "product-09053bd9215db4",
         "product": "KAPITI",
         "category": "Other",
@@ -919,7 +775,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 20,
+        "rank": 17,
         "dealId": "product-09053bd9215db4",
         "product": "KAPITI",
         "category": "Other",
@@ -937,23 +793,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 21,
-        "dealId": "product-825b5433911cb2",
-        "product": "KILLARNEE",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "KILLARNEE",
-        "salePrice": 14.99,
-        "sourceUrl": "https://www.aldi.com.au/product/killarnee-half-lamb-leg-bone-in-000000000000400247",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 22,
+        "rank": 18,
         "dealId": "product-134faee1d473a0",
         "product": "L’EXPRESSION",
         "category": "Other",
@@ -969,7 +809,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 23,
+        "rank": 19,
         "dealId": "product-e791e33c0ff83a",
         "product": "LES ARGELIÈRES",
         "category": "Other",
@@ -985,7 +825,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 24,
+        "rank": 20,
         "dealId": "product-faeee97b7d3feb",
         "product": "MCGUIGAN",
         "category": "Other",
@@ -1001,7 +841,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 25,
+        "rank": 21,
         "dealId": "product-791c54be5688f4",
         "product": "PC PETITE CUISINE",
         "category": "Other",
@@ -1017,23 +857,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 26,
-        "dealId": "product-0ba204545fa3a3",
-        "product": "READY, SET…COOK!",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "READY, SET…COOK!",
-        "salePrice": 17.98,
-        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-prosciutto-wrapped-rspca-approved-chicken-breast-parmigiana-2-pack-500g-000000000000403361",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 27,
+        "rank": 22,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1049,7 +873,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 28,
+        "rank": 23,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1065,7 +889,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 29,
+        "rank": 24,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1081,7 +905,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 30,
+        "rank": 25,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1097,7 +921,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 31,
+        "rank": 26,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1113,7 +937,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 32,
+        "rank": 27,
         "dealId": "product-30fd3486943d84",
         "product": "SCHNITS FINE FOODS",
         "category": "Other",
@@ -1129,7 +953,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 33,
+        "rank": 28,
         "dealId": "product-25761bbac66a5d",
         "product": "STEGGLES",
         "category": "Dairy & Eggs",
@@ -1145,7 +969,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 34,
+        "rank": 29,
         "dealId": "product-71de671521cfab",
         "product": "TAVERNELLO",
         "category": "Other",
@@ -1161,23 +985,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 35,
-        "dealId": "product-14c6572d6be944",
-        "product": "THE FISHMONGER",
-        "category": "Fish & Seafood",
-        "store": "aldi",
-        "sourceName": "THE FISHMONGER",
-        "salePrice": 26.75,
-        "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-garlic-prawns-280g-000000000000482114",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 36,
+        "rank": 30,
         "dealId": "product-14c6572d6be944",
         "product": "THE FISHMONGER",
         "category": "Fish & Seafood",

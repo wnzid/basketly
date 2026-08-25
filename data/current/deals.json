@@ -51,6 +51,8 @@
         "externalId": "176868",
         "name": "Apple Airpods Pro 2 With MagSafe Case USB-C",
         "salePrice": 359.99,
+        "pricePerUnit": 3.5,
+        "pricePerUnitType": "piece",
         "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h0e/h0c/175594992336926.jpg",
         "sourceUrl": "https://www.costco.com.au/Electronics/Audio/Headphones/Apple-Airpods-Pro-2-With-MagSafe-Case-USB-C/p/176868",
         "promotionType": "CAMPAIGN",
@@ -1524,37 +1526,6 @@
     "aliases": [],
     "offers": [
       {
-        "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-leg-roast-boneless-000000000000399756",
-        "name": "IRONBARK PORK",
-        "salePrice": 7.99,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/2082ff8f-624e-49a3-9549-a7c2e7eda0b6/Pork%20Leg%20Roast%20Boneless",
-        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-leg-roast-boneless-000000000000399756",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "IRONBARK PORK",
-        "displayName": "IRONBARK PORK",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-aabf286d3aabdd",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
         "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
         "name": "IRONBARK PORK",
         "salePrice": 13.49,
@@ -1584,40 +1555,9 @@
           ],
           "comparisonReasons": []
         }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-steak-000000000000479821",
-        "name": "IRONBARK PORK",
-        "salePrice": 15.99,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/1d43747c-94d1-4e26-ac97-a98a9e48297f/Pork%20Scotch%20Fillet%20Steak",
-        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-steak-000000000000479821",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "IRONBARK PORK",
-        "displayName": "IRONBARK PORK",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-aabf286d3aabdd",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
       }
     ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/2082ff8f-624e-49a3-9549-a7c2e7eda0b6/Pork%20Leg%20Roast%20Boneless"
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c9eb0b80-61e4-424b-9374-b6d9e9eb6c6f/Pork%20Scotch%20Fillet%20Roast"
   },
   {
     "id": "product-4c13de8cce2743",
@@ -1625,37 +1565,6 @@
     "category": "Other",
     "aliases": [],
     "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/jindurra-station-beef-chuck-casserole-000000000000401302",
-        "name": "JINDURRA STATION",
-        "salePrice": 16.99,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c32e57a1-d5ae-4f79-a1fe-553dae6f0021/Beef%20Chuck%20Casserole",
-        "sourceUrl": "https://www.aldi.com.au/product/jindurra-station-beef-chuck-casserole-000000000000401302",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "JINDURRA STATION",
-        "displayName": "JINDURRA STATION",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4c13de8cce2743",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
       {
         "externalId": "https://www.aldi.com.au/product/jindurra-station-beef-scotch-portion-000000000000400621",
         "name": "JINDURRA STATION",
@@ -1688,7 +1597,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c32e57a1-d5ae-4f79-a1fe-553dae6f0021/Beef%20Chuck%20Casserole"
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/2a0f282f-f80d-4c90-9f3d-31c3345d4b52/Beef%20Scotch%20Portion"
   },
   {
     "id": "product-09053bd9215db4",
@@ -1764,46 +1673,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5a7dbed4-0810-4798-8a37-aa80fd3fa413/Nelson%20Boysenberry%20Ice%20Cream%206%20Pack%20360ml"
-  },
-  {
-    "id": "product-825b5433911cb2",
-    "name": "KILLARNEE",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/killarnee-half-lamb-leg-bone-in-000000000000400247",
-        "name": "KILLARNEE",
-        "salePrice": 14.99,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3eba644b-ecb5-4ab2-92ba-de86a1cb1a50/Half%20Lamb%20Leg%20Bone%20In",
-        "sourceUrl": "https://www.aldi.com.au/product/killarnee-half-lamb-leg-bone-in-000000000000400247",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "KILLARNEE",
-        "displayName": "KILLARNEE",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-825b5433911cb2",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3eba644b-ecb5-4ab2-92ba-de86a1cb1a50/Half%20Lamb%20Leg%20Bone%20In"
   },
   {
     "id": "product-212d9dd63eb847",
@@ -2560,37 +2429,6 @@
     "aliases": [],
     "offers": [
       {
-        "externalId": "https://www.aldi.com.au/product/ready-set-cook-prosciutto-wrapped-rspca-approved-chicken-breast-parmigiana-2-pack-500g-000000000000403361",
-        "name": "READY, SET…COOK!",
-        "salePrice": 17.98,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6b1a9886-6d04-4ab9-975c-aa1b4e8bba40/Prosciutto%20Wrapped%20RSPCA%20Approved%20Chicken%20Breast%20Parmigiana%202%20Pack%20500g",
-        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-prosciutto-wrapped-rspca-approved-chicken-breast-parmigiana-2-pack-500g-000000000000403361",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "READY, SET…COOK!",
-        "displayName": "READY, SET…COOK!",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
         "externalId": "https://www.aldi.com.au/product/ready-set-cook-sweet-sour-pork-meal-kit-800g-000000000000602725",
         "name": "READY, SET…COOK!",
         "salePrice": 18.74,
@@ -2746,7 +2584,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6b1a9886-6d04-4ab9-975c-aa1b4e8bba40/Prosciutto%20Wrapped%20RSPCA%20Approved%20Chicken%20Breast%20Parmigiana%202%20Pack%20500g"
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/54acbe43-e42b-463f-8304-454ce24f303c/Chicken%20Tikka%20Pita%20Kit%20680g"
   },
   {
     "id": "product-b178547d6bb167",
@@ -3277,37 +3115,6 @@
     "aliases": [],
     "offers": [
       {
-        "externalId": "https://www.aldi.com.au/product/the-fishmonger-garlic-prawns-280g-000000000000482114",
-        "name": "THE FISHMONGER",
-        "salePrice": 26.75,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/b44f9eeb-18f9-4750-9182-077253e9dca0/Garlic%20Prawns%20280g",
-        "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-garlic-prawns-280g-000000000000482114",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "THE FISHMONGER",
-        "displayName": "THE FISHMONGER",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-14c6572d6be944",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
         "externalId": "https://www.aldi.com.au/product/the-fishmonger-fresh-tasmanian-salmon-fillets-skin-on-4-pack-460g-000000000000405629",
         "name": "THE FISHMONGER",
         "salePrice": 32.59,
@@ -3340,52 +3147,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/39ae0862-7694-47e6-9772-c35f4e67d2aa/Fresh%20Tasmanian%20Salmon%20Fillets%20Skin%20On%204%20Pack%20460g"
-  },
-  {
-    "id": "product-f996ffdc98dd34",
-    "name": "ThermoFlask Stainless Steel Bottles 950ml x 2 Pack",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "1901817",
-        "name": "ThermoFlask Stainless Steel Bottles 950ml x 2 Pack",
-        "salePrice": 44.99,
-        "quantity": 950,
-        "unit": "ml",
-        "pricePerUnit": 47.36,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h70/ha7/472552807530526.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/ThermoFlask-Stainless-Steel-Bottles-950ml-x-2-Pack/p/1901817",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "ThermoFlask Stainless Steel Bottles 950ml x 2 Pack",
-        "displayName": "ThermoFlask Stainless Steel Bottles 950ml x 2 Pack",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-f996ffdc98dd34",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h70/ha7/472552807530526.jpg"
   },
   {
     "id": "product-1c53ef779938ff",
