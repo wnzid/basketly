@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T07:08:52.136Z",
+  "generatedAt": "2026-08-25T17:46:23.028Z",
   "target": {
     "suburb": "St Albans",
     "state": "VIC",
@@ -11,7 +11,7 @@
   "stores": {
     "aldi": {
       "status": "success",
-      "offers": 30,
+      "offers": 67,
       "target": {
         "name": "ALDI Brimbank",
         "address": "Cnr Neale and Station Roads, Deer Park VIC 3023",
@@ -64,6 +64,6 @@
       }
     }
   },
-  "totalOffers": 77,
-  "normalizedProducts": 70
+  "totalOffers": 114,
+  "normalizedProducts": 88
 }
