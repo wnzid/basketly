@@ -1,26 +1,8 @@
 {
-  "generatedAt": "2026-08-25T17:46:23.028Z",
+  "generatedAt": "2026-08-26T07:09:08.062Z",
   "all": [
     {
       "rank": 1,
-      "dealId": "product-643692c552d659",
-      "product": "BELMONT BISCUIT CO.",
-      "category": "Snacks",
-      "store": "aldi",
-      "sourceName": "BELMONT BISCUIT CO.",
-      "salePrice": 1.86,
-      "pricePerUnit": 18.6,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/belmont-biscuit-co-jaffa-cakes-150g-000000000000283683",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 2,
       "dealId": "product-1027545f0db526",
       "product": "BERG",
       "category": "Other",
@@ -36,7 +18,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "dealId": "product-cc35236583af0a",
       "product": "BIG BEAR",
       "category": "Other",
@@ -52,7 +34,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "dealId": "product-64191c2c8faa6b",
       "product": "BLACKSTONE PADDOCK",
       "category": "Other",
@@ -68,16 +50,30 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 5,
-      "dealId": "product-b4aed4efd29378",
-      "product": "BON APPETIT",
+      "rank": 4,
+      "dealId": "product-fc9e0f645aa847",
+      "product": "BROAD OAK FARMS",
       "category": "Other",
       "store": "aldi",
-      "sourceName": "BON APPETIT",
-      "salePrice": 1.85,
-      "pricePerUnit": 18.5,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/bon-appetit-pains-au-chocolat-6-pack-270g-000000000000262056",
+      "sourceName": "BROAD OAK FARMS",
+      "salePrice": 4.99,
+      "sourceUrl": "https://www.aldi.com.au/product/broad-oak-farms-free-range-fresh-whole-chicken-000000000000531960",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 5,
+      "dealId": "product-fc9e0f645aa847",
+      "product": "BROAD OAK FARMS",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "BROAD OAK FARMS",
+      "salePrice": 11.99,
+      "sourceUrl": "https://www.aldi.com.au/product/broad-oak-farms-rspca-approved-chicken-breast-fillet-stir-fry-000000000000403626",
       "promotionType": "SALE",
       "dealScore": 2,
       "reasons": [
@@ -87,24 +83,6 @@
     },
     {
       "rank": 6,
-      "dealId": "product-b4aed4efd29378",
-      "product": "BON APPETIT",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "BON APPETIT",
-      "salePrice": 1.89,
-      "pricePerUnit": 18.9,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/bon-appetit-chocolate-chip-brioche-milk-rolls-8-pack-280g-000000000000200998",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 7,
       "dealId": "product-fc9e0f645aa847",
       "product": "BROAD OAK FARMS",
       "category": "Other",
@@ -120,25 +98,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 8,
-      "dealId": "product-ad68f4891184c9",
-      "product": "BROOKDALE",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "BROOKDALE",
-      "salePrice": 2.2,
-      "pricePerUnit": 22,
-      "pricePerUnitType": "l",
-      "sourceUrl": "https://www.aldi.com.au/product/brookdale-pure-maple-syrup-250ml-000000000000261631",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "dealId": "product-1ccc725b7bb1d4",
       "product": "BROOKLEA",
       "category": "Other",
@@ -156,7 +116,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "dealId": "product-4071950ce49369",
       "product": "BROWN BROTHERS",
       "category": "Other",
@@ -172,43 +132,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 11,
-      "dealId": "product-df290f757d4a01",
-      "product": "COLWAY",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "COLWAY",
-      "salePrice": 0.78,
-      "pricePerUnit": 7.8,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/colway-authentic-mayonnaise-squeeze-475g-000000000000275699",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 12,
-      "dealId": "product-db4db10ed81831",
-      "product": "CORALE",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "CORALE",
-      "salePrice": 0.26,
-      "pricePerUnit": 2.6,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/corale-baked-beans-in-tomato-sauce-420g-000000000000261610",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 13,
+      "rank": 9,
       "dealId": "product-546ebe0e50a128",
       "product": "DAMORA",
       "category": "Other",
@@ -226,7 +150,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 14,
+      "rank": 10,
       "dealId": "product-546ebe0e50a128",
       "product": "DAMORA",
       "category": "Other",
@@ -244,23 +168,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 15,
-      "dealId": "product-99864605275bf6",
-      "product": "DELI ORIGINALS",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "DELI ORIGINALS",
-      "salePrice": 5,
-      "sourceUrl": "https://www.aldi.com.au/product/deli-originals-spanish-stuffed-green-olives-450g-000000000000210837",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 16,
+      "rank": 11,
       "dealId": "product-fea99608396259",
       "product": "EL TORA",
       "category": "Other",
@@ -278,71 +186,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 17,
-      "dealId": "product-afb78407587506",
-      "product": "EMPORIUM SELECTION",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "EMPORIUM SELECTION",
-      "salePrice": 24.95,
-      "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-triple-cream-brie-cheese-200g-000000000000281811",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 18,
-      "dealId": "product-afb78407587506",
-      "product": "EMPORIUM SELECTION",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "EMPORIUM SELECTION",
-      "salePrice": 24.95,
-      "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-double-cream-camembert-200g-000000000000281818",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 19,
-      "dealId": "product-afb78407587506",
-      "product": "EMPORIUM SELECTION",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "EMPORIUM SELECTION",
-      "salePrice": 24.95,
-      "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-smoked-cheese-200g-000000000000283609",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 20,
-      "dealId": "product-afb78407587506",
-      "product": "EMPORIUM SELECTION",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "EMPORIUM SELECTION",
-      "salePrice": 29.95,
-      "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-smooth-blue-vein-cheese-200g-000000000000281867",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 21,
+      "rank": 12,
       "dealId": "product-5062d098f404a3",
       "product": "EXPRESSI",
       "category": "Other",
@@ -358,7 +202,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 22,
+      "rank": 13,
       "dealId": "product-37ac4685fc64f2",
       "product": "FOOD ENVY",
       "category": "Other",
@@ -376,7 +220,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 23,
+      "rank": 14,
       "dealId": "product-37ac4685fc64f2",
       "product": "FOOD ENVY",
       "category": "Other",
@@ -394,95 +238,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 24,
-      "dealId": "product-9b0e0a5fb6e5d1",
-      "product": "FORRESTERS",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "FORRESTERS",
-      "salePrice": 19.98,
-      "sourceUrl": "https://www.aldi.com.au/product/forresters-natural-walnuts-500g-000000000000282420",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 25,
-      "dealId": "product-df3bfcba80c14b",
-      "product": "HARIBO",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "HARIBO",
-      "salePrice": 2.2,
-      "pricePerUnit": 22,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/haribo-mega-roulette-45g-000000000000173130",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 26,
-      "dealId": "product-dee325d469b1e8",
-      "product": "IMPERIAL GRAIN",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "IMPERIAL GRAIN",
-      "salePrice": 0.18,
-      "pricePerUnit": 1.8,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-long-grain-rice-2kg-000000000000262809",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 27,
-      "dealId": "product-dee325d469b1e8",
-      "product": "IMPERIAL GRAIN",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "IMPERIAL GRAIN",
-      "salePrice": 0.3,
-      "pricePerUnit": 3,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-jasmine-rice-1kg-000000000000262101",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 28,
-      "dealId": "product-dee325d469b1e8",
-      "product": "IMPERIAL GRAIN",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "IMPERIAL GRAIN",
-      "salePrice": 0.4,
-      "pricePerUnit": 4,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-basmati-rice-1kg-000000000000262325",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 29,
+      "rank": 15,
       "dealId": "product-dee325d469b1e8",
       "product": "IMPERIAL GRAIN",
       "category": "Other",
@@ -500,7 +256,23 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 30,
+      "rank": 16,
+      "dealId": "product-aabf286d3aabdd",
+      "product": "IRONBARK PORK",
+      "category": "Meat",
+      "store": "aldi",
+      "sourceName": "IRONBARK PORK",
+      "salePrice": 9.98,
+      "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-and-beef-mince-500g-000000000000403246",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 17,
       "dealId": "product-aabf286d3aabdd",
       "product": "IRONBARK PORK",
       "category": "Meat",
@@ -516,7 +288,39 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 31,
+      "rank": 18,
+      "dealId": "product-aabf286d3aabdd",
+      "product": "IRONBARK PORK",
+      "category": "Meat",
+      "store": "aldi",
+      "sourceName": "IRONBARK PORK",
+      "salePrice": 13.99,
+      "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-loin-chops-000000000000399791",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 19,
+      "dealId": "product-aabf286d3aabdd",
+      "product": "IRONBARK PORK",
+      "category": "Meat",
+      "store": "aldi",
+      "sourceName": "IRONBARK PORK",
+      "salePrice": 15.49,
+      "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-belly-000000000000399917",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 20,
       "dealId": "product-4c13de8cce2743",
       "product": "JINDURRA STATION",
       "category": "Other",
@@ -532,7 +336,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 32,
+      "rank": 21,
       "dealId": "product-09053bd9215db4",
       "product": "KAPITI",
       "category": "Other",
@@ -550,7 +354,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 33,
+      "rank": 22,
       "dealId": "product-09053bd9215db4",
       "product": "KAPITI",
       "category": "Other",
@@ -568,7 +372,23 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 34,
+      "rank": 23,
+      "dealId": "product-825b5433911cb2",
+      "product": "KILLARNEE",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "KILLARNEE",
+      "salePrice": 17.99,
+      "sourceUrl": "https://www.aldi.com.au/product/killarnee-lamb-bbq-chops-000000000000399930",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 24,
       "dealId": "product-134faee1d473a0",
       "product": "L’EXPRESSION",
       "category": "Other",
@@ -584,7 +404,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 35,
+      "rank": 25,
       "dealId": "product-e791e33c0ff83a",
       "product": "LES ARGELIÈRES",
       "category": "Other",
@@ -600,23 +420,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 36,
-      "dealId": "product-397e2e79d2178d",
-      "product": "MARQUES DEL ATRIO",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "MARQUES DEL ATRIO",
-      "salePrice": 12.99,
-      "sourceUrl": "https://www.aldi.com.au/product/marques-del-atrio-rioja-reserva-tempranillo-graciano-750ml-000000000000283861",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 37,
+      "rank": 26,
       "dealId": "product-faeee97b7d3feb",
       "product": "MCGUIGAN",
       "category": "Other",
@@ -632,121 +436,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 38,
-      "dealId": "product-9f0b13a98ccc21",
-      "product": "O'DONNELLS",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "O'DONNELLS",
-      "salePrice": 12.99,
-      "sourceUrl": "https://www.aldi.com.au/product/o-donnells-irish-cream-salted-caramel-liqueur-700ml-000000000000284675",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 39,
-      "dealId": "product-9f0b13a98ccc21",
-      "product": "O'DONNELLS",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "O'DONNELLS",
-      "salePrice": 14.99,
-      "sourceUrl": "https://www.aldi.com.au/product/o-donnells-irish-country-cream-700ml-000000000000283907",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 40,
-      "dealId": "product-c8699083a3f90b",
-      "product": "OCEAN ROYALE",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "OCEAN ROYALE",
-      "salePrice": 6.99,
-      "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-basa-fillets-1kg-000000000000279936",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 41,
-      "dealId": "product-c8699083a3f90b",
-      "product": "OCEAN ROYALE",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "OCEAN ROYALE",
-      "salePrice": 10.98,
-      "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-crumbed-calamari-rings-400g-000000000000278981",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 42,
-      "dealId": "product-c8699083a3f90b",
-      "product": "OCEAN ROYALE",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "OCEAN ROYALE",
-      "salePrice": 13.86,
-      "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-salt-pepper-squid-360g-000000000000278985",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 43,
-      "dealId": "product-c8699083a3f90b",
-      "product": "OCEAN ROYALE",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "OCEAN ROYALE",
-      "salePrice": 19.99,
-      "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-barramundi-fillets-1kg-000000000000279961",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 44,
-      "dealId": "product-e620a94e80ce2f",
-      "product": "OH SO NATURAL ORGANIC",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "OH SO NATURAL ORGANIC",
-      "salePrice": 1.6,
-      "pricePerUnit": 16,
-      "pricePerUnitType": "l",
-      "sourceUrl": "https://www.aldi.com.au/product/oh-so-natural-organic-organic-extra-virgin-olive-oil-500ml-000000000000199822",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 45,
+      "rank": 27,
       "dealId": "product-791c54be5688f4",
       "product": "PC PETITE CUISINE",
       "category": "Other",
@@ -762,151 +452,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 46,
-      "dealId": "product-bcfed986c29dc4",
-      "product": "Products",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "Products",
-      "salePrice": 50,
-      "pricePerUnit": 22,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/products/limited-time-only/k/1588161420755352",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 47,
-      "dealId": "product-bcfed986c29dc4",
-      "product": "Products",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "Products",
-      "salePrice": 50,
-      "pricePerUnit": 22,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.doordash.com/p/aldi-australia?srsltid=AfmBOoqwsSBRqA5_Q82QhhYvHQgr-z4KiqqWvj-M-AH_DSSHbRGkHsKA",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 48,
-      "dealId": "product-bcfed986c29dc4",
-      "product": "Products",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "Products",
-      "salePrice": 50,
-      "pricePerUnit": 22,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/urban-eats-greek-spinach-cheese-spanakopita-750g-000000000000368932",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 49,
-      "dealId": "product-bcfed986c29dc4",
-      "product": "Products",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "Products",
-      "salePrice": 50,
-      "pricePerUnit": 22,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/di-san-oxy-laundry-soaker-1kg-000000000399116001",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 50,
-      "dealId": "product-bcfed986c29dc4",
-      "product": "Products",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "Products",
-      "salePrice": 50,
-      "pricePerUnit": 22,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/products/meat-seafood/k/940000000",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 51,
-      "dealId": "product-bcfed986c29dc4",
-      "product": "Products",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "Products",
-      "salePrice": 50,
-      "pricePerUnit": 22,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/products/fruits-vegetables/k/950000000",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 52,
-      "dealId": "product-bcfed986c29dc4",
-      "product": "Products",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "Products",
-      "salePrice": 50,
-      "pricePerUnit": 22,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/products/dairy-eggs-fridge/k/960000000",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 53,
-      "dealId": "product-47b29047f9167c",
-      "product": "PURE VITA",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "PURE VITA",
-      "salePrice": 0.5,
-      "pricePerUnit": 5,
-      "pricePerUnitType": "l",
-      "sourceUrl": "https://www.aldi.com.au/product/pure-vita-sunflower-oil-1l-000000000000200347",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 54,
+      "rank": 28,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -922,7 +468,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 55,
+      "rank": 29,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -938,7 +484,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 56,
+      "rank": 30,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -954,7 +500,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 57,
+      "rank": 31,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -970,7 +516,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 58,
+      "rank": 32,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -986,14 +532,14 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 59,
-      "dealId": "product-6c02e0951f0cac",
-      "product": "REMANO",
+      "rank": 33,
+      "dealId": "product-0ba204545fa3a3",
+      "product": "READY, SET…COOK!",
       "category": "Other",
       "store": "aldi",
-      "sourceName": "REMANO",
-      "salePrice": 2.38,
-      "sourceUrl": "https://www.aldi.com.au/product/remano-italian-diced-tomatoes-400g-000000000000278716",
+      "sourceName": "READY, SET…COOK!",
+      "salePrice": 34.98,
+      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-beef-porterhouse-steak-with-garlic-and-herb-butter-400g-000000000000532959",
       "promotionType": "SALE",
       "dealScore": 2,
       "reasons": [
@@ -1002,43 +548,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 60,
-      "dealId": "product-6c02e0951f0cac",
-      "product": "REMANO",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "REMANO",
-      "salePrice": 0.99,
-      "pricePerUnit": 9.9,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/remano-basil-pesto-190g-000000000000274244",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 61,
-      "dealId": "product-6c02e0951f0cac",
-      "product": "REMANO",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "REMANO",
-      "salePrice": 0.99,
-      "pricePerUnit": 9.9,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/remano-sundried-tomato-pesto-190g-000000000000274249",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 62,
+      "rank": 34,
       "dealId": "product-30fd3486943d84",
       "product": "SCHNITS FINE FOODS",
       "category": "Other",
@@ -1054,7 +564,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 63,
+      "rank": 35,
       "dealId": "product-25761bbac66a5d",
       "product": "STEGGLES",
       "category": "Dairy & Eggs",
@@ -1070,39 +580,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 64,
-      "dealId": "product-2c48e4059dfeff",
-      "product": "SWEET VALLEY",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "SWEET VALLEY",
-      "salePrice": 2.9,
-      "sourceUrl": "https://www.aldi.com.au/product/sweet-valley-peach-slices-in-syrup-825g-000000000000280732",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 65,
-      "dealId": "product-f4adcc79145d89",
-      "product": "SWEET VINE",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "SWEET VINE",
-      "salePrice": 10.98,
-      "sourceUrl": "https://www.aldi.com.au/product/sweet-vine-pitted-prunes-500g-000000000000266263",
-      "promotionType": "SALE",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 66,
+      "rank": 36,
       "dealId": "product-71de671521cfab",
       "product": "TAVERNELLO",
       "category": "Other",
@@ -1118,7 +596,23 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 67,
+      "rank": 37,
+      "dealId": "product-14c6572d6be944",
+      "product": "THE FISHMONGER",
+      "category": "Fish & Seafood",
+      "store": "aldi",
+      "sourceName": "THE FISHMONGER",
+      "salePrice": 34.76,
+      "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-fresh-tasmanian-salmon-fillets-skin-off-4-pack-460g-000000000000403239",
+      "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 38,
       "dealId": "product-14c6572d6be944",
       "product": "THE FISHMONGER",
       "category": "Fish & Seafood",
@@ -1138,24 +632,6 @@
     "aldi": [
       {
         "rank": 1,
-        "dealId": "product-643692c552d659",
-        "product": "BELMONT BISCUIT CO.",
-        "category": "Snacks",
-        "store": "aldi",
-        "sourceName": "BELMONT BISCUIT CO.",
-        "salePrice": 1.86,
-        "pricePerUnit": 18.6,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/belmont-biscuit-co-jaffa-cakes-150g-000000000000283683",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 2,
         "dealId": "product-1027545f0db526",
         "product": "BERG",
         "category": "Other",
@@ -1171,7 +647,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "dealId": "product-cc35236583af0a",
         "product": "BIG BEAR",
         "category": "Other",
@@ -1187,7 +663,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "dealId": "product-64191c2c8faa6b",
         "product": "BLACKSTONE PADDOCK",
         "category": "Other",
@@ -1203,16 +679,30 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 5,
-        "dealId": "product-b4aed4efd29378",
-        "product": "BON APPETIT",
+        "rank": 4,
+        "dealId": "product-fc9e0f645aa847",
+        "product": "BROAD OAK FARMS",
         "category": "Other",
         "store": "aldi",
-        "sourceName": "BON APPETIT",
-        "salePrice": 1.85,
-        "pricePerUnit": 18.5,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/bon-appetit-pains-au-chocolat-6-pack-270g-000000000000262056",
+        "sourceName": "BROAD OAK FARMS",
+        "salePrice": 4.99,
+        "sourceUrl": "https://www.aldi.com.au/product/broad-oak-farms-free-range-fresh-whole-chicken-000000000000531960",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 5,
+        "dealId": "product-fc9e0f645aa847",
+        "product": "BROAD OAK FARMS",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "BROAD OAK FARMS",
+        "salePrice": 11.99,
+        "sourceUrl": "https://www.aldi.com.au/product/broad-oak-farms-rspca-approved-chicken-breast-fillet-stir-fry-000000000000403626",
         "promotionType": "SALE",
         "dealScore": 2,
         "reasons": [
@@ -1222,24 +712,6 @@
       },
       {
         "rank": 6,
-        "dealId": "product-b4aed4efd29378",
-        "product": "BON APPETIT",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "BON APPETIT",
-        "salePrice": 1.89,
-        "pricePerUnit": 18.9,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/bon-appetit-chocolate-chip-brioche-milk-rolls-8-pack-280g-000000000000200998",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 7,
         "dealId": "product-fc9e0f645aa847",
         "product": "BROAD OAK FARMS",
         "category": "Other",
@@ -1255,25 +727,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 8,
-        "dealId": "product-ad68f4891184c9",
-        "product": "BROOKDALE",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "BROOKDALE",
-        "salePrice": 2.2,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "l",
-        "sourceUrl": "https://www.aldi.com.au/product/brookdale-pure-maple-syrup-250ml-000000000000261631",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "dealId": "product-1ccc725b7bb1d4",
         "product": "BROOKLEA",
         "category": "Other",
@@ -1291,7 +745,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "dealId": "product-4071950ce49369",
         "product": "BROWN BROTHERS",
         "category": "Other",
@@ -1307,43 +761,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 11,
-        "dealId": "product-df290f757d4a01",
-        "product": "COLWAY",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "COLWAY",
-        "salePrice": 0.78,
-        "pricePerUnit": 7.8,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/colway-authentic-mayonnaise-squeeze-475g-000000000000275699",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 12,
-        "dealId": "product-db4db10ed81831",
-        "product": "CORALE",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "CORALE",
-        "salePrice": 0.26,
-        "pricePerUnit": 2.6,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/corale-baked-beans-in-tomato-sauce-420g-000000000000261610",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 13,
+        "rank": 9,
         "dealId": "product-546ebe0e50a128",
         "product": "DAMORA",
         "category": "Other",
@@ -1361,7 +779,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 14,
+        "rank": 10,
         "dealId": "product-546ebe0e50a128",
         "product": "DAMORA",
         "category": "Other",
@@ -1379,23 +797,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 15,
-        "dealId": "product-99864605275bf6",
-        "product": "DELI ORIGINALS",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "DELI ORIGINALS",
-        "salePrice": 5,
-        "sourceUrl": "https://www.aldi.com.au/product/deli-originals-spanish-stuffed-green-olives-450g-000000000000210837",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 16,
+        "rank": 11,
         "dealId": "product-fea99608396259",
         "product": "EL TORA",
         "category": "Other",
@@ -1413,71 +815,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 17,
-        "dealId": "product-afb78407587506",
-        "product": "EMPORIUM SELECTION",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "EMPORIUM SELECTION",
-        "salePrice": 24.95,
-        "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-triple-cream-brie-cheese-200g-000000000000281811",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 18,
-        "dealId": "product-afb78407587506",
-        "product": "EMPORIUM SELECTION",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "EMPORIUM SELECTION",
-        "salePrice": 24.95,
-        "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-double-cream-camembert-200g-000000000000281818",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 19,
-        "dealId": "product-afb78407587506",
-        "product": "EMPORIUM SELECTION",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "EMPORIUM SELECTION",
-        "salePrice": 24.95,
-        "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-smoked-cheese-200g-000000000000283609",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 20,
-        "dealId": "product-afb78407587506",
-        "product": "EMPORIUM SELECTION",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "EMPORIUM SELECTION",
-        "salePrice": 29.95,
-        "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-smooth-blue-vein-cheese-200g-000000000000281867",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 21,
+        "rank": 12,
         "dealId": "product-5062d098f404a3",
         "product": "EXPRESSI",
         "category": "Other",
@@ -1493,7 +831,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 22,
+        "rank": 13,
         "dealId": "product-37ac4685fc64f2",
         "product": "FOOD ENVY",
         "category": "Other",
@@ -1511,7 +849,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 23,
+        "rank": 14,
         "dealId": "product-37ac4685fc64f2",
         "product": "FOOD ENVY",
         "category": "Other",
@@ -1529,95 +867,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 24,
-        "dealId": "product-9b0e0a5fb6e5d1",
-        "product": "FORRESTERS",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "FORRESTERS",
-        "salePrice": 19.98,
-        "sourceUrl": "https://www.aldi.com.au/product/forresters-natural-walnuts-500g-000000000000282420",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 25,
-        "dealId": "product-df3bfcba80c14b",
-        "product": "HARIBO",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "HARIBO",
-        "salePrice": 2.2,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/haribo-mega-roulette-45g-000000000000173130",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 26,
-        "dealId": "product-dee325d469b1e8",
-        "product": "IMPERIAL GRAIN",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "IMPERIAL GRAIN",
-        "salePrice": 0.18,
-        "pricePerUnit": 1.8,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-long-grain-rice-2kg-000000000000262809",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 27,
-        "dealId": "product-dee325d469b1e8",
-        "product": "IMPERIAL GRAIN",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "IMPERIAL GRAIN",
-        "salePrice": 0.3,
-        "pricePerUnit": 3,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-jasmine-rice-1kg-000000000000262101",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 28,
-        "dealId": "product-dee325d469b1e8",
-        "product": "IMPERIAL GRAIN",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "IMPERIAL GRAIN",
-        "salePrice": 0.4,
-        "pricePerUnit": 4,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-basmati-rice-1kg-000000000000262325",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 29,
+        "rank": 15,
         "dealId": "product-dee325d469b1e8",
         "product": "IMPERIAL GRAIN",
         "category": "Other",
@@ -1635,7 +885,23 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 30,
+        "rank": 16,
+        "dealId": "product-aabf286d3aabdd",
+        "product": "IRONBARK PORK",
+        "category": "Meat",
+        "store": "aldi",
+        "sourceName": "IRONBARK PORK",
+        "salePrice": 9.98,
+        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-and-beef-mince-500g-000000000000403246",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 17,
         "dealId": "product-aabf286d3aabdd",
         "product": "IRONBARK PORK",
         "category": "Meat",
@@ -1651,7 +917,39 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 31,
+        "rank": 18,
+        "dealId": "product-aabf286d3aabdd",
+        "product": "IRONBARK PORK",
+        "category": "Meat",
+        "store": "aldi",
+        "sourceName": "IRONBARK PORK",
+        "salePrice": 13.99,
+        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-loin-chops-000000000000399791",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 19,
+        "dealId": "product-aabf286d3aabdd",
+        "product": "IRONBARK PORK",
+        "category": "Meat",
+        "store": "aldi",
+        "sourceName": "IRONBARK PORK",
+        "salePrice": 15.49,
+        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-belly-000000000000399917",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 20,
         "dealId": "product-4c13de8cce2743",
         "product": "JINDURRA STATION",
         "category": "Other",
@@ -1667,7 +965,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 32,
+        "rank": 21,
         "dealId": "product-09053bd9215db4",
         "product": "KAPITI",
         "category": "Other",
@@ -1685,7 +983,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 33,
+        "rank": 22,
         "dealId": "product-09053bd9215db4",
         "product": "KAPITI",
         "category": "Other",
@@ -1703,7 +1001,23 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 34,
+        "rank": 23,
+        "dealId": "product-825b5433911cb2",
+        "product": "KILLARNEE",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "KILLARNEE",
+        "salePrice": 17.99,
+        "sourceUrl": "https://www.aldi.com.au/product/killarnee-lamb-bbq-chops-000000000000399930",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 24,
         "dealId": "product-134faee1d473a0",
         "product": "L’EXPRESSION",
         "category": "Other",
@@ -1719,7 +1033,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 35,
+        "rank": 25,
         "dealId": "product-e791e33c0ff83a",
         "product": "LES ARGELIÈRES",
         "category": "Other",
@@ -1735,23 +1049,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 36,
-        "dealId": "product-397e2e79d2178d",
-        "product": "MARQUES DEL ATRIO",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "MARQUES DEL ATRIO",
-        "salePrice": 12.99,
-        "sourceUrl": "https://www.aldi.com.au/product/marques-del-atrio-rioja-reserva-tempranillo-graciano-750ml-000000000000283861",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 37,
+        "rank": 26,
         "dealId": "product-faeee97b7d3feb",
         "product": "MCGUIGAN",
         "category": "Other",
@@ -1767,121 +1065,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 38,
-        "dealId": "product-9f0b13a98ccc21",
-        "product": "O'DONNELLS",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "O'DONNELLS",
-        "salePrice": 12.99,
-        "sourceUrl": "https://www.aldi.com.au/product/o-donnells-irish-cream-salted-caramel-liqueur-700ml-000000000000284675",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 39,
-        "dealId": "product-9f0b13a98ccc21",
-        "product": "O'DONNELLS",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "O'DONNELLS",
-        "salePrice": 14.99,
-        "sourceUrl": "https://www.aldi.com.au/product/o-donnells-irish-country-cream-700ml-000000000000283907",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 40,
-        "dealId": "product-c8699083a3f90b",
-        "product": "OCEAN ROYALE",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "OCEAN ROYALE",
-        "salePrice": 6.99,
-        "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-basa-fillets-1kg-000000000000279936",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 41,
-        "dealId": "product-c8699083a3f90b",
-        "product": "OCEAN ROYALE",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "OCEAN ROYALE",
-        "salePrice": 10.98,
-        "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-crumbed-calamari-rings-400g-000000000000278981",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 42,
-        "dealId": "product-c8699083a3f90b",
-        "product": "OCEAN ROYALE",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "OCEAN ROYALE",
-        "salePrice": 13.86,
-        "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-salt-pepper-squid-360g-000000000000278985",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 43,
-        "dealId": "product-c8699083a3f90b",
-        "product": "OCEAN ROYALE",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "OCEAN ROYALE",
-        "salePrice": 19.99,
-        "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-barramundi-fillets-1kg-000000000000279961",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 44,
-        "dealId": "product-e620a94e80ce2f",
-        "product": "OH SO NATURAL ORGANIC",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "OH SO NATURAL ORGANIC",
-        "salePrice": 1.6,
-        "pricePerUnit": 16,
-        "pricePerUnitType": "l",
-        "sourceUrl": "https://www.aldi.com.au/product/oh-so-natural-organic-organic-extra-virgin-olive-oil-500ml-000000000000199822",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 45,
+        "rank": 27,
         "dealId": "product-791c54be5688f4",
         "product": "PC PETITE CUISINE",
         "category": "Other",
@@ -1897,151 +1081,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 46,
-        "dealId": "product-bcfed986c29dc4",
-        "product": "Products",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/products/limited-time-only/k/1588161420755352",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 47,
-        "dealId": "product-bcfed986c29dc4",
-        "product": "Products",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.doordash.com/p/aldi-australia?srsltid=AfmBOoqwsSBRqA5_Q82QhhYvHQgr-z4KiqqWvj-M-AH_DSSHbRGkHsKA",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 48,
-        "dealId": "product-bcfed986c29dc4",
-        "product": "Products",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/urban-eats-greek-spinach-cheese-spanakopita-750g-000000000000368932",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 49,
-        "dealId": "product-bcfed986c29dc4",
-        "product": "Products",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/di-san-oxy-laundry-soaker-1kg-000000000399116001",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 50,
-        "dealId": "product-bcfed986c29dc4",
-        "product": "Products",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/products/meat-seafood/k/940000000",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 51,
-        "dealId": "product-bcfed986c29dc4",
-        "product": "Products",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/products/fruits-vegetables/k/950000000",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 52,
-        "dealId": "product-bcfed986c29dc4",
-        "product": "Products",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/products/dairy-eggs-fridge/k/960000000",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 53,
-        "dealId": "product-47b29047f9167c",
-        "product": "PURE VITA",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "PURE VITA",
-        "salePrice": 0.5,
-        "pricePerUnit": 5,
-        "pricePerUnitType": "l",
-        "sourceUrl": "https://www.aldi.com.au/product/pure-vita-sunflower-oil-1l-000000000000200347",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 54,
+        "rank": 28,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -2057,7 +1097,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 55,
+        "rank": 29,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -2073,7 +1113,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 56,
+        "rank": 30,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -2089,7 +1129,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 57,
+        "rank": 31,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -2105,7 +1145,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 58,
+        "rank": 32,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -2121,14 +1161,14 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 59,
-        "dealId": "product-6c02e0951f0cac",
-        "product": "REMANO",
+        "rank": 33,
+        "dealId": "product-0ba204545fa3a3",
+        "product": "READY, SET…COOK!",
         "category": "Other",
         "store": "aldi",
-        "sourceName": "REMANO",
-        "salePrice": 2.38,
-        "sourceUrl": "https://www.aldi.com.au/product/remano-italian-diced-tomatoes-400g-000000000000278716",
+        "sourceName": "READY, SET…COOK!",
+        "salePrice": 34.98,
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-beef-porterhouse-steak-with-garlic-and-herb-butter-400g-000000000000532959",
         "promotionType": "SALE",
         "dealScore": 2,
         "reasons": [
@@ -2137,43 +1177,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 60,
-        "dealId": "product-6c02e0951f0cac",
-        "product": "REMANO",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "REMANO",
-        "salePrice": 0.99,
-        "pricePerUnit": 9.9,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/remano-basil-pesto-190g-000000000000274244",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 61,
-        "dealId": "product-6c02e0951f0cac",
-        "product": "REMANO",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "REMANO",
-        "salePrice": 0.99,
-        "pricePerUnit": 9.9,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/remano-sundried-tomato-pesto-190g-000000000000274249",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 62,
+        "rank": 34,
         "dealId": "product-30fd3486943d84",
         "product": "SCHNITS FINE FOODS",
         "category": "Other",
@@ -2189,7 +1193,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 63,
+        "rank": 35,
         "dealId": "product-25761bbac66a5d",
         "product": "STEGGLES",
         "category": "Dairy & Eggs",
@@ -2205,39 +1209,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 64,
-        "dealId": "product-2c48e4059dfeff",
-        "product": "SWEET VALLEY",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "SWEET VALLEY",
-        "salePrice": 2.9,
-        "sourceUrl": "https://www.aldi.com.au/product/sweet-valley-peach-slices-in-syrup-825g-000000000000280732",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 65,
-        "dealId": "product-f4adcc79145d89",
-        "product": "SWEET VINE",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "SWEET VINE",
-        "salePrice": 10.98,
-        "sourceUrl": "https://www.aldi.com.au/product/sweet-vine-pitted-prunes-500g-000000000000266263",
-        "promotionType": "SALE",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 66,
+        "rank": 36,
         "dealId": "product-71de671521cfab",
         "product": "TAVERNELLO",
         "category": "Other",
@@ -2253,7 +1225,23 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 67,
+        "rank": 37,
+        "dealId": "product-14c6572d6be944",
+        "product": "THE FISHMONGER",
+        "category": "Fish & Seafood",
+        "store": "aldi",
+        "sourceName": "THE FISHMONGER",
+        "salePrice": 34.76,
+        "sourceUrl": "https://www.aldi.com.au/product/the-fishmonger-fresh-tasmanian-salmon-fillets-skin-off-4-pack-460g-000000000000403239",
+        "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 38,
         "dealId": "product-14c6572d6be944",
         "product": "THE FISHMONGER",
         "category": "Fish & Seafood",
