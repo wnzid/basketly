@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:19:22.169Z",
+  "generatedAt": "2026-08-27T17:38:24.751Z",
   "target": {
     "suburb": "St Albans",
     "state": "VIC",
@@ -44,7 +44,7 @@
     },
     "costco": {
       "status": "success",
-      "offers": 44,
+      "offers": 50,
       "target": {
         "name": "Costco Ardeer",
         "address": "740 Ballarat Road, Ardeer VIC 3022",
@@ -64,6 +64,6 @@
       }
     }
   },
-  "totalOffers": 82,
-  "normalizedProducts": 68
+  "totalOffers": 88,
+  "normalizedProducts": 74
 }
