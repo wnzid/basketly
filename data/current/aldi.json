@@ -1,6 +1,6 @@
 {
   "store": "aldi",
-  "collectedAt": "2026-08-26T07:07:40.265Z",
+  "collectedAt": "2026-08-28T18:38:42.230Z",
   "source": "https://www.aldi.com.au/products/super-savers/k/1588161426952145",
   "target": {
     "area": "St Albans VIC 3021, Melbourne",
@@ -565,25 +565,6 @@
       "confidence": "HIGH"
     },
     {
-      "externalId": "https://www.aldi.com.au/product/kapiti-marlborough-salted-caramel-ice-cream-1l-000000000000581983",
-      "name": "KAPITI",
-      "salePrice": 0.7,
-      "pricePerUnit": 7,
-      "pricePerUnitType": "l",
-      "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ce10e222-0b9f-47b3-b7d4-67292ddedc62/Marlborough%20Salted%20Caramel%20Ice%20Cream%201L",
-      "sourceUrl": "https://www.aldi.com.au/product/kapiti-marlborough-salted-caramel-ice-cream-1l-000000000000581983",
-      "category": "Limited Time Only",
-      "promotionType": "CAMPAIGN",
-      "sourceType": "web",
-      "sourcePlatform": "aldi",
-      "channel": "physical",
-      "physicalStoreAvailability": "unknown",
-      "locationScope": "state-level",
-      "targetStore": "ALDI Brimbank",
-      "targetPostcode": "3021",
-      "confidence": "HIGH"
-    },
-    {
       "externalId": "https://www.aldi.com.au/product/big-bear-california-chardonnay-750ml-000000000000584688",
       "name": "BIG BEAR",
       "salePrice": 13.99,
@@ -663,6 +644,23 @@
       "pricePerUnitType": "kg",
       "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ae023736-c696-4a93-b7ef-bd3956ebd2fb/No%20Added%20Sugar%20Banana%20Yogurt%20Pouch%20110g",
       "sourceUrl": "https://www.aldi.com.au/product/brooklea-no-added-sugar-banana-yogurt-pouch-110g-000000000000614423",
+      "category": "Limited Time Only",
+      "promotionType": "CAMPAIGN",
+      "sourceType": "web",
+      "sourcePlatform": "aldi",
+      "channel": "physical",
+      "physicalStoreAvailability": "unknown",
+      "locationScope": "state-level",
+      "targetStore": "ALDI Brimbank",
+      "targetPostcode": "3021",
+      "confidence": "HIGH"
+    },
+    {
+      "externalId": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
+      "name": "FLYING POWER",
+      "salePrice": 2.78,
+      "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6de2cc85-ecf2-44c8-b77e-b5efa977f403/Hydration%20Sport%20Drink%20Arctic%20Chill%20500ml",
+      "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
       "category": "Limited Time Only",
       "promotionType": "CAMPAIGN",
       "sourceType": "web",

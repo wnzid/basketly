@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:38:24.751Z",
+  "generatedAt": "2026-08-28T18:40:14.484Z",
   "all": [
     {
       "rank": 1,
@@ -262,24 +262,6 @@
       "category": "Other",
       "store": "aldi",
       "sourceName": "KAPITI",
-      "salePrice": 0.7,
-      "pricePerUnit": 7,
-      "pricePerUnitType": "l",
-      "sourceUrl": "https://www.aldi.com.au/product/kapiti-marlborough-salted-caramel-ice-cream-1l-000000000000581983",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 32,
-      "reasons": [
-        "LOWEST_OBSERVED_PRICE"
-      ],
-      "historicalStatus": "LOWEST_OBSERVED"
-    },
-    {
-      "rank": 17,
-      "dealId": "product-09053bd9215db4",
-      "product": "KAPITI",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "KAPITI",
       "salePrice": 1.94,
       "pricePerUnit": 19.4,
       "pricePerUnitType": "l",
@@ -292,7 +274,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "dealId": "product-134faee1d473a0",
       "product": "L’EXPRESSION",
       "category": "Other",
@@ -308,7 +290,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "dealId": "product-e791e33c0ff83a",
       "product": "LES ARGELIÈRES",
       "category": "Other",
@@ -324,7 +306,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "dealId": "product-faeee97b7d3feb",
       "product": "MCGUIGAN",
       "category": "Other",
@@ -340,7 +322,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "dealId": "product-791c54be5688f4",
       "product": "PC PETITE CUISINE",
       "category": "Other",
@@ -356,7 +338,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -372,7 +354,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -388,7 +370,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -404,7 +386,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -420,7 +402,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -436,7 +418,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "dealId": "product-30fd3486943d84",
       "product": "SCHNITS FINE FOODS",
       "category": "Other",
@@ -452,7 +434,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "dealId": "product-25761bbac66a5d",
       "product": "STEGGLES",
       "category": "Dairy & Eggs",
@@ -468,7 +450,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "dealId": "product-71de671521cfab",
       "product": "TAVERNELLO",
       "category": "Other",
@@ -484,7 +466,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "dealId": "product-fc9e0f645aa847",
       "product": "BROAD OAK FARMS",
       "category": "Other",
@@ -500,7 +482,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "dealId": "product-fc9e0f645aa847",
       "product": "BROAD OAK FARMS",
       "category": "Other",
@@ -509,6 +491,22 @@
       "salePrice": 11.99,
       "sourceUrl": "https://www.aldi.com.au/product/broad-oak-farms-rspca-approved-chicken-breast-fillet-stir-fry-000000000000403626",
       "promotionType": "SALE",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 31,
+      "dealId": "product-98596f62a6dbb0",
+      "product": "FLYING POWER",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "FLYING POWER",
+      "salePrice": 2.78,
+      "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
+      "promotionType": "CAMPAIGN",
       "dealScore": 2,
       "reasons": [
         "LIMITED_HISTORY"
@@ -889,24 +887,6 @@
         "category": "Other",
         "store": "aldi",
         "sourceName": "KAPITI",
-        "salePrice": 0.7,
-        "pricePerUnit": 7,
-        "pricePerUnitType": "l",
-        "sourceUrl": "https://www.aldi.com.au/product/kapiti-marlborough-salted-caramel-ice-cream-1l-000000000000581983",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 32,
-        "reasons": [
-          "LOWEST_OBSERVED_PRICE"
-        ],
-        "historicalStatus": "LOWEST_OBSERVED"
-      },
-      {
-        "rank": 17,
-        "dealId": "product-09053bd9215db4",
-        "product": "KAPITI",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "KAPITI",
         "salePrice": 1.94,
         "pricePerUnit": 19.4,
         "pricePerUnitType": "l",
@@ -919,7 +899,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "dealId": "product-134faee1d473a0",
         "product": "L’EXPRESSION",
         "category": "Other",
@@ -935,7 +915,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "dealId": "product-e791e33c0ff83a",
         "product": "LES ARGELIÈRES",
         "category": "Other",
@@ -951,7 +931,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "dealId": "product-faeee97b7d3feb",
         "product": "MCGUIGAN",
         "category": "Other",
@@ -967,7 +947,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "dealId": "product-791c54be5688f4",
         "product": "PC PETITE CUISINE",
         "category": "Other",
@@ -983,7 +963,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -999,7 +979,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1015,7 +995,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1031,7 +1011,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 25,
+        "rank": 24,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1047,7 +1027,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 26,
+        "rank": 25,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1063,7 +1043,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 27,
+        "rank": 26,
         "dealId": "product-30fd3486943d84",
         "product": "SCHNITS FINE FOODS",
         "category": "Other",
@@ -1079,7 +1059,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 28,
+        "rank": 27,
         "dealId": "product-25761bbac66a5d",
         "product": "STEGGLES",
         "category": "Dairy & Eggs",
@@ -1095,7 +1075,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 29,
+        "rank": 28,
         "dealId": "product-71de671521cfab",
         "product": "TAVERNELLO",
         "category": "Other",
@@ -1111,7 +1091,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 30,
+        "rank": 29,
         "dealId": "product-fc9e0f645aa847",
         "product": "BROAD OAK FARMS",
         "category": "Other",
@@ -1127,7 +1107,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 31,
+        "rank": 30,
         "dealId": "product-fc9e0f645aa847",
         "product": "BROAD OAK FARMS",
         "category": "Other",
@@ -1136,6 +1116,22 @@
         "salePrice": 11.99,
         "sourceUrl": "https://www.aldi.com.au/product/broad-oak-farms-rspca-approved-chicken-breast-fillet-stir-fry-000000000000403626",
         "promotionType": "SALE",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 31,
+        "dealId": "product-98596f62a6dbb0",
+        "product": "FLYING POWER",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "FLYING POWER",
+        "salePrice": 2.78,
+        "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
+        "promotionType": "CAMPAIGN",
         "dealScore": 2,
         "reasons": [
           "LIMITED_HISTORY"
