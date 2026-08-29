@@ -918,7 +918,7 @@
         "canonicalProductId": "product-1027545f0db526",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -962,7 +962,7 @@
         "canonicalProductId": "product-cc35236583af0a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 13.99,
           "historicalMedian": 13.99,
           "historicalHigh": 13.99,
@@ -976,48 +976,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c0fb6d7d-91cd-48b7-8d3b-160338d6f400/California%20Chardonnay%20750ml"
-  },
-  {
-    "id": "product-34faef0ef6d670",
-    "name": "Blackstone Omnivore Griddle With Hood And Soft Cover",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "1934226",
-        "name": "Blackstone Omnivore Griddle With Hood And Soft Cover",
-        "salePrice": 699.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h5e/hb8/418483845759006.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Blackstone-Omnivore-Griddle-With-Hood-And-Soft-Cover/p/1934226",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Blackstone Omnivore Griddle With Hood And Soft Cover",
-        "displayName": "Blackstone Omnivore Griddle With Hood And Soft Cover",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-34faef0ef6d670",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h5e/hb8/418483845759006.jpg"
   },
   {
     "id": "product-64191c2c8faa6b",
@@ -1048,7 +1006,7 @@
         "canonicalProductId": "product-64191c2c8faa6b",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 16.99,
           "historicalMedian": 16.99,
           "historicalHigh": 16.99,
@@ -1133,11 +1091,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 4.99,
+          "historicalMedian": 4.99,
+          "historicalHigh": 4.99,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -1164,11 +1126,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 11.99,
+          "historicalMedian": 11.99,
+          "historicalHigh": 11.99,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -1196,7 +1162,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 12.49,
           "historicalMedian": 12.49,
           "historicalHigh": 12.49,
@@ -1242,7 +1208,7 @@
         "canonicalProductId": "product-1ccc725b7bb1d4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 11.7,
           "historicalMedian": 11.7,
           "historicalHigh": 11.7,
@@ -1286,7 +1252,7 @@
         "canonicalProductId": "product-4071950ce49369",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -1420,7 +1386,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1457,7 +1423,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1671,7 +1637,7 @@
         "canonicalProductId": "product-fea99608396259",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 14.3,
           "historicalMedian": 14.3,
           "historicalHigh": 14.3,
@@ -1757,7 +1723,7 @@
         "canonicalProductId": "product-5062d098f404a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 0.5,
           "historicalMedian": 0.5,
           "historicalHigh": 0.5,
@@ -1801,7 +1767,7 @@
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -1843,7 +1809,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 24.9,
           "historicalMedian": 24.9,
           "historicalHigh": 24.9,
@@ -1880,7 +1846,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -1894,52 +1860,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/850c6ca5-2ed1-4b8b-8cf3-d9edc7d773b8/Protein%20Pancakes%20160g"
-  },
-  {
-    "id": "product-cd3d4f821f3e69",
-    "name": "Hisense 155L Vertical Freezer White HRVF155",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "204460",
-        "name": "Hisense 155L Vertical Freezer White HRVF155",
-        "salePrice": 699.99,
-        "quantity": 155,
-        "unit": "l",
-        "pricePerUnit": 4.52,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h21/h98/279734989455390.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Hisense-155L-Vertical-Freezer-White-HRVF155/p/204460",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Hisense 155L Vertical Freezer White HRVF155",
-        "displayName": "Hisense 155L Vertical Freezer White HRVF155",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-cd3d4f821f3e69",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h21/h98/279734989455390.jpg"
   },
   {
     "id": "product-ecb51080a919b0",
@@ -2110,7 +2030,7 @@
         "canonicalProductId": "product-dee325d469b1e8",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 6.8,
           "historicalMedian": 6.8,
           "historicalHigh": 6.8,
@@ -2195,11 +2115,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 9.98,
+          "historicalMedian": 9.98,
+          "historicalHigh": 9.98,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -2227,7 +2151,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 13.49,
           "historicalMedian": 13.49,
           "historicalHigh": 13.49,
@@ -2261,11 +2185,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 13.99,
+          "historicalMedian": 13.99,
+          "historicalHigh": 13.99,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -2292,11 +2220,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 15.49,
+          "historicalMedian": 15.49,
+          "historicalHigh": 15.49,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -2333,7 +2265,7 @@
         "canonicalProductId": "product-4c13de8cce2743",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 31.99,
           "historicalMedian": 31.99,
           "historicalHigh": 31.99,
@@ -2379,7 +2311,7 @@
         "canonicalProductId": "product-09053bd9215db4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 19.4,
           "historicalMedian": 19.4,
           "historicalHigh": 19.4,
@@ -2422,11 +2354,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-825b5433911cb2",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 17.99,
+          "historicalMedian": 17.99,
+          "historicalHigh": 17.99,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -2553,7 +2489,7 @@
         "canonicalProductId": "product-134faee1d473a0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 10.99,
           "historicalMedian": 10.99,
           "historicalHigh": 10.99,
@@ -2597,7 +2533,7 @@
         "canonicalProductId": "product-e791e33c0ff83a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -2931,52 +2867,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h5d/h64/246134773448734.jpg"
   },
   {
-    "id": "product-05ffff9ac204f3",
-    "name": "LG 641L Side By Side Fridge Matte Black GS-N599MBL",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "257835",
-        "name": "LG 641L Side By Side Fridge Matte Black GS-N599MBL",
-        "salePrice": 1899.99,
-        "quantity": 641,
-        "unit": "l",
-        "pricePerUnit": 2.96,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/ha9/hbb/433191285096478.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/LG-641L-Side-By-Side-Fridge-Matte-Black-GS-N599MBL/p/257835",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "LG 641L Side By Side Fridge Matte Black GS-N599MBL",
-        "displayName": "LG 641L Side By Side Fridge Matte Black GS-N599MBL",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-05ffff9ac204f3",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/ha9/hbb/433191285096478.jpg"
-  },
-  {
     "id": "product-faeee97b7d3feb",
     "name": "MCGUIGAN",
     "category": "Other",
@@ -3005,7 +2895,7 @@
         "canonicalProductId": "product-faeee97b7d3feb",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 8.99,
           "historicalMedian": 8.99,
           "historicalHigh": 8.99,
@@ -3263,7 +3153,7 @@
         "canonicalProductId": "product-791c54be5688f4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 22.7,
           "historicalMedian": 22.7,
           "historicalHigh": 22.7,
@@ -3483,7 +3373,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 18.74,
           "historicalMedian": 18.74,
           "historicalHigh": 18.74,
@@ -3518,7 +3408,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 19.38,
           "historicalMedian": 19.38,
           "historicalHigh": 19.38,
@@ -3553,7 +3443,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 20.81,
           "historicalMedian": 20.81,
           "historicalHigh": 20.81,
@@ -3588,7 +3478,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 22.04,
           "historicalMedian": 22.04,
           "historicalHigh": 22.04,
@@ -3623,7 +3513,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 24.97,
           "historicalMedian": 24.97,
           "historicalHigh": 24.97,
@@ -3657,59 +3547,21 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 34.98,
+          "historicalMedian": 34.98,
+          "historicalHigh": 34.98,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/93fc4a76-f5ba-4fce-81b6-7da60000a554/Beef%20Porterhouse%20Steak%20with%20Garlic%20and%20Herb%20Butter%20400g"
-  },
-  {
-    "id": "product-b178547d6bb167",
-    "name": "Ricardo The Rock Reversible Raclette Party Grill",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "215645",
-        "name": "Ricardo The Rock Reversible Raclette Party Grill",
-        "salePrice": 129.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h54/h94/455949414858782.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Ricardo-The-Rock-Reversible-Raclette-Party-Grill/p/215645",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Ricardo The Rock Reversible Raclette Party Grill",
-        "displayName": "Ricardo The Rock Reversible Raclette Party Grill",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b178547d6bb167",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h54/h94/455949414858782.jpg"
   },
   {
     "id": "product-41f96a908e5884",
@@ -3866,7 +3718,7 @@
         "canonicalProductId": "product-30fd3486943d84",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 19.98,
           "historicalMedian": 19.98,
           "historicalHigh": 19.98,
@@ -4090,7 +3942,7 @@
         "canonicalProductId": "product-25761bbac66a5d",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 14.98,
           "historicalMedian": 14.98,
           "historicalHigh": 14.98,
@@ -4176,7 +4028,7 @@
         "canonicalProductId": "product-71de671521cfab",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 8.99,
           "historicalMedian": 8.99,
           "historicalHigh": 8.99,
@@ -4219,11 +4071,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 34.76,
+          "historicalMedian": 34.76,
+          "historicalHigh": 34.76,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -4251,7 +4107,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "NORMAL",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 32.59,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
