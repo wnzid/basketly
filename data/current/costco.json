@@ -1,6 +1,6 @@
 {
   "store": "costco",
-  "collectedAt": "2026-08-30T11:53:00.764Z",
+  "collectedAt": "2026-08-30T19:50:31.960Z",
   "source": "https://www.costco.com.au/c/hot-buys-category",
   "target": {
     "area": "St Albans VIC 3021, Melbourne",
@@ -667,7 +667,7 @@
       "salePrice": 109.99,
       "quantity": 1.75,
       "unit": "l",
-      "pricePerUnit": 57.2,
+      "pricePerUnit": 62.9,
       "pricePerUnitType": "l",
       "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he9/hde/17572104863774.jpg",
       "sourceUrl": "https://www.costco.com.au/Wine-Spirits/Spirits/Vodka/Kirkland-Signature-American-Vodka-175L/p/639271",
