@@ -1,6 +1,6 @@
 {
   "store": "costco",
-  "collectedAt": "2026-08-31T13:43:53.737Z",
+  "collectedAt": "2026-08-31T21:54:38.993Z",
   "source": "https://www.costco.com.au/c/hot-buys-category",
   "target": {
     "area": "St Albans VIC 3021, Melbourne",
@@ -366,25 +366,6 @@
       "pricePerUnitType": "l",
       "imageUrl": "https://www.costco.com.au/medias/sys_master/products/hee/hf6/383905974091806.jpg",
       "sourceUrl": "https://www.costco.com.au/c/Neutrogena-Rainbath-Gel-Original-118L/p/11021",
-      "promotionType": "CAMPAIGN",
-      "sourceType": "web",
-      "sourcePlatform": "costco",
-      "channel": "online",
-      "onlineAvailable": true,
-      "physicalStoreAvailability": "unknown",
-      "membershipRequired": true,
-      "locationScope": "national",
-      "targetStore": "Costco Ardeer",
-      "targetPostcode": "3021",
-      "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-      "confidence": "MEDIUM"
-    },
-    {
-      "externalId": "259083",
-      "name": "Sony Wireless Noise Cancelling Headphones WH1000XM5SA",
-      "salePrice": 449.99,
-      "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he3/h1e/436582821462046.jpg",
-      "sourceUrl": "https://www.costco.com.au/c/Sony-Wireless-Noise-Cancelling-Headphones-WH1000XM5SA/p/259083",
       "promotionType": "CAMPAIGN",
       "sourceType": "web",
       "sourcePlatform": "costco",
