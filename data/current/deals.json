@@ -1,51 +1,5 @@
 [
   {
-    "id": "product-407dfc0df05e99",
-    "name": "Adam's Polishes Car Wash Shampoo 2.5L",
-    "category": "Personal Care",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "285855",
-        "name": "Adam's Polishes Car Wash Shampoo 2.5L",
-        "salePrice": 34.99,
-        "quantity": 2.5,
-        "unit": "l",
-        "pricePerUnit": 10,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h5a/h43/414781507469342.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Adams-Polishes-Car-Wash-Shampoo-25L/p/285855",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Adam's Polishes Car Wash Shampoo 2.5L",
-        "displayName": "Adam's Polishes Car Wash Shampoo 2.5L",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-407dfc0df05e99",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h5a/h43/414781507469342.jpg"
-  },
-  {
     "id": "product-919ec4ade58fae",
     "name": "Apple AirPods 4",
     "category": "Fruit & Vegetables",
@@ -86,48 +40,6 @@
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h39/h86/273475811967006.jpg"
-  },
-  {
-    "id": "product-7e542dbae24269",
-    "name": "Apple Airpods Pro 2 With MagSafe Case USB-C",
-    "category": "Fruit & Vegetables",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "176868",
-        "name": "Apple Airpods Pro 2 With MagSafe Case USB-C",
-        "salePrice": 359.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h0e/h0c/175594992336926.jpg",
-        "sourceUrl": "https://www.costco.com.au/Electronics/Audio/Headphones/Apple-Airpods-Pro-2-With-MagSafe-Case-USB-C/p/176868",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Apple Airpods Pro 2 With MagSafe Case USB-C",
-        "displayName": "Apple Airpods Pro 2 With MagSafe Case USB-C",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-7e542dbae24269",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h0e/h0c/175594992336926.jpg"
   },
   {
     "id": "product-56ad4ab2611447",
@@ -466,90 +378,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcb/h70/437373691199518.jpg"
   },
   {
-    "id": "product-71db74c3495dde",
-    "name": "Apple iPhone 17 Pro Max 256GB",
-    "category": "Fruit & Vegetables",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "240979",
-        "name": "Apple iPhone 17 Pro Max 256GB",
-        "salePrice": 2099.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h6d/h6e/381563596013598.jpg",
-        "sourceUrl": "https://www.costco.com.au/Electronics/Mobile-Phones/iPhones/iPhone-17-Pro-Max/Apple-iPhone-17-Pro-Max-256GB/p/240979",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Apple iPhone 17 Pro Max 256GB",
-        "displayName": "Apple iPhone 17 Pro Max 256GB",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-71db74c3495dde",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h6d/h6e/381563596013598.jpg"
-  },
-  {
-    "id": "product-3f9f963e4a1d71",
-    "name": "Apple iPhone 17 Pro Max 512GB",
-    "category": "Fruit & Vegetables",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "240980",
-        "name": "Apple iPhone 17 Pro Max 512GB",
-        "salePrice": 2499.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h12/hda/381563599093790.jpg",
-        "sourceUrl": "https://www.costco.com.au/Electronics/Mobile-Phones/iPhones/iPhone-17-Pro-Max/Apple-iPhone-17-Pro-Max-512GB/p/240980",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Apple iPhone 17 Pro Max 512GB",
-        "displayName": "Apple iPhone 17 Pro Max 512GB",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-3f9f963e4a1d71",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h12/hda/381563599093790.jpg"
-  },
-  {
     "id": "product-931907dfdb921a",
     "name": "Apple Watch SE 3 GPS 40mm Aluminium Case With Sport Band",
     "category": "Fruit & Vegetables",
@@ -760,17 +588,17 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h63/hc5/381430297722910.jpg"
   },
   {
-    "id": "product-da3f2b4b3d4719",
-    "name": "Artika Skyler Indoor-Outdoor Bubble Glass LED Wall Light OUT-SK-C6BL",
+    "id": "product-dc867e89d2eeba",
+    "name": "Axus Digital AXP10 Portable Keyboard Pack With Headphones And Stool NM-AXP10PK",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "228698",
-        "name": "Artika Skyler Indoor-Outdoor Bubble Glass LED Wall Light OUT-SK-C6BL",
-        "salePrice": 69.98,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h61/h4a/398933723447326.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Artika-Skyler-Indoor-Outdoor-Bubble-Glass-LED-Wall-Light-OUT-SK-C6BL/p/228698",
+        "externalId": "178133",
+        "name": "Axus Digital AXP10 Portable Keyboard Pack With Headphones And Stool NM-AXP10PK",
+        "salePrice": 249.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h32/hd8/186637563527198.jpg",
+        "sourceUrl": "https://www.costco.com.au/AXUS/Axus-Digital-AXP10-Portable-Keyboard-Pack-With-Headphones-And-Stool-NM-AXP10PK/p/178133",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -784,10 +612,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "Artika Skyler Indoor-Outdoor Bubble Glass LED Wall Light OUT-SK-C6BL",
-        "displayName": "Artika Skyler Indoor-Outdoor Bubble Glass LED Wall Light OUT-SK-C6BL",
+        "sourceName": "Axus Digital AXP10 Portable Keyboard Pack With Headphones And Stool NM-AXP10PK",
+        "displayName": "Axus Digital AXP10 Portable Keyboard Pack With Headphones And Stool NM-AXP10PK",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-da3f2b4b3d4719",
+        "canonicalProductId": "product-dc867e89d2eeba",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -799,53 +627,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h61/h4a/398933723447326.jpg"
-  },
-  {
-    "id": "product-175871f449daf4",
-    "name": "Australian Botanical Bar Soap 8 Pack",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "35945",
-        "name": "Australian Botanical Bar Soap 8 Pack",
-        "salePrice": 24.99,
-        "quantity": 8,
-        "unit": "pcs",
-        "pricePerUnit": 12.5,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hcd/h89/378809807863838.jpg",
-        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Personal-Care/Bath-Body/Australian-Botanical-Bar-Soap-8-Pack/p/35945",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Australian Botanical Bar Soap 8 Pack",
-        "displayName": "Australian Botanical Bar Soap 8 Pack",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-175871f449daf4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcd/h89/378809807863838.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h32/hd8/186637563527198.jpg"
   },
   {
     "id": "product-1027545f0db526",
@@ -876,7 +658,7 @@
         "canonicalProductId": "product-1027545f0db526",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -920,7 +702,7 @@
         "canonicalProductId": "product-cc35236583af0a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 13.99,
           "historicalMedian": 13.99,
           "historicalHigh": 13.99,
@@ -964,7 +746,7 @@
         "canonicalProductId": "product-64191c2c8faa6b",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 16.99,
           "historicalMedian": 16.99,
           "historicalHigh": 16.99,
@@ -978,48 +760,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3a73b434-c207-4fb5-b300-c6f2c9e81f0e/Limited%20Release%20Margaret%20River%20Chardonnay%20750ml"
-  },
-  {
-    "id": "product-2348cb7571f3ac",
-    "name": "Bose Quietcomfort SC ANC Over-Ear Headphones 884367-0900",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "189304",
-        "name": "Bose Quietcomfort SC ANC Over-Ear Headphones 884367-0900",
-        "salePrice": 419.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hde/h3e/244910042349598.jpg",
-        "sourceUrl": "https://www.costco.com.au/Electronics/Audio/Headphones/Bose-Quietcomfort-SC-ANC-Over-Ear-Headphones-884367-0900/p/189304",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Bose Quietcomfort SC ANC Over-Ear Headphones 884367-0900",
-        "displayName": "Bose Quietcomfort SC ANC Over-Ear Headphones 884367-0900",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-2348cb7571f3ac",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hde/h3e/244910042349598.jpg"
   },
   {
     "id": "product-fc9e0f645aa847",
@@ -1050,7 +790,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 4.99,
           "historicalMedian": 4.99,
           "historicalHigh": 4.99,
@@ -1085,7 +825,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -1120,7 +860,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 12.49,
           "historicalMedian": 12.49,
           "historicalHigh": 12.49,
@@ -1166,7 +906,7 @@
         "canonicalProductId": "product-1ccc725b7bb1d4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 11.7,
           "historicalMedian": 11.7,
           "historicalHigh": 11.7,
@@ -1210,7 +950,7 @@
         "canonicalProductId": "product-4071950ce49369",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -1226,21 +966,19 @@
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/74415ca2-a88b-4cc7-9a1c-bf9f62bf1662/Winter%20Red%20750ml"
   },
   {
-    "id": "product-f3dc7f02a526c2",
-    "name": "Cuckoo Electric Kettle 1.7L CK-C170TW",
+    "id": "product-2c56effd81ffdf",
+    "name": "Caltrate Bone & Muscle 3 x 100 Tablets",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "234140",
-        "name": "Cuckoo Electric Kettle 1.7L CK-C170TW",
-        "salePrice": 179.99,
-        "quantity": 1.7,
-        "unit": "l",
-        "pricePerUnit": 105.88,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h64/h99/368616433025054.jpg",
-        "sourceUrl": "https://www.costco.com.au/Appliances/Kitchen-Appliances/Kettles/Cuckoo-Electric-Kettle-17L-CK-C170TW/p/234140",
+        "externalId": "230347",
+        "name": "Caltrate Bone & Muscle 3 x 100 Tablets",
+        "salePrice": 37.99,
+        "pricePerUnit": 0.1,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h72/he6/369010398265374.jpg",
+        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Nutrition-Weight-Management/Vitamins-Supplements/Caltrate-Bone-Muscle-3-x-100-Tablets/p/230347",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -1254,10 +992,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "Cuckoo Electric Kettle 1.7L CK-C170TW",
-        "displayName": "Cuckoo Electric Kettle 1.7L CK-C170TW",
+        "sourceName": "Caltrate Bone & Muscle 3 x 100 Tablets",
+        "displayName": "Caltrate Bone & Muscle 3 x 100 Tablets",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-f3dc7f02a526c2",
+        "canonicalProductId": "product-2c56effd81ffdf",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -1269,7 +1007,95 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h64/h99/368616433025054.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h72/he6/369010398265374.jpg"
+  },
+  {
+    "id": "product-a8c250e26c1979",
+    "name": "Clearwipe Lens Cleaner 160 Pack",
+    "category": "Household",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "141095",
+        "name": "Clearwipe Lens Cleaner 160 Pack",
+        "salePrice": 27.98,
+        "quantity": 160,
+        "unit": "pcs",
+        "pricePerUnit": 0.17,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h95/332273732026398.jpg",
+        "sourceUrl": "https://www.costco.com.au/Health-Beauty/First-Aid/Clearwipe-Lens-Cleaner-160-Pack/p/141095",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Clearwipe Lens Cleaner 160 Pack",
+        "displayName": "Clearwipe Lens Cleaner 160 Pack",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-a8c250e26c1979",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h95/332273732026398.jpg"
+  },
+  {
+    "id": "product-697b1595291698",
+    "name": "Cuckoo IH Electric Pressure Rice Cooker 10 Cups CRP-CHSS1009F",
+    "category": "Pantry",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "130322",
+        "name": "Cuckoo IH Electric Pressure Rice Cooker 10 Cups CRP-CHSS1009F",
+        "salePrice": 589.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h4b/h62/98991744253982.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Kitchen-Appliances/Rice-Cookers/Cuckoo-IH-Electric-Pressure-Rice-Cooker-10-Cups-CRP-CHSS1009F/p/130322",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Cuckoo IH Electric Pressure Rice Cooker 10 Cups CRP-CHSS1009F",
+        "displayName": "Cuckoo IH Electric Pressure Rice Cooker 10 Cups CRP-CHSS1009F",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-697b1595291698",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h4b/h62/98991744253982.jpg"
   },
   {
     "id": "product-89455e2f243cb4",
@@ -1344,7 +1170,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1381,7 +1207,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1397,17 +1223,17 @@
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/d5f5da50-3736-43d1-8217-fb6c2a9b4e57/Damora%20Crisps%20Sea%20Salt%20150g"
   },
   {
-    "id": "product-4cbe4864a866eb",
-    "name": "DeWALT 109 Piece Mixed Accessory Set",
-    "category": "Other",
+    "id": "product-bec1de1f070c7c",
+    "name": "De'Longhi Nespresso Vertuo Lattissima Coffee Machine ENV300",
+    "category": "Drinks",
     "aliases": [],
     "offers": [
       {
-        "externalId": "195879",
-        "name": "DeWALT 109 Piece Mixed Accessory Set",
-        "salePrice": 59.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h3f/h29/296734563598366.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/DeWALT-109-Piece-Mixed-Accessory-Set/p/195879",
+        "externalId": "183779",
+        "name": "De'Longhi Nespresso Vertuo Lattissima Coffee Machine ENV300",
+        "salePrice": 649.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h7d/h87/193421289291806.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Coffee-Drink-Makers/Coffee-Espresso-Machines/DeLonghi-Nespresso-Vertuo-Lattissima-Coffee-Machine-ENV300/p/183779",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -1421,10 +1247,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "DeWALT 109 Piece Mixed Accessory Set",
-        "displayName": "DeWALT 109 Piece Mixed Accessory Set",
+        "sourceName": "De'Longhi Nespresso Vertuo Lattissima Coffee Machine ENV300",
+        "displayName": "De'Longhi Nespresso Vertuo Lattissima Coffee Machine ENV300",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4cbe4864a866eb",
+        "canonicalProductId": "product-bec1de1f070c7c",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -1436,91 +1262,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h3f/h29/296734563598366.jpg"
-  },
-  {
-    "id": "product-ac0309942c974a",
-    "name": "DeWALT 150 Piece Toughgrip Screwdriving Bit Set",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "186733",
-        "name": "DeWALT 150 Piece Toughgrip Screwdriving Bit Set",
-        "salePrice": 79.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h90/h6a/240090702446622.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/DeWALT-150-Piece-Toughgrip-Screwdriving-Bit-Set/p/186733",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "DeWALT 150 Piece Toughgrip Screwdriving Bit Set",
-        "displayName": "DeWALT 150 Piece Toughgrip Screwdriving Bit Set",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-ac0309942c974a",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h90/h6a/240090702446622.jpg"
-  },
-  {
-    "id": "product-efc8795f661f13",
-    "name": "DeWALT 184 Piece Mechanics Tool Set",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "184111",
-        "name": "DeWALT 184 Piece Mechanics Tool Set",
-        "salePrice": 199.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h6b/ha4/256063394021406.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/DeWALT-184-Piece-Mechanics-Tool-Set/p/184111",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "DeWALT 184 Piece Mechanics Tool Set",
-        "displayName": "DeWALT 184 Piece Mechanics Tool Set",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-efc8795f661f13",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h6b/ha4/256063394021406.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h7d/h87/193421289291806.jpg"
   },
   {
     "id": "product-77826bd9b916a1",
@@ -1595,7 +1337,7 @@
         "canonicalProductId": "product-fea99608396259",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 14.3,
           "historicalMedian": 14.3,
           "historicalHigh": 14.3,
@@ -1609,48 +1351,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/79a57017-d838-48db-9b90-15401cfb5241/Tortilla%20Strips%20White%20Corn%20230g"
-  },
-  {
-    "id": "product-dfb94377abc1a6",
-    "name": "Eurow Microfibre Trek 'N' Clean Mat",
-    "category": "Household",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "1600273",
-        "name": "Eurow Microfibre Trek 'N' Clean Mat",
-        "salePrice": 29.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h63/h65/226261144305694.jpg",
-        "sourceUrl": "https://www.costco.com.au/Grocery-Household/Cleaning-Laundry-Products/Eurow-Microfibre-Trek-N-Clean-Mat/p/1600273",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Eurow Microfibre Trek 'N' Clean Mat",
-        "displayName": "Eurow Microfibre Trek 'N' Clean Mat",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dfb94377abc1a6",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h63/h65/226261144305694.jpg"
   },
   {
     "id": "product-5062d098f404a3",
@@ -1681,7 +1381,7 @@
         "canonicalProductId": "product-5062d098f404a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 0.5,
           "historicalMedian": 0.5,
           "historicalHigh": 0.5,
@@ -1724,11 +1424,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 2.78,
+          "historicalMedian": 2.78,
+          "historicalHigh": 2.78,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -1767,7 +1471,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 24.9,
           "historicalMedian": 24.9,
           "historicalHigh": 24.9,
@@ -1804,7 +1508,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -1820,21 +1524,21 @@
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/850c6ca5-2ed1-4b8b-8cf3-d9edc7d773b8/Protein%20Pancakes%20160g"
   },
   {
-    "id": "product-47e7425fa762a8",
-    "name": "Hisense 500L PureFlat Bottom Mount Refrigerator Dark Steel HRBM500TBW",
+    "id": "product-9b2b52a3a2819f",
+    "name": "Four Pillars Rare Dry Gin 1L",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "200028",
-        "name": "Hisense 500L PureFlat Bottom Mount Refrigerator Dark Steel HRBM500TBW",
-        "salePrice": 1249.99,
-        "quantity": 500,
+        "externalId": "45269",
+        "name": "Four Pillars Rare Dry Gin 1L",
+        "salePrice": 104.98,
+        "quantity": 1,
         "unit": "l",
-        "pricePerUnit": 2.5,
+        "pricePerUnit": 90,
         "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hb2/h6c/259321993297950.jpg",
-        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/Hisense-500L-PureFlat-Bottom-Mount-Refrigerator-Dark-Steel-HRBM500TBW/p/200028",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h85/97870197719070.jpg",
+        "sourceUrl": "https://www.costco.com.au/Wine-Spirits/Spirits/Gin/Four-Pillars-Rare-Dry-Gin-1L/p/45269",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -1848,10 +1552,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "Hisense 500L PureFlat Bottom Mount Refrigerator Dark Steel HRBM500TBW",
-        "displayName": "Hisense 500L PureFlat Bottom Mount Refrigerator Dark Steel HRBM500TBW",
+        "sourceName": "Four Pillars Rare Dry Gin 1L",
+        "displayName": "Four Pillars Rare Dry Gin 1L",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-47e7425fa762a8",
+        "canonicalProductId": "product-9b2b52a3a2819f",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -1863,7 +1567,93 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb2/h6c/259321993297950.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h85/97870197719070.jpg"
+  },
+  {
+    "id": "product-4b05f234eeeecc",
+    "name": "G Force 60V Brushless Hedge Trimmer Kit EV HT1K",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "235943",
+        "name": "G Force 60V Brushless Hedge Trimmer Kit EV HT1K",
+        "salePrice": 299.99,
+        "pricePerUnit": 0.17,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h5d/h0b/368164608278558.jpg",
+        "sourceUrl": "https://www.costco.com.au/Home-Improvement/Tools/Power-Tools/G-Force-60V-Brushless-Hedge-Trimmer-Kit-EV-HT1K/p/235943",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "G Force 60V Brushless Hedge Trimmer Kit EV HT1K",
+        "displayName": "G Force 60V Brushless Hedge Trimmer Kit EV HT1K",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-4b05f234eeeecc",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h5d/h0b/368164608278558.jpg"
+  },
+  {
+    "id": "product-200bde9e1cb93d",
+    "name": "Hisense 75 Inch U6S ULED Hi-QLED Mini LED 4K Smart TV 75U6SAU",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "2026066",
+        "name": "Hisense 75 Inch U6S ULED Hi-QLED Mini LED 4K Smart TV 75U6SAU",
+        "salePrice": 1999.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h1b/h43/474018839035934.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Hisense-75-Inch-U6S-ULED-Hi-QLED-Mini-LED-4K-Smart-TV-75U6SAU/p/2026066",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Hisense 75 Inch U6S ULED Hi-QLED Mini LED 4K Smart TV 75U6SAU",
+        "displayName": "Hisense 75 Inch U6S ULED Hi-QLED Mini LED 4K Smart TV 75U6SAU",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-200bde9e1cb93d",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h1b/h43/474018839035934.jpg"
   },
   {
     "id": "product-dee325d469b1e8",
@@ -1896,7 +1686,7 @@
         "canonicalProductId": "product-dee325d469b1e8",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 6.8,
           "historicalMedian": 6.8,
           "historicalHigh": 6.8,
@@ -1910,48 +1700,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/86bab045-ad56-47b2-b6fb-a1b4ad246ef4/Sweet%20Chilli%20%20Lime%20Rice%20Pouch%20250g"
-  },
-  {
-    "id": "product-9a4e1a45d1e3f8",
-    "name": "Incontro Sports Compact 3 Wheel Golf Push Cart",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "1762127",
-        "name": "Incontro Sports Compact 3 Wheel Golf Push Cart",
-        "salePrice": 219.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h1c/hab/400698551664670.jpg",
-        "sourceUrl": "https://www.costco.com.au/Sports-Fitness/Outdoor-Sports/Golf/Incontro-Sports-Compact-3-Wheel-Golf-Push-Cart/p/1762127",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Incontro Sports Compact 3 Wheel Golf Push Cart",
-        "displayName": "Incontro Sports Compact 3 Wheel Golf Push Cart",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9a4e1a45d1e3f8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h1c/hab/400698551664670.jpg"
   },
   {
     "id": "product-aabf286d3aabdd",
@@ -1982,7 +1730,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 9.98,
           "historicalMedian": 9.98,
           "historicalHigh": 9.98,
@@ -1998,7 +1746,7 @@
         "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
         "name": "IRONBARK PORK",
         "salePrice": 13.49,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c9eb0b80-61e4-424b-9374-b6d9e9eb6c6f/Pork%20Scotch%20Fillet%20Roast",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f7432c81-4476-4a01-a0d9-c4568d2eaf5b/Pork%20Scotch%20Fillet%20Roast",
         "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
         "category": "Limited Time Only",
         "promotionType": "CAMPAIGN",
@@ -2017,7 +1765,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 13.49,
           "historicalMedian": 13.49,
           "historicalHigh": 13.49,
@@ -2052,7 +1800,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 13.99,
           "historicalMedian": 13.99,
           "historicalHigh": 13.99,
@@ -2087,7 +1835,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 15.49,
           "historicalMedian": 15.49,
           "historicalHigh": 15.49,
@@ -2131,7 +1879,7 @@
         "canonicalProductId": "product-4c13de8cce2743",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 31.99,
           "historicalMedian": 31.99,
           "historicalHigh": 31.99,
@@ -2177,7 +1925,7 @@
         "canonicalProductId": "product-09053bd9215db4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 19.4,
           "historicalMedian": 19.4,
           "historicalHigh": 19.4,
@@ -2221,7 +1969,7 @@
         "canonicalProductId": "product-825b5433911cb2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 17.99,
           "historicalMedian": 17.99,
           "historicalHigh": 17.99,
@@ -2246,7 +1994,7 @@
         "externalId": "1170795",
         "name": "Kirkland Signature 3 Ply Bath Tissue 48 x 270 Sheets",
         "salePrice": 39.99,
-        "pricePerUnit": 16.4,
+        "pricePerUnit": 30.6,
         "pricePerUnitType": "kg",
         "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h21/h62/332273411227678.jpg",
         "sourceUrl": "https://www.costco.com.au/KIRKLAND-SIGNATURE/Kirkland-Signature-3-Ply-Bath-Tissue-48-x-270-Sheets/p/1170795",
@@ -2281,52 +2029,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h21/h62/332273411227678.jpg"
   },
   {
-    "id": "product-101806263895cd",
-    "name": "Kirkland Signature American Vodka 1.75L",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "639271",
-        "name": "Kirkland Signature American Vodka 1.75L",
-        "salePrice": 109.99,
-        "quantity": 1.75,
-        "unit": "l",
-        "pricePerUnit": 62.9,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he9/hde/17572104863774.jpg",
-        "sourceUrl": "https://www.costco.com.au/Wine-Spirits/Spirits/Vodka/Kirkland-Signature-American-Vodka-175L/p/639271",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Kirkland Signature American Vodka 1.75L",
-        "displayName": "Kirkland Signature American Vodka 1.75L",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-101806263895cd",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he9/hde/17572104863774.jpg"
-  },
-  {
     "id": "product-134faee1d473a0",
     "name": "L’EXPRESSION",
     "category": "Other",
@@ -2355,7 +2057,7 @@
         "canonicalProductId": "product-134faee1d473a0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 10.99,
           "historicalMedian": 10.99,
           "historicalHigh": 10.99,
@@ -2369,6 +2071,48 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/376f49f0-dc57-420a-8591-1264c83b4422/Pinot%20Gris%20750ml"
+  },
+  {
+    "id": "product-be6aa59d2bec06",
+    "name": "Laifen Mini Hair Dryer Green 1HD31SAUGR001",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "280841",
+        "name": "Laifen Mini Hair Dryer Green 1HD31SAUGR001",
+        "salePrice": 149.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h89/h5e/502583987470366.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Laifen-Mini-Hair-Dryer-Green-1HD31SAUGR001/p/280841",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Laifen Mini Hair Dryer Green 1HD31SAUGR001",
+        "displayName": "Laifen Mini Hair Dryer Green 1HD31SAUGR001",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-be6aa59d2bec06",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h89/h5e/502583987470366.jpg"
   },
   {
     "id": "product-e791e33c0ff83a",
@@ -2399,7 +2143,7 @@
         "canonicalProductId": "product-e791e33c0ff83a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -2415,17 +2159,17 @@
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/41da4ebe-bbbe-4522-9712-501341f5a809/Pinot%20Noir%20750ml"
   },
   {
-    "id": "product-e5621e05160727",
-    "name": "LG 14 Place Quad Wash Dishwasher XD5B14WH",
-    "category": "Household",
+    "id": "product-9e135e8dcff190",
+    "name": "LG 55 Inch QNED70B AI MINI LED 4K Smart TV 55QNED70BSA",
+    "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "218510",
-        "name": "LG 14 Place Quad Wash Dishwasher XD5B14WH",
+        "externalId": "2026166",
+        "name": "LG 55 Inch QNED70B AI MINI LED 4K Smart TV 55QNED70BSA",
         "salePrice": 899.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hc4/h6a/333749195997214.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/LG-14-Place-Quad-Wash-Dishwasher-XD5B14WH/p/218510",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hd4/had/474600323186718.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/LG-55-Inch-QNED70B-AI-MINI-LED-4K-Smart-TV-55QNED70BSA/p/2026166",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -2439,10 +2183,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "LG 14 Place Quad Wash Dishwasher XD5B14WH",
-        "displayName": "LG 14 Place Quad Wash Dishwasher XD5B14WH",
+        "sourceName": "LG 55 Inch QNED70B AI MINI LED 4K Smart TV 55QNED70BSA",
+        "displayName": "LG 55 Inch QNED70B AI MINI LED 4K Smart TV 55QNED70BSA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-e5621e05160727",
+        "canonicalProductId": "product-9e135e8dcff190",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -2454,24 +2198,20 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hc4/h6a/333749195997214.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd4/had/474600323186718.jpg"
   },
   {
-    "id": "product-86d98066ea2cef",
-    "name": "LG 375L Top Mount Fridge GT-5S",
+    "id": "product-91bcadd423e7be",
+    "name": "Masterbuilt 91cm Charcoal Wagon Grill",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "237040",
-        "name": "LG 375L Top Mount Fridge GT-5S",
-        "salePrice": 929.98,
-        "quantity": 375,
-        "unit": "l",
-        "pricePerUnit": 2.48,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hc7/h82/379046633177118.jpg",
-        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/LG-375L-Top-Mount-Fridge-GT-5S/p/237040",
+        "externalId": "1807258",
+        "name": "Masterbuilt 91cm Charcoal Wagon Grill",
+        "salePrice": 599.98,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hfd/h1e/418050593292318.jpg",
+        "sourceUrl": "https://www.costco.com.au/Patio-Lawn-Garden/Barbecues/Charcoal-BBQs-Pellet-Smokers/Masterbuilt-91cm-Charcoal-Wagon-Grill/p/1807258",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -2485,10 +2225,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "LG 375L Top Mount Fridge GT-5S",
-        "displayName": "LG 375L Top Mount Fridge GT-5S",
+        "sourceName": "Masterbuilt 91cm Charcoal Wagon Grill",
+        "displayName": "Masterbuilt 91cm Charcoal Wagon Grill",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-86d98066ea2cef",
+        "canonicalProductId": "product-91bcadd423e7be",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -2500,237 +2240,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hc7/h82/379046633177118.jpg"
-  },
-  {
-    "id": "product-c873d7ed7fa11e",
-    "name": "LG 420L Bottom Mount Refrigerator GB-455MBL",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "91159",
-        "name": "LG 420L Bottom Mount Refrigerator GB-455MBL",
-        "salePrice": 1299.99,
-        "quantity": 420,
-        "unit": "l",
-        "pricePerUnit": 3.1,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he5/hc1/28050338611230.jpg",
-        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/LG-420L-Bottom-Mount-Refrigerator-GB-455MBL/p/91159",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "LG 420L Bottom Mount Refrigerator GB-455MBL",
-        "displayName": "LG 420L Bottom Mount Refrigerator GB-455MBL",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c873d7ed7fa11e",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he5/hc1/28050338611230.jpg"
-  },
-  {
-    "id": "product-a940f475695abc",
-    "name": "LG 506L Slim French Door Fridge With Ice And Water Dispenser Stainless Steel GF-L500PL",
-    "category": "Drinks",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "197747",
-        "name": "LG 506L Slim French Door Fridge With Ice And Water Dispenser Stainless Steel GF-L500PL",
-        "salePrice": 2399.99,
-        "quantity": 506,
-        "unit": "l",
-        "pricePerUnit": 4.74,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h2d/h66/245650828427294.jpg",
-        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/LG-506L-Slim-French-Door-Fridge-With-Ice-And-Water-Dispenser-Stainless-Steel-GF-L500PL/p/197747",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "LG 506L Slim French Door Fridge With Ice And Water Dispenser Stainless Steel GF-L500PL",
-        "displayName": "LG 506L Slim French Door Fridge With Ice And Water Dispenser Stainless Steel GF-L500PL",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a940f475695abc",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h2d/h66/245650828427294.jpg"
-  },
-  {
-    "id": "product-9e2a47048f2015",
-    "name": "LG 530L Slim French Door Fridge Matte Black GF-B505MBL",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "197708",
-        "name": "LG 530L Slim French Door Fridge Matte Black GF-B505MBL",
-        "salePrice": 1999.99,
-        "quantity": 530,
-        "unit": "l",
-        "pricePerUnit": 3.77,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/haa/h1e/246134424240158.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/LG-530L-Slim-French-Door-Fridge-Matte-Black-GF-B505MBL/p/197708",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "LG 530L Slim French Door Fridge Matte Black GF-B505MBL",
-        "displayName": "LG 530L Slim French Door Fridge Matte Black GF-B505MBL",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9e2a47048f2015",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/haa/h1e/246134424240158.jpg"
-  },
-  {
-    "id": "product-83c8ad5c270387",
-    "name": "LG 530L Slim French Door Fridge Stainless Steel GF-B505PL",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "197745",
-        "name": "LG 530L Slim French Door Fridge Stainless Steel GF-B505PL",
-        "salePrice": 1949.99,
-        "quantity": 530,
-        "unit": "l",
-        "pricePerUnit": 3.68,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/ha8/hcd/245650822201374.jpg",
-        "sourceUrl": "https://www.costco.com.au/Appliances/Fridges-Freezers/Fridges/LG-530L-Slim-French-Door-Fridge-Stainless-Steel-GF-B505PL/p/197745",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "LG 530L Slim French Door Fridge Stainless Steel GF-B505PL",
-        "displayName": "LG 530L Slim French Door Fridge Stainless Steel GF-B505PL",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-83c8ad5c270387",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/ha8/hcd/245650822201374.jpg"
-  },
-  {
-    "id": "product-afe50e20c0fccc",
-    "name": "LG 637L French Door Fridge With Ice And Water Dispenser GF-L700PL",
-    "category": "Drinks",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "197752",
-        "name": "LG 637L French Door Fridge With Ice And Water Dispenser GF-L700PL",
-        "salePrice": 3299.99,
-        "quantity": 637,
-        "unit": "l",
-        "pricePerUnit": 5.18,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h5d/h64/246134773448734.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/LG-637L-French-Door-Fridge-With-Ice-And-Water-Dispenser-GF-L700PL/p/197752",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "LG 637L French Door Fridge With Ice And Water Dispenser GF-L700PL",
-        "displayName": "LG 637L French Door Fridge With Ice And Water Dispenser GF-L700PL",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-afe50e20c0fccc",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h5d/h64/246134773448734.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hfd/h1e/418050593292318.jpg"
   },
   {
     "id": "product-faeee97b7d3feb",
@@ -2761,7 +2271,7 @@
         "canonicalProductId": "product-faeee97b7d3feb",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 8.99,
           "historicalMedian": 8.99,
           "historicalHigh": 8.99,
@@ -2777,17 +2287,21 @@
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/4f19070e-a1fc-45cb-a3a8-b02522f4d835/Black%20Label%20Red%201L"
   },
   {
-    "id": "product-c8ba27353dd589",
-    "name": "mophie Powerstation Go Rugged Compact With Car Jump Starter",
+    "id": "product-16b6ddcefac16c",
+    "name": "Neutrogena Rainbath Gel Original 1.18L",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "175428",
-        "name": "mophie Powerstation Go Rugged Compact With Car Jump Starter",
-        "salePrice": 119.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h94/hb5/174322064556062.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/mophie-Powerstation-Go-Rugged-Compact-With-Car-Jump-Starter/p/175428",
+        "externalId": "11021",
+        "name": "Neutrogena Rainbath Gel Original 1.18L",
+        "salePrice": 39.99,
+        "quantity": 1.18,
+        "unit": "l",
+        "pricePerUnit": 27.1,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/products/hee/hf6/383905974091806.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Neutrogena-Rainbath-Gel-Original-118L/p/11021",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -2801,10 +2315,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "mophie Powerstation Go Rugged Compact With Car Jump Starter",
-        "displayName": "mophie Powerstation Go Rugged Compact With Car Jump Starter",
+        "sourceName": "Neutrogena Rainbath Gel Original 1.18L",
+        "displayName": "Neutrogena Rainbath Gel Original 1.18L",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c8ba27353dd589",
+        "canonicalProductId": "product-16b6ddcefac16c",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -2816,49 +2330,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h94/hb5/174322064556062.jpg"
-  },
-  {
-    "id": "product-e3c25c501867c6",
-    "name": "Narwal Freo Z10 Vacuum+Mop Robot YJCC019",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "270193",
-        "name": "Narwal Freo Z10 Vacuum+Mop Robot YJCC019",
-        "salePrice": 999.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hcf/hb1/468704054345758.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Narwal-Freo-Z10-VacuumMop-Robot-YJCC019/p/270193",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Narwal Freo Z10 Vacuum+Mop Robot YJCC019",
-        "displayName": "Narwal Freo Z10 Vacuum+Mop Robot YJCC019",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-e3c25c501867c6",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcf/hb1/468704054345758.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/products/hee/hf6/383905974091806.jpg"
   },
   {
     "id": "product-6df2312390ba89",
@@ -2903,94 +2375,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcc/h37/420216571035678.jpg"
   },
   {
-    "id": "product-7e52f3f0c89a8b",
-    "name": "Olympia Folding Shopping Cart",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "8512544",
-        "name": "Olympia Folding Shopping Cart",
-        "salePrice": 64.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/haa/hf8/150142875795486.jpg",
-        "sourceUrl": "https://www.costco.com.au/Home-Kitchen/Kitchenware/Kitchen-Tools-Utensils-Gadgets/Olympia-Folding-Shopping-Cart/p/8512544",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Olympia Folding Shopping Cart",
-        "displayName": "Olympia Folding Shopping Cart",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-7e52f3f0c89a8b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/haa/hf8/150142875795486.jpg"
-  },
-  {
-    "id": "product-bf21e62178f5ef",
-    "name": "Oral-B Floss Action Clean Electric Toothbrush Refills 20 pack",
-    "category": "Household",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "231970",
-        "name": "Oral-B Floss Action Clean Electric Toothbrush Refills 20 pack",
-        "salePrice": 89.99,
-        "quantity": 20,
-        "unit": "pcs",
-        "pricePerUnit": 3.5,
-        "pricePerUnitType": "piece",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h56/h2c/383149319651358.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Oral-B-Floss-Action-Clean-Electric-Toothbrush-Refills-20-pack/p/231970",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Oral-B Floss Action Clean Electric Toothbrush Refills 20 pack",
-        "displayName": "Oral-B Floss Action Clean Electric Toothbrush Refills 20 pack",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bf21e62178f5ef",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h56/h2c/383149319651358.jpg"
-  },
-  {
     "id": "product-791c54be5688f4",
     "name": "PC PETITE CUISINE",
     "category": "Other",
@@ -3019,7 +2403,7 @@
         "canonicalProductId": "product-791c54be5688f4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 22.7,
           "historicalMedian": 22.7,
           "historicalHigh": 22.7,
@@ -3033,182 +2417,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/a145198a-d282-4c3a-b77e-a3b3ce88f0a8/Crumbed%20Pork%20Schnitzels%20440g"
-  },
-  {
-    "id": "product-50378a83beb5ec",
-    "name": "Philips Lumea IPL Hair Removal Device",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "130814",
-        "name": "Philips Lumea IPL Hair Removal Device",
-        "salePrice": 599.98,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hc7/h0a/414964800094238.jpg",
-        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Personal-Care/Shaving-Hair-Removal/Philips-Lumea-IPL-Hair-Removal-Device/p/130814",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Philips Lumea IPL Hair Removal Device",
-        "displayName": "Philips Lumea IPL Hair Removal Device",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-50378a83beb5ec",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hc7/h0a/414964800094238.jpg"
-  },
-  {
-    "id": "product-deba8e15e0f30d",
-    "name": "Philips Sonicare 3100 Range Black And White Bundle Pack Toothbrush",
-    "category": "Bakery",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "131602",
-        "name": "Philips Sonicare 3100 Range Black And White Bundle Pack Toothbrush",
-        "salePrice": 149.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h40/he6/105047453499422.jpg",
-        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Personal-Care/Oral-Care/Philips-Sonicare-3100-Range-Black-And-White-Bundle-Pack-Toothbrush/p/131602",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Philips Sonicare 3100 Range Black And White Bundle Pack Toothbrush",
-        "displayName": "Philips Sonicare 3100 Range Black And White Bundle Pack Toothbrush",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-deba8e15e0f30d",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h40/he6/105047453499422.jpg"
-  },
-  {
-    "id": "product-a611178a0bf552",
-    "name": "Philips Sonicare W2 Optimal Standard Brush Heads 8 Pack",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "229499",
-        "name": "Philips Sonicare W2 Optimal Standard Brush Heads 8 Pack",
-        "salePrice": 69.99,
-        "quantity": 8,
-        "unit": "pcs",
-        "pricePerUnit": 8.75,
-        "pricePerUnitType": "piece",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/ha1/h9d/361217735917598.jpg",
-        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Personal-Care/Oral-Care/Philips-Sonicare-W2-Optimal-Standard-Brush-Heads-8-Pack/p/229499",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Philips Sonicare W2 Optimal Standard Brush Heads 8 Pack",
-        "displayName": "Philips Sonicare W2 Optimal Standard Brush Heads 8 Pack",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a611178a0bf552",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/ha1/h9d/361217735917598.jpg"
-  },
-  {
-    "id": "product-5c7a7ed4387f1c",
-    "name": "Pisti Pistachio Cream Spread 6x600g",
-    "category": "Dairy & Eggs",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "132481",
-        "name": "Pisti Pistachio Cream Spread 6x600g",
-        "salePrice": 109.99,
-        "quantity": 3600,
-        "unit": "g",
-        "pricePerUnit": 16.4,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hd3/hbf/316412343877662.jpg",
-        "sourceUrl": "https://www.costco.com.au/Grocery-Household/Pisti-Pistachio-Cream-Spread-6x600g/p/132481",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Pisti Pistachio Cream Spread 6x600g",
-        "displayName": "Pisti Pistachio Cream Spread 6x600g",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-5c7a7ed4387f1c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd3/hbf/316412343877662.jpg"
   },
   {
     "id": "product-0ba204545fa3a3",
@@ -3239,7 +2447,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 18.74,
           "historicalMedian": 18.74,
           "historicalHigh": 18.74,
@@ -3274,7 +2482,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 19.38,
           "historicalMedian": 19.38,
           "historicalHigh": 19.38,
@@ -3309,7 +2517,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 20.81,
           "historicalMedian": 20.81,
           "historicalHigh": 20.81,
@@ -3344,7 +2552,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 22.04,
           "historicalMedian": 22.04,
           "historicalHigh": 22.04,
@@ -3379,7 +2587,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 24.97,
           "historicalMedian": 24.97,
           "historicalHigh": 24.97,
@@ -3414,7 +2622,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 34.98,
           "historicalMedian": 34.98,
           "historicalHigh": 34.98,
@@ -3472,17 +2680,21 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hef/h5b/296284966387742.jpg"
   },
   {
-    "id": "product-a4578b523822e6",
-    "name": "Roborock F25 Gen2 Wet and Dry Vacuum RRWD5M21A51203",
+    "id": "product-22a28c3ccdf520",
+    "name": "Ring Video Doorbell Plus With Chime Pro And Quick Release Battery B0BZ32YV9G",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "272364",
-        "name": "Roborock F25 Gen2 Wet and Dry Vacuum RRWD5M21A51203",
-        "salePrice": 669.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h67/h3c/472175661154334.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Roborock-F25-Gen2-Wet-and-Dry-Vacuum-RRWD5M21A51203/p/272364",
+        "externalId": "166302",
+        "name": "Ring Video Doorbell Plus With Chime Pro And Quick Release Battery B0BZ32YV9G",
+        "salePrice": 199.99,
+        "quantity": 9,
+        "unit": "g",
+        "pricePerUnit": 22221.11,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he5/hee/167849191866398.jpg",
+        "sourceUrl": "https://www.costco.com.au/Home-Improvement/Door-Locks-Handles-Video-Doorbells/Ring-Video-Doorbell-Plus-With-Chime-Pro-And-Quick-Release-Battery-B0BZ32YV9G/p/166302",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -3496,10 +2708,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "Roborock F25 Gen2 Wet and Dry Vacuum RRWD5M21A51203",
-        "displayName": "Roborock F25 Gen2 Wet and Dry Vacuum RRWD5M21A51203",
+        "sourceName": "Ring Video Doorbell Plus With Chime Pro And Quick Release Battery B0BZ32YV9G",
+        "displayName": "Ring Video Doorbell Plus With Chime Pro And Quick Release Battery B0BZ32YV9G",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a4578b523822e6",
+        "canonicalProductId": "product-22a28c3ccdf520",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -3511,7 +2723,135 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h67/h3c/472175661154334.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he5/hee/167849191866398.jpg"
+  },
+  {
+    "id": "product-4d7ccf5cd91c96",
+    "name": "Roblox $50 Digital Gift Card",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "234011",
+        "name": "Roblox $50 Digital Gift Card",
+        "salePrice": 44.99,
+        "pricePerUnit": 40.4,
+        "pricePerUnitType": "l",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hf7/h5c/491566447558686.jpg",
+        "sourceUrl": "https://www.costco.com.au/Gift-Cards-Office-Supplies-Books/Gift-Cards-Tickets/Digital-Gift-Cards/Roblox-50-Digital-Gift-Card/p/234011",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Roblox $50 Digital Gift Card",
+        "displayName": "Roblox $50 Digital Gift Card",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-4d7ccf5cd91c96",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf7/h5c/491566447558686.jpg"
+  },
+  {
+    "id": "product-7f41839e9e0324",
+    "name": "Roborock Qrevo C Pro Robot Vacuum Cleaner White RRQRRCP0203WHT",
+    "category": "Household",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "277835",
+        "name": "Roborock Qrevo C Pro Robot Vacuum Cleaner White RRQRRCP0203WHT",
+        "salePrice": 899.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h94/h57/491134044930078.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Roborock-Qrevo-C-Pro-Robot-Vacuum-Cleaner-White-RRQRRCP0203WHT/p/277835",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Roborock Qrevo C Pro Robot Vacuum Cleaner White RRQRRCP0203WHT",
+        "displayName": "Roborock Qrevo C Pro Robot Vacuum Cleaner White RRQRRCP0203WHT",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-7f41839e9e0324",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h94/h57/491134044930078.jpg"
+  },
+  {
+    "id": "product-b463a59305e5dd",
+    "name": "Roborock Qrevo C Vacuum Cleaner White RR-QRRC02-03-WHT",
+    "category": "Household",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "240882",
+        "name": "Roborock Qrevo C Vacuum Cleaner White RR-QRRC02-03-WHT",
+        "salePrice": 899.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h72/h11/381661833199646.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Roborock-Qrevo-C-Vacuum-Cleaner-White-RR-QRRC02-03-WHT/p/240882",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Roborock Qrevo C Vacuum Cleaner White RR-QRRC02-03-WHT",
+        "displayName": "Roborock Qrevo C Vacuum Cleaner White RR-QRRC02-03-WHT",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-b463a59305e5dd",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h72/h11/381661833199646.jpg"
   },
   {
     "id": "product-e39344036745ea",
@@ -3556,6 +2896,90 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h0f/h26/400041826943006.jpg"
   },
   {
+    "id": "product-9fa4253e63ffe8",
+    "name": "Samsung Galaxy Buds4 Pro",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "258959",
+        "name": "Samsung Galaxy Buds4 Pro",
+        "salePrice": 329.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hcd/h7a/435942429360158.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Samsung-Galaxy-Buds4-Pro/p/258959",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Samsung Galaxy Buds4 Pro",
+        "displayName": "Samsung Galaxy Buds4 Pro",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-9fa4253e63ffe8",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcd/h7a/435942429360158.jpg"
+  },
+  {
+    "id": "product-9ba638a774929b",
+    "name": "Samsung Galaxy S26 256GB",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "258865",
+        "name": "Samsung Galaxy S26 256GB",
+        "salePrice": 1449.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he2/h3c/435942104694814.jpg",
+        "sourceUrl": "https://www.costco.com.au/Electronics/Mobile-Phones/Samsung-Galaxy-S26/Samsung-Galaxy-S26-256GB/p/258865",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Samsung Galaxy S26 256GB",
+        "displayName": "Samsung Galaxy S26 256GB",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-9ba638a774929b",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he2/h3c/435942104694814.jpg"
+  },
+  {
     "id": "product-30fd3486943d84",
     "name": "SCHNITS FINE FOODS",
     "category": "Other",
@@ -3584,7 +3008,7 @@
         "canonicalProductId": "product-30fd3486943d84",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 19.98,
           "historicalMedian": 19.98,
           "historicalHigh": 19.98,
@@ -3600,21 +3024,17 @@
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/4b27b51f-c96e-4164-871b-b7fd8351e1b2/Herb%20%20Garlic%20RSPCA%20Approved%20Chicken%20Burgers%204pk%20600g"
   },
   {
-    "id": "product-ed02599d05ab81",
-    "name": "SentrySafe Privacy Lock Chest 7.8L",
+    "id": "product-6c0ce2e8e642d5",
+    "name": "Shark Wandvac WV203 Handheld Vacuum",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "202029",
-        "name": "SentrySafe Privacy Lock Chest 7.8L",
-        "salePrice": 119.99,
-        "quantity": 7.8,
-        "unit": "l",
-        "pricePerUnit": 15.38,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h78/h03/44493512835102.jpg",
-        "sourceUrl": "https://www.costco.com.au/SENTRYSAFE/SentrySafe-Privacy-Lock-Chest-78L/p/202029",
+        "externalId": "91095",
+        "name": "Shark Wandvac WV203 Handheld Vacuum",
+        "salePrice": 179.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h68/h95/31368494252062.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Vacuums-Floorcare/Stick-Hand-Held-Vacuums/Shark-Wandvac-WV203-Handheld-Vacuum/p/91095",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -3628,10 +3048,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "SentrySafe Privacy Lock Chest 7.8L",
-        "displayName": "SentrySafe Privacy Lock Chest 7.8L",
+        "sourceName": "Shark Wandvac WV203 Handheld Vacuum",
+        "displayName": "Shark Wandvac WV203 Handheld Vacuum",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-ed02599d05ab81",
+        "canonicalProductId": "product-6c0ce2e8e642d5",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -3643,110 +3063,20 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h78/h03/44493512835102.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h68/h95/31368494252062.jpg"
   },
   {
-    "id": "product-753665185c93a9",
-    "name": "SentrySafe Water Safe 34.8L",
-    "category": "Drinks",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "202022",
-        "name": "SentrySafe Water Safe 34.8L",
-        "salePrice": 569.99,
-        "quantity": 34.8,
-        "unit": "l",
-        "pricePerUnit": 16.38,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h10/hd1/44886145335326.jpg",
-        "sourceUrl": "https://www.costco.com.au/SENTRYSAFE/SentrySafe-Water-Safe-348L/p/202022",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "SentrySafe Water Safe 34.8L",
-        "displayName": "SentrySafe Water Safe 34.8L",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-753665185c93a9",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h10/hd1/44886145335326.jpg"
-  },
-  {
-    "id": "product-53faca5e774b0c",
-    "name": "Shark Steam And Scrub Mop S7001ANZ",
-    "category": "Drinks",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "227361",
-        "name": "Shark Steam And Scrub Mop S7001ANZ",
-        "salePrice": 2299.99,
-        "pricePerUnit": 12.5,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hd3/h4f/348497337253918.jpg",
-        "sourceUrl": "https://www.costco.com.au/Appliances/Vacuums-Floorcare/Vacuum-Cleaners/Shark-Steam-And-Scrub-Mop-S7001ANZ/p/227361",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Shark Steam And Scrub Mop S7001ANZ",
-        "displayName": "Shark Steam And Scrub Mop S7001ANZ",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-53faca5e774b0c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd3/h4f/348497337253918.jpg"
-  },
-  {
-    "id": "product-32aacd754a0186",
-    "name": "Sony Ultra Compact True Wireless Earbuds Black WFC510B",
+    "id": "product-c9b3786de16c50",
+    "name": "Skechers Men's Arch Comfy 2.0 Sneaker",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "221397",
-        "name": "Sony Ultra Compact True Wireless Earbuds Black WFC510B",
-        "salePrice": 79.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/ha6/h37/333749431762974.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Sony-Ultra-Compact-True-Wireless-Earbuds-Black-WFC510B/p/221397",
+        "externalId": "250551",
+        "name": "Skechers Men's Arch Comfy 2.0 Sneaker",
+        "salePrice": 69.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hac/ha8/473523665403934.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Skechers-Mens-Arch-Comfy-20-Sneaker/p/250551",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -3760,10 +3090,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "Sony Ultra Compact True Wireless Earbuds Black WFC510B",
-        "displayName": "Sony Ultra Compact True Wireless Earbuds Black WFC510B",
+        "sourceName": "Skechers Men's Arch Comfy 2.0 Sneaker",
+        "displayName": "Skechers Men's Arch Comfy 2.0 Sneaker",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-32aacd754a0186",
+        "canonicalProductId": "product-c9b3786de16c50",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -3775,7 +3105,91 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/ha6/h37/333749431762974.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hac/ha8/473523665403934.jpg"
+  },
+  {
+    "id": "product-c6cd64b997c7ee",
+    "name": "Sonos Beam Gen2 Black Smart Soundbar BEAM2AU1BLK",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "167601",
+        "name": "Sonos Beam Gen2 Black Smart Soundbar BEAM2AU1BLK",
+        "salePrice": 759.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hed/he9/167667879247902.jpg",
+        "sourceUrl": "https://www.costco.com.au/Electronics/Audio/Home-Theatre-Soundbars/Sonos-Beam-Gen2-Black-Smart-Soundbar-BEAM2AU1BLK/p/167601",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Sonos Beam Gen2 Black Smart Soundbar BEAM2AU1BLK",
+        "displayName": "Sonos Beam Gen2 Black Smart Soundbar BEAM2AU1BLK",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-c6cd64b997c7ee",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hed/he9/167667879247902.jpg"
+  },
+  {
+    "id": "product-656d69187a523a",
+    "name": "Sony Wireless Noise Cancelling Headphones WH1000XM5SA",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "259083",
+        "name": "Sony Wireless Noise Cancelling Headphones WH1000XM5SA",
+        "salePrice": 449.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he3/h1e/436582821462046.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Sony-Wireless-Noise-Cancelling-Headphones-WH1000XM5SA/p/259083",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Sony Wireless Noise Cancelling Headphones WH1000XM5SA",
+        "displayName": "Sony Wireless Noise Cancelling Headphones WH1000XM5SA",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-656d69187a523a",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he3/h1e/436582821462046.jpg"
   },
   {
     "id": "product-564395ad29c2c6",
@@ -3852,7 +3266,7 @@
         "canonicalProductId": "product-25761bbac66a5d",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 14.98,
           "historicalMedian": 14.98,
           "historicalHigh": 14.98,
@@ -3868,17 +3282,17 @@
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/839ad8a6-3659-4347-a000-572c3a8417f1/Chicken%20Breast%20Schnitzel%20Panko%20%20Quinoa%20Crumb%204%20Pack%20600g"
   },
   {
-    "id": "product-1f1a85d463013d",
-    "name": "SunVilla Pine Knoll Cushion Swing",
+    "id": "product-1e753973e54600",
+    "name": "SunVilla Helio 4 Piece Outdoor Patio Seating Set",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "1807161",
-        "name": "SunVilla Pine Knoll Cushion Swing",
-        "salePrice": 1099.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he6/h88/414584854904862.jpg",
-        "sourceUrl": "https://www.costco.com.au/Patio-Lawn-Garden/Outdoor-Furniture/Outdoor-Lounge/SunVilla-Pine-Knoll-Cushion-Swing/p/1807161",
+        "externalId": "1807229",
+        "name": "SunVilla Helio 4 Piece Outdoor Patio Seating Set",
+        "salePrice": 999.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h77/hed/431802717274142.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/SunVilla-Helio-4-Piece-Outdoor-Patio-Seating-Set/p/1807229",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -3892,10 +3306,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "SunVilla Pine Knoll Cushion Swing",
-        "displayName": "SunVilla Pine Knoll Cushion Swing",
+        "sourceName": "SunVilla Helio 4 Piece Outdoor Patio Seating Set",
+        "displayName": "SunVilla Helio 4 Piece Outdoor Patio Seating Set",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-1f1a85d463013d",
+        "canonicalProductId": "product-1e753973e54600",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -3907,7 +3321,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he6/h88/414584854904862.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h77/hed/431802717274142.jpg"
   },
   {
     "id": "product-71de671521cfab",
@@ -3938,7 +3352,7 @@
         "canonicalProductId": "product-71de671521cfab",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 8.99,
           "historicalMedian": 8.99,
           "historicalHigh": 8.99,
@@ -3982,7 +3396,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 34.76,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
@@ -4017,7 +3431,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "NORMAL",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 32.59,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
@@ -4031,21 +3445,17 @@
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c6b4f835-d969-4606-941e-a9c708ac9c1c/Fresh%20Tasmanian%20Salmon%20Fillets%20Skin%20Off%204%20Pack%20460g"
   },
   {
-    "id": "product-d9b9f16ab4cdb2",
-    "name": "U By Kotex Regular Tampons 128 Pack",
-    "category": "Other",
+    "id": "product-870c295b9d4b12",
+    "name": "Viva Paper Towel Double Roll 12 x 120 Sheets",
+    "category": "Bakery",
     "aliases": [],
     "offers": [
       {
-        "externalId": "191887",
-        "name": "U By Kotex Regular Tampons 128 Pack",
-        "salePrice": 32.99,
-        "quantity": 128,
-        "unit": "pcs",
-        "pricePerUnit": 0.2,
-        "pricePerUnitType": "piece",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h34/h5e/455124195737630.jpg",
-        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Personal-Care/U-By-Kotex-Regular-Tampons-128-Pack/p/191887",
+        "externalId": "115720",
+        "name": "Viva Paper Towel Double Roll 12 x 120 Sheets",
+        "salePrice": 31.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h83/h24/472329437184030.jpg",
+        "sourceUrl": "https://www.costco.com.au/Grocery-Household/Toilet-Paper-Tissues-Wipes/Viva-Paper-Towel-Double-Roll-12-x-120-Sheets/p/115720",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -4059,10 +3469,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "U By Kotex Regular Tampons 128 Pack",
-        "displayName": "U By Kotex Regular Tampons 128 Pack",
+        "sourceName": "Viva Paper Towel Double Roll 12 x 120 Sheets",
+        "displayName": "Viva Paper Towel Double Roll 12 x 120 Sheets",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-d9b9f16ab4cdb2",
+        "canonicalProductId": "product-870c295b9d4b12",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -4074,6 +3484,6 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h34/h5e/455124195737630.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h83/h24/472329437184030.jpg"
   }
 ]

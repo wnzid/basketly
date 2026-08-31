@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T19:51:32.012Z",
+  "generatedAt": "2026-08-31T13:44:50.189Z",
   "all": [
     {
       "rank": 1,
@@ -203,6 +203,22 @@
     },
     {
       "rank": 13,
+      "dealId": "product-98596f62a6dbb0",
+      "product": "FLYING POWER",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "FLYING POWER",
+      "salePrice": 2.78,
+      "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 32,
+      "reasons": [
+        "LOWEST_OBSERVED_PRICE"
+      ],
+      "historicalStatus": "LOWEST_OBSERVED"
+    },
+    {
+      "rank": 14,
       "dealId": "product-37ac4685fc64f2",
       "product": "FOOD ENVY",
       "category": "Other",
@@ -220,7 +236,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "dealId": "product-37ac4685fc64f2",
       "product": "FOOD ENVY",
       "category": "Other",
@@ -238,7 +254,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "dealId": "product-dee325d469b1e8",
       "product": "IMPERIAL GRAIN",
       "category": "Other",
@@ -256,7 +272,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "dealId": "product-aabf286d3aabdd",
       "product": "IRONBARK PORK",
       "category": "Meat",
@@ -272,7 +288,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "dealId": "product-aabf286d3aabdd",
       "product": "IRONBARK PORK",
       "category": "Meat",
@@ -288,7 +304,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "dealId": "product-aabf286d3aabdd",
       "product": "IRONBARK PORK",
       "category": "Meat",
@@ -304,7 +320,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "dealId": "product-aabf286d3aabdd",
       "product": "IRONBARK PORK",
       "category": "Meat",
@@ -320,7 +336,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "dealId": "product-4c13de8cce2743",
       "product": "JINDURRA STATION",
       "category": "Other",
@@ -336,7 +352,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "dealId": "product-09053bd9215db4",
       "product": "KAPITI",
       "category": "Other",
@@ -354,7 +370,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "dealId": "product-825b5433911cb2",
       "product": "KILLARNEE",
       "category": "Other",
@@ -370,7 +386,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "dealId": "product-134faee1d473a0",
       "product": "L’EXPRESSION",
       "category": "Other",
@@ -386,7 +402,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "dealId": "product-e791e33c0ff83a",
       "product": "LES ARGELIÈRES",
       "category": "Other",
@@ -402,7 +418,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "dealId": "product-faeee97b7d3feb",
       "product": "MCGUIGAN",
       "category": "Other",
@@ -418,7 +434,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "dealId": "product-791c54be5688f4",
       "product": "PC PETITE CUISINE",
       "category": "Other",
@@ -434,7 +450,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -450,7 +466,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -466,7 +482,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -482,7 +498,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -498,7 +514,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -514,7 +530,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -530,7 +546,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "dealId": "product-30fd3486943d84",
       "product": "SCHNITS FINE FOODS",
       "category": "Other",
@@ -546,7 +562,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "dealId": "product-25761bbac66a5d",
       "product": "STEGGLES",
       "category": "Dairy & Eggs",
@@ -562,7 +578,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "dealId": "product-71de671521cfab",
       "product": "TAVERNELLO",
       "category": "Other",
@@ -578,7 +594,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "dealId": "product-14c6572d6be944",
       "product": "THE FISHMONGER",
       "category": "Fish & Seafood",
@@ -592,22 +608,6 @@
         "LOWEST_OBSERVED_PRICE"
       ],
       "historicalStatus": "LOWEST_OBSERVED"
-    },
-    {
-      "rank": 37,
-      "dealId": "product-98596f62a6dbb0",
-      "product": "FLYING POWER",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "FLYING POWER",
-      "salePrice": 2.78,
-      "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
       "rank": 38,
@@ -828,6 +828,22 @@
       },
       {
         "rank": 13,
+        "dealId": "product-98596f62a6dbb0",
+        "product": "FLYING POWER",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "FLYING POWER",
+        "salePrice": 2.78,
+        "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 32,
+        "reasons": [
+          "LOWEST_OBSERVED_PRICE"
+        ],
+        "historicalStatus": "LOWEST_OBSERVED"
+      },
+      {
+        "rank": 14,
         "dealId": "product-37ac4685fc64f2",
         "product": "FOOD ENVY",
         "category": "Other",
@@ -845,7 +861,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "dealId": "product-37ac4685fc64f2",
         "product": "FOOD ENVY",
         "category": "Other",
@@ -863,7 +879,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "dealId": "product-dee325d469b1e8",
         "product": "IMPERIAL GRAIN",
         "category": "Other",
@@ -881,7 +897,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "dealId": "product-aabf286d3aabdd",
         "product": "IRONBARK PORK",
         "category": "Meat",
@@ -897,7 +913,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "dealId": "product-aabf286d3aabdd",
         "product": "IRONBARK PORK",
         "category": "Meat",
@@ -913,7 +929,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "dealId": "product-aabf286d3aabdd",
         "product": "IRONBARK PORK",
         "category": "Meat",
@@ -929,7 +945,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "dealId": "product-aabf286d3aabdd",
         "product": "IRONBARK PORK",
         "category": "Meat",
@@ -945,7 +961,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "dealId": "product-4c13de8cce2743",
         "product": "JINDURRA STATION",
         "category": "Other",
@@ -961,7 +977,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "dealId": "product-09053bd9215db4",
         "product": "KAPITI",
         "category": "Other",
@@ -979,7 +995,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "dealId": "product-825b5433911cb2",
         "product": "KILLARNEE",
         "category": "Other",
@@ -995,7 +1011,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "dealId": "product-134faee1d473a0",
         "product": "L’EXPRESSION",
         "category": "Other",
@@ -1011,7 +1027,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "dealId": "product-e791e33c0ff83a",
         "product": "LES ARGELIÈRES",
         "category": "Other",
@@ -1027,7 +1043,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "dealId": "product-faeee97b7d3feb",
         "product": "MCGUIGAN",
         "category": "Other",
@@ -1043,7 +1059,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "dealId": "product-791c54be5688f4",
         "product": "PC PETITE CUISINE",
         "category": "Other",
@@ -1059,7 +1075,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1075,7 +1091,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1091,7 +1107,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1107,7 +1123,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1123,7 +1139,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1139,7 +1155,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1155,7 +1171,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "dealId": "product-30fd3486943d84",
         "product": "SCHNITS FINE FOODS",
         "category": "Other",
@@ -1171,7 +1187,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "dealId": "product-25761bbac66a5d",
         "product": "STEGGLES",
         "category": "Dairy & Eggs",
@@ -1187,7 +1203,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "dealId": "product-71de671521cfab",
         "product": "TAVERNELLO",
         "category": "Other",
@@ -1203,7 +1219,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "dealId": "product-14c6572d6be944",
         "product": "THE FISHMONGER",
         "category": "Fish & Seafood",
@@ -1217,22 +1233,6 @@
           "LOWEST_OBSERVED_PRICE"
         ],
         "historicalStatus": "LOWEST_OBSERVED"
-      },
-      {
-        "rank": 37,
-        "dealId": "product-98596f62a6dbb0",
-        "product": "FLYING POWER",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "FLYING POWER",
-        "salePrice": 2.78,
-        "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
         "rank": 38,
