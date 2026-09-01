@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:37:43.437Z",
+  "generatedAt": "2026-09-01T19:57:27.596Z",
   "all": [
     {
       "rank": 1,
@@ -597,15 +597,13 @@
     },
     {
       "rank": 37,
-      "dealId": "product-41ade1389f855d",
-      "product": "OMBRA",
+      "dealId": "product-0ba204545fa3a3",
+      "product": "READY, SET…COOK!",
       "category": "Other",
       "store": "aldi",
-      "sourceName": "OMBRA",
-      "salePrice": 3.99,
-      "pricePerUnit": 39.9,
-      "pricePerUnitType": "l",
-      "sourceUrl": "https://www.aldi.com.au/product/ombra-daily-defence-mineral-sunscreen-sensitive-spf50-100ml-000000000000628169",
+      "sourceName": "READY, SET…COOK!",
+      "salePrice": 19.98,
+      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-rspca-approved-hot-honey-boneless-chicken-400g-000000000000697402",
       "promotionType": "CAMPAIGN",
       "dealScore": 2,
       "reasons": [
@@ -1226,15 +1224,13 @@
       },
       {
         "rank": 37,
-        "dealId": "product-41ade1389f855d",
-        "product": "OMBRA",
+        "dealId": "product-0ba204545fa3a3",
+        "product": "READY, SET…COOK!",
         "category": "Other",
         "store": "aldi",
-        "sourceName": "OMBRA",
-        "salePrice": 3.99,
-        "pricePerUnit": 39.9,
-        "pricePerUnitType": "l",
-        "sourceUrl": "https://www.aldi.com.au/product/ombra-daily-defence-mineral-sunscreen-sensitive-spf50-100ml-000000000000628169",
+        "sourceName": "READY, SET…COOK!",
+        "salePrice": 19.98,
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-rspca-approved-hot-honey-boneless-chicken-400g-000000000000697402",
         "promotionType": "CAMPAIGN",
         "dealScore": 2,
         "reasons": [

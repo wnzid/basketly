@@ -1,6 +1,6 @@
 {
   "store": "costco",
-  "collectedAt": "2026-09-01T11:36:47.701Z",
+  "collectedAt": "2026-09-01T19:56:26.035Z",
   "source": "https://www.costco.com.au/c/hot-buys-category",
   "target": {
     "area": "St Albans VIC 3021, Melbourne",
@@ -206,25 +206,6 @@
       "salePrice": 1299.99,
       "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h63/hc5/381430297722910.jpg",
       "sourceUrl": "https://www.costco.com.au/Electronics/Smart-Watches/Apple-Watches/Apple-Watch-Ultra-3/Apple-Watch-Ultra-3-GPS-Cellular-49mm-Titanium-Case/p/240998",
-      "promotionType": "CAMPAIGN",
-      "sourceType": "web",
-      "sourcePlatform": "costco",
-      "channel": "online",
-      "onlineAvailable": true,
-      "physicalStoreAvailability": "unknown",
-      "membershipRequired": true,
-      "locationScope": "national",
-      "targetStore": "Costco Ardeer",
-      "targetPostcode": "3021",
-      "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-      "confidence": "MEDIUM"
-    },
-    {
-      "externalId": "261287",
-      "name": "Apple iPad Air 11 Inch (2026) M4 128GB",
-      "salePrice": 1179.99,
-      "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hcb/h70/437373691199518.jpg",
-      "sourceUrl": "https://www.costco.com.au/Computers/iPads-Tablets/iPads/Apple-iPad-Air/Apple-iPad-Air-11-Inch-2026-M4-128GB/p/261287",
       "promotionType": "CAMPAIGN",
       "sourceType": "web",
       "sourcePlatform": "costco",
