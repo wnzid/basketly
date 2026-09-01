@@ -42,6 +42,48 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h39/h86/273475811967006.jpg"
   },
   {
+    "id": "product-6946a7ab6b1c20",
+    "name": "Apple AirPods 4 With Active Noise Cancellation",
+    "category": "Fruit & Vegetables",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "202170",
+        "name": "Apple AirPods 4 With Active Noise Cancellation",
+        "salePrice": 279.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hfb/hf3/273475815637022.jpg",
+        "sourceUrl": "https://www.costco.com.au/Electronics/Audio/AirPods/Apple-AirPods-4-With-Active-Noise-Cancellation/p/202170",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Apple AirPods 4 With Active Noise Cancellation",
+        "displayName": "Apple AirPods 4 With Active Noise Cancellation",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-6946a7ab6b1c20",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hfb/hf3/273475815637022.jpg"
+  },
+  {
     "id": "product-56ad4ab2611447",
     "name": "Apple AirPods Pro 3",
     "category": "Fruit & Vegetables",
@@ -378,6 +420,132 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcb/h70/437373691199518.jpg"
   },
   {
+    "id": "product-b836f393a8a1d5",
+    "name": "Apple iPhone 17 Pro 512GB",
+    "category": "Fruit & Vegetables",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "241127",
+        "name": "Apple iPhone 17 Pro 512GB",
+        "salePrice": 2319.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h34/h1c/381535327715358.jpg",
+        "sourceUrl": "https://www.costco.com.au/Electronics/Mobile-Phones/iPhones/Apple-iPhone-17-Pro-512GB/p/241127",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Apple iPhone 17 Pro 512GB",
+        "displayName": "Apple iPhone 17 Pro 512GB",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-b836f393a8a1d5",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h34/h1c/381535327715358.jpg"
+  },
+  {
+    "id": "product-71db74c3495dde",
+    "name": "Apple iPhone 17 Pro Max 256GB",
+    "category": "Fruit & Vegetables",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "240979",
+        "name": "Apple iPhone 17 Pro Max 256GB",
+        "salePrice": 2099.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h6d/h6e/381563596013598.jpg",
+        "sourceUrl": "https://www.costco.com.au/Electronics/Mobile-Phones/iPhones/iPhone-17-Pro-Max/Apple-iPhone-17-Pro-Max-256GB/p/240979",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Apple iPhone 17 Pro Max 256GB",
+        "displayName": "Apple iPhone 17 Pro Max 256GB",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-71db74c3495dde",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h6d/h6e/381563596013598.jpg"
+  },
+  {
+    "id": "product-3f9f963e4a1d71",
+    "name": "Apple iPhone 17 Pro Max 512GB",
+    "category": "Fruit & Vegetables",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "240980",
+        "name": "Apple iPhone 17 Pro Max 512GB",
+        "salePrice": 2499.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h12/hda/381563599093790.jpg",
+        "sourceUrl": "https://www.costco.com.au/Electronics/Mobile-Phones/iPhones/iPhone-17-Pro-Max/Apple-iPhone-17-Pro-Max-512GB/p/240980",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Apple iPhone 17 Pro Max 512GB",
+        "displayName": "Apple iPhone 17 Pro Max 512GB",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-3f9f963e4a1d71",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h12/hda/381563599093790.jpg"
+  },
+  {
     "id": "product-931907dfdb921a",
     "name": "Apple Watch SE 3 GPS 40mm Aluminium Case With Sport Band",
     "category": "Fruit & Vegetables",
@@ -658,7 +826,7 @@
         "canonicalProductId": "product-1027545f0db526",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -702,7 +870,7 @@
         "canonicalProductId": "product-cc35236583af0a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 13.99,
           "historicalMedian": 13.99,
           "historicalHigh": 13.99,
@@ -746,7 +914,7 @@
         "canonicalProductId": "product-64191c2c8faa6b",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 16.99,
           "historicalMedian": 16.99,
           "historicalHigh": 16.99,
@@ -790,7 +958,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 4.99,
           "historicalMedian": 4.99,
           "historicalHigh": 4.99,
@@ -825,7 +993,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -871,7 +1039,7 @@
         "canonicalProductId": "product-1ccc725b7bb1d4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 11.7,
           "historicalMedian": 11.7,
           "historicalHigh": 11.7,
@@ -915,7 +1083,7 @@
         "canonicalProductId": "product-4071950ce49369",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -1021,48 +1189,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h95/332273732026398.jpg"
   },
   {
-    "id": "product-697b1595291698",
-    "name": "Cuckoo IH Electric Pressure Rice Cooker 10 Cups CRP-CHSS1009F",
-    "category": "Pantry",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "130322",
-        "name": "Cuckoo IH Electric Pressure Rice Cooker 10 Cups CRP-CHSS1009F",
-        "salePrice": 589.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h4b/h62/98991744253982.jpg",
-        "sourceUrl": "https://www.costco.com.au/Appliances/Kitchen-Appliances/Rice-Cookers/Cuckoo-IH-Electric-Pressure-Rice-Cooker-10-Cups-CRP-CHSS1009F/p/130322",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Cuckoo IH Electric Pressure Rice Cooker 10 Cups CRP-CHSS1009F",
-        "displayName": "Cuckoo IH Electric Pressure Rice Cooker 10 Cups CRP-CHSS1009F",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-697b1595291698",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h4b/h62/98991744253982.jpg"
-  },
-  {
     "id": "product-89455e2f243cb4",
     "name": "Cuckoo Micom Rice Cooker 6 Cups CR-0685FW",
     "category": "Pantry",
@@ -1135,7 +1261,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1172,7 +1298,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1230,6 +1356,94 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h7d/h87/193421289291806.jpg"
   },
   {
+    "id": "product-a692f0f549fa42",
+    "name": "Duracell Alkaline AA Batteries 40 Pack",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "1012885",
+        "name": "Duracell Alkaline AA Batteries 40 Pack",
+        "salePrice": 21.99,
+        "quantity": 40,
+        "unit": "pcs",
+        "pricePerUnit": 0.43,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h7a/h28/172846360068126.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Duracell-Alkaline-AA-Batteries-40-Pack/p/1012885",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Duracell Alkaline AA Batteries 40 Pack",
+        "displayName": "Duracell Alkaline AA Batteries 40 Pack",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-a692f0f549fa42",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h7a/h28/172846360068126.jpg"
+  },
+  {
+    "id": "product-a3086ec12ec5f0",
+    "name": "Dyson V8 Advanced+ Vacuum With Car Cleaning Kit 626439-01",
+    "category": "Household",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "263690",
+        "name": "Dyson V8 Advanced+ Vacuum With Car Cleaning Kit 626439-01",
+        "salePrice": 649.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hf6/hb9/450082512306206.jpg",
+        "sourceUrl": "https://www.costco.com.au/Appliances/Vacuums-Floorcare/Stick-Hand-Held-Vacuums/Dyson-V8-Advanced-Vacuum-With-Car-Cleaning-Kit-626439-01/p/263690",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Dyson V8 Advanced+ Vacuum With Car Cleaning Kit 626439-01",
+        "displayName": "Dyson V8 Advanced+ Vacuum With Car Cleaning Kit 626439-01",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-a3086ec12ec5f0",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf6/hb9/450082512306206.jpg"
+  },
+  {
     "id": "product-77826bd9b916a1",
     "name": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
     "category": "Other",
@@ -1280,8 +1494,8 @@
       {
         "externalId": "https://www.aldi.com.au/product/el-tora-tortilla-strips-white-corn-230g-000000000000526266",
         "name": "EL TORA",
-        "salePrice": 1.43,
-        "pricePerUnit": 14.3,
+        "salePrice": 1.13,
+        "pricePerUnit": 11.3,
         "pricePerUnitType": "kg",
         "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/79a57017-d838-48db-9b90-15401cfb5241/Tortilla%20Strips%20White%20Corn%20230g",
         "sourceUrl": "https://www.aldi.com.au/product/el-tora-tortilla-strips-white-corn-230g-000000000000526266",
@@ -1302,11 +1516,11 @@
         "canonicalProductId": "product-fea99608396259",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 14.3,
           "historicalMedian": 14.3,
           "historicalHigh": 14.3,
-          "percentBelowHistoricalMedian": 0,
+          "percentBelowHistoricalMedian": 21,
           "dealScore": 32,
           "reasons": [
             "LOWEST_OBSERVED_PRICE"
@@ -1346,7 +1560,7 @@
         "canonicalProductId": "product-5062d098f404a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 0.5,
           "historicalMedian": 0.5,
           "historicalHigh": 0.5,
@@ -1370,7 +1584,7 @@
       {
         "externalId": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
         "name": "FLYING POWER",
-        "salePrice": 2.78,
+        "salePrice": 2.58,
         "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6de2cc85-ecf2-44c8-b77e-b5efa977f403/Hydration%20Sport%20Drink%20Arctic%20Chill%20500ml",
         "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
         "category": "Limited Time Only",
@@ -1390,11 +1604,11 @@
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 3,
+          "historicalObservations": 4,
           "historicalLow": 2.78,
           "historicalMedian": 2.78,
           "historicalHigh": 2.78,
-          "percentBelowHistoricalMedian": 0,
+          "percentBelowHistoricalMedian": 7.2,
           "dealScore": 32,
           "reasons": [
             "LOWEST_OBSERVED_PRICE"
@@ -1405,7 +1619,7 @@
       {
         "externalId": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-berry-burst-500ml-000000000000620585",
         "name": "FLYING POWER",
-        "salePrice": 2.78,
+        "salePrice": 2.58,
         "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3c9525be-031b-4609-bafd-e5f0eade5bcc/Hydration%20Sport%20Drink%20Berry%20Burst%20500ml",
         "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-berry-burst-500ml-000000000000620585",
         "category": "Limited Time Only",
@@ -1425,7 +1639,7 @@
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -1456,7 +1670,7 @@
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -1498,7 +1712,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 24.9,
           "historicalMedian": 24.9,
           "historicalHigh": 24.9,
@@ -1535,7 +1749,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -1713,7 +1927,7 @@
         "canonicalProductId": "product-dee325d469b1e8",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 6.8,
           "historicalMedian": 6.8,
           "historicalHigh": 6.8,
@@ -1757,7 +1971,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 9.98,
           "historicalMedian": 9.98,
           "historicalHigh": 9.98,
@@ -1792,7 +2006,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 13.49,
           "historicalMedian": 13.49,
           "historicalHigh": 13.49,
@@ -1827,7 +2041,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 13.99,
           "historicalMedian": 13.99,
           "historicalHigh": 13.99,
@@ -1862,7 +2076,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 15.49,
           "historicalMedian": 15.49,
           "historicalHigh": 15.49,
@@ -1906,7 +2120,7 @@
         "canonicalProductId": "product-4c13de8cce2743",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 31.99,
           "historicalMedian": 31.99,
           "historicalHigh": 31.99,
@@ -1952,7 +2166,7 @@
         "canonicalProductId": "product-09053bd9215db4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 19.4,
           "historicalMedian": 19.4,
           "historicalHigh": 19.4,
@@ -1998,7 +2212,7 @@
         "canonicalProductId": "product-8aedb2b6f69e61",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -2038,7 +2252,7 @@
         "canonicalProductId": "product-825b5433911cb2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 17.99,
           "historicalMedian": 17.99,
           "historicalHigh": 17.99,
@@ -2126,7 +2340,7 @@
         "canonicalProductId": "product-134faee1d473a0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 10.99,
           "historicalMedian": 10.99,
           "historicalHigh": 10.99,
@@ -2212,7 +2426,7 @@
         "canonicalProductId": "product-e791e33c0ff83a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -2340,7 +2554,7 @@
         "canonicalProductId": "product-faeee97b7d3feb",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 8.99,
           "historicalMedian": 8.99,
           "historicalHigh": 8.99,
@@ -2474,7 +2688,7 @@
         "canonicalProductId": "product-41ade1389f855d",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -2514,7 +2728,7 @@
         "canonicalProductId": "product-791c54be5688f4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 22.7,
           "historicalMedian": 22.7,
           "historicalHigh": 22.7,
@@ -2558,7 +2772,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 18.74,
           "historicalMedian": 18.74,
           "historicalHigh": 18.74,
@@ -2593,7 +2807,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 19.38,
           "historicalMedian": 19.38,
           "historicalHigh": 19.38,
@@ -2628,7 +2842,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 22.04,
           "historicalMedian": 22.04,
           "historicalHigh": 22.04,
@@ -2663,7 +2877,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 24.97,
           "historicalMedian": 24.97,
           "historicalHigh": 24.97,
@@ -2698,7 +2912,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 34.98,
           "historicalMedian": 34.98,
           "historicalHigh": 34.98,
@@ -2754,52 +2968,6 @@
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hef/h5b/296284966387742.jpg"
-  },
-  {
-    "id": "product-22a28c3ccdf520",
-    "name": "Ring Video Doorbell Plus With Chime Pro And Quick Release Battery B0BZ32YV9G",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "166302",
-        "name": "Ring Video Doorbell Plus With Chime Pro And Quick Release Battery B0BZ32YV9G",
-        "salePrice": 199.99,
-        "quantity": 9,
-        "unit": "g",
-        "pricePerUnit": 22221.11,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he5/hee/167849191866398.jpg",
-        "sourceUrl": "https://www.costco.com.au/Home-Improvement/Door-Locks-Handles-Video-Doorbells/Ring-Video-Doorbell-Plus-With-Chime-Pro-And-Quick-Release-Battery-B0BZ32YV9G/p/166302",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Ring Video Doorbell Plus With Chime Pro And Quick Release Battery B0BZ32YV9G",
-        "displayName": "Ring Video Doorbell Plus With Chime Pro And Quick Release Battery B0BZ32YV9G",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-22a28c3ccdf520",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he5/hee/167849191866398.jpg"
   },
   {
     "id": "product-4d7ccf5cd91c96",
@@ -3140,48 +3308,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hac/ha8/473523665403934.jpg"
   },
   {
-    "id": "product-c6cd64b997c7ee",
-    "name": "Sonos Beam Gen2 Black Smart Soundbar BEAM2AU1BLK",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "167601",
-        "name": "Sonos Beam Gen2 Black Smart Soundbar BEAM2AU1BLK",
-        "salePrice": 759.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hed/he9/167667879247902.jpg",
-        "sourceUrl": "https://www.costco.com.au/Electronics/Audio/Home-Theatre-Soundbars/Sonos-Beam-Gen2-Black-Smart-Soundbar-BEAM2AU1BLK/p/167601",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Sonos Beam Gen2 Black Smart Soundbar BEAM2AU1BLK",
-        "displayName": "Sonos Beam Gen2 Black Smart Soundbar BEAM2AU1BLK",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c6cd64b997c7ee",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hed/he9/167667879247902.jpg"
-  },
-  {
     "id": "product-564395ad29c2c6",
     "name": "Starbucks by Nespresso Choc Hazelnut Capsules 120 Pack",
     "category": "Other",
@@ -3256,7 +3382,7 @@
         "canonicalProductId": "product-25761bbac66a5d",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 14.98,
           "historicalMedian": 14.98,
           "historicalHigh": 14.98,
@@ -3342,7 +3468,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 34.76,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
@@ -3377,7 +3503,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "NORMAL",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 32.59,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,

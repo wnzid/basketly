@@ -1,6 +1,6 @@
 {
   "store": "aldi",
-  "collectedAt": "2026-08-31T21:54:06.054Z",
+  "collectedAt": "2026-09-01T11:36:18.491Z",
   "source": "https://www.aldi.com.au/products/super-savers/k/1588161426952145",
   "target": {
     "area": "St Albans VIC 3021, Melbourne",
@@ -425,8 +425,8 @@
     {
       "externalId": "https://www.aldi.com.au/product/el-tora-tortilla-strips-white-corn-230g-000000000000526266",
       "name": "EL TORA",
-      "salePrice": 1.43,
-      "pricePerUnit": 14.3,
+      "salePrice": 1.13,
+      "pricePerUnit": 11.3,
       "pricePerUnitType": "kg",
       "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/79a57017-d838-48db-9b90-15401cfb5241/Tortilla%20Strips%20White%20Corn%20230g",
       "sourceUrl": "https://www.aldi.com.au/product/el-tora-tortilla-strips-white-corn-230g-000000000000526266",
@@ -590,7 +590,7 @@
     {
       "externalId": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
       "name": "FLYING POWER",
-      "salePrice": 2.78,
+      "salePrice": 2.58,
       "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6de2cc85-ecf2-44c8-b77e-b5efa977f403/Hydration%20Sport%20Drink%20Arctic%20Chill%20500ml",
       "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
       "category": "Limited Time Only",
@@ -607,7 +607,7 @@
     {
       "externalId": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-berry-burst-500ml-000000000000620585",
       "name": "FLYING POWER",
-      "salePrice": 2.78,
+      "salePrice": 2.58,
       "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3c9525be-031b-4609-bafd-e5f0eade5bcc/Hydration%20Sport%20Drink%20Berry%20Burst%20500ml",
       "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-berry-burst-500ml-000000000000620585",
       "category": "Limited Time Only",
