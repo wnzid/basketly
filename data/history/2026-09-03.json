@@ -27,16 +27,7 @@
         "sourceName": "Apple AirPods 4",
         "displayName": "Apple AirPods 4",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-919ec4ade58fae",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-919ec4ade58fae"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h39/h86/273475811967006.jpg"
@@ -69,16 +60,7 @@
         "sourceName": "Apple AirPods 4 With Active Noise Cancellation",
         "displayName": "Apple AirPods 4 With Active Noise Cancellation",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6946a7ab6b1c20",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-6946a7ab6b1c20"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hfb/hf3/273475815637022.jpg"
@@ -111,16 +93,7 @@
         "sourceName": "Apple AirPods Pro 3",
         "displayName": "Apple AirPods Pro 3",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-56ad4ab2611447",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-56ad4ab2611447"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf7/hbd/381453773864990.jpg"
@@ -153,16 +126,7 @@
         "sourceName": "Apple iPad Air 11 Inch (2026) M4 1TB",
         "displayName": "Apple iPad Air 11 Inch (2026) M4 1TB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-1c9a2b0ec09f21",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-1c9a2b0ec09f21"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcb/h70/437373691199518.jpg"
@@ -195,16 +159,7 @@
         "sourceName": "Apple iPad Air 13 Inch (2026) M4 128GB",
         "displayName": "Apple iPad Air 13 Inch (2026) M4 128GB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-45855d1e8f3d5b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-45855d1e8f3d5b"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcb/h70/437373691199518.jpg"
@@ -237,16 +192,7 @@
         "sourceName": "Apple iPad Air 13 Inch (2026) M4 1TB",
         "displayName": "Apple iPad Air 13 Inch (2026) M4 1TB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-8f5f2ef841861f",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-8f5f2ef841861f"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he0/h7f/437373696311326.jpg"
@@ -279,16 +225,7 @@
         "sourceName": "Apple iPad Air 13 Inch (2026) M4 256GB",
         "displayName": "Apple iPad Air 13 Inch (2026) M4 256GB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dfbf7e61745c59",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-dfbf7e61745c59"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcb/h70/437373691199518.jpg"
@@ -321,16 +258,7 @@
         "sourceName": "Apple iPad Air 13 Inch (2026) M4 512GB",
         "displayName": "Apple iPad Air 13 Inch (2026) M4 512GB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c1e30eea3ee5f5",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-c1e30eea3ee5f5"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcb/h70/437373691199518.jpg"
@@ -363,16 +291,7 @@
         "sourceName": "Apple iPhone 17 Pro 512GB",
         "displayName": "Apple iPhone 17 Pro 512GB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b836f393a8a1d5",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-b836f393a8a1d5"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h34/h1c/381535327715358.jpg"
@@ -405,16 +324,7 @@
         "sourceName": "Apple iPhone 17 Pro Max 256GB",
         "displayName": "Apple iPhone 17 Pro Max 256GB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-71db74c3495dde",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-71db74c3495dde"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h6d/h6e/381563596013598.jpg"
@@ -447,16 +357,7 @@
         "sourceName": "Apple iPhone 17 Pro Max 512GB",
         "displayName": "Apple iPhone 17 Pro Max 512GB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-3f9f963e4a1d71",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-3f9f963e4a1d71"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h12/hda/381563599093790.jpg"
@@ -489,16 +390,7 @@
         "sourceName": "Apple Watch SE 3 GPS 40mm Aluminium Case With Sport Band",
         "displayName": "Apple Watch SE 3 GPS 40mm Aluminium Case With Sport Band",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-931907dfdb921a",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-931907dfdb921a"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd0/h12/381411011395614.jpg"
@@ -531,16 +423,7 @@
         "sourceName": "Apple Watch SE 3 GPS 44mm Aluminium Case With Sport Band",
         "displayName": "Apple Watch SE 3 GPS 44mm Aluminium Case With Sport Band",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4c14216c174696",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-4c14216c174696"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd0/h12/381411011395614.jpg"
@@ -573,16 +456,7 @@
         "sourceName": "Apple Watch Series 11 GPS 42mm Aluminium Case with Sport Band",
         "displayName": "Apple Watch Series 11 GPS 42mm Aluminium Case with Sport Band",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-8280de40851eb6",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-8280de40851eb6"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h18/h20/381418799661086.jpg"
@@ -615,16 +489,7 @@
         "sourceName": "Apple Watch Series 11 GPS 46mm Aluminium Case with Sport Band",
         "displayName": "Apple Watch Series 11 GPS 46mm Aluminium Case with Sport Band",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-766fde8c8e26e3",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-766fde8c8e26e3"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h18/h20/381418799661086.jpg"
@@ -657,16 +522,7 @@
         "sourceName": "Axus Digital AXP10 Portable Keyboard Pack With Headphones And Stool NM-AXP10PK",
         "displayName": "Axus Digital AXP10 Portable Keyboard Pack With Headphones And Stool NM-AXP10PK",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dc867e89d2eeba",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-dc867e89d2eeba"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h32/hd8/186637563527198.jpg"
@@ -697,20 +553,7 @@
         "sourceName": "BERG",
         "displayName": "BERG",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-1027545f0db526",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 9.99,
-          "historicalMedian": 9.99,
-          "historicalHigh": 9.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-1027545f0db526"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/fc037a24-df73-41e2-91f4-03b49993ba32/Smoked%20Hocks%20per%20kg"
@@ -741,20 +584,7 @@
         "sourceName": "BIG BEAR",
         "displayName": "BIG BEAR",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-cc35236583af0a",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 13.99,
-          "historicalMedian": 13.99,
-          "historicalHigh": 13.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-cc35236583af0a"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c0fb6d7d-91cd-48b7-8d3b-160338d6f400/California%20Chardonnay%20750ml"
@@ -785,20 +615,7 @@
         "sourceName": "BLACKSTONE PADDOCK",
         "displayName": "BLACKSTONE PADDOCK",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-64191c2c8faa6b",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 16.99,
-          "historicalMedian": 16.99,
-          "historicalHigh": 16.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-64191c2c8faa6b"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3a73b434-c207-4fb5-b300-c6f2c9e81f0e/Limited%20Release%20Margaret%20River%20Chardonnay%20750ml"
@@ -829,20 +646,7 @@
         "sourceName": "BROAD OAK FARMS",
         "displayName": "BROAD OAK FARMS",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-fc9e0f645aa847",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
-          "historicalLow": 4.99,
-          "historicalMedian": 4.99,
-          "historicalHigh": 4.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-fc9e0f645aa847"
       },
       {
         "externalId": "https://www.aldi.com.au/product/broad-oak-farms-rspca-approved-chicken-breast-fillet-stir-fry-000000000000403626",
@@ -864,20 +668,7 @@
         "sourceName": "BROAD OAK FARMS",
         "displayName": "BROAD OAK FARMS",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-fc9e0f645aa847",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
-          "historicalLow": 11.99,
-          "historicalMedian": 11.99,
-          "historicalHigh": 11.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-fc9e0f645aa847"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f71e52f6-1d2a-4346-9e01-7229852e7272/RSPCA%20Approved%20Chicken%20Breast%20Fillet%20Stir%20Fry"
@@ -908,16 +699,7 @@
         "sourceName": "BROOKDALE",
         "displayName": "BROOKDALE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-ad68f4891184c9",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-ad68f4891184c9"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f9714f6a-0bcf-4eb9-a6ca-bb565778c055/Ice%20Cream%20Cup%20Cones%2024%20Pack"
@@ -950,20 +732,7 @@
         "sourceName": "BROOKLEA",
         "displayName": "BROOKLEA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-1ccc725b7bb1d4",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 11.7,
-          "historicalMedian": 11.7,
-          "historicalHigh": 11.7,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-1ccc725b7bb1d4"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ae023736-c696-4a93-b7ef-bd3956ebd2fb/No%20Added%20Sugar%20Banana%20Yogurt%20Pouch%20110g"
@@ -994,20 +763,7 @@
         "sourceName": "BROWN BROTHERS",
         "displayName": "BROWN BROTHERS",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4071950ce49369",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 9.99,
-          "historicalMedian": 9.99,
-          "historicalHigh": 9.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-4071950ce49369"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/74415ca2-a88b-4cc7-9a1c-bf9f62bf1662/Winter%20Red%20750ml"
@@ -1042,16 +798,7 @@
         "sourceName": "Caltrate Bone & Muscle 3 x 100 Tablets",
         "displayName": "Caltrate Bone & Muscle 3 x 100 Tablets",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-2c56effd81ffdf",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-2c56effd81ffdf"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h72/he6/369010398265374.jpg"
@@ -1086,16 +833,7 @@
         "sourceName": "Centrum Men Multivitamin 2 x 60 Tablets",
         "displayName": "Centrum Men Multivitamin 2 x 60 Tablets",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-07cb46db3123ca",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-07cb46db3123ca"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h47/h98/399756045320222.jpg"
@@ -1130,16 +868,7 @@
         "sourceName": "Centrum Women Multivitamin 2 x 60 Tablets",
         "displayName": "Centrum Women Multivitamin 2 x 60 Tablets",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-724edfd36c8479",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-724edfd36c8479"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h92/h31/400733971841054.jpg"
@@ -1176,16 +905,7 @@
         "sourceName": "Clearwipe Lens Cleaner 160 Pack",
         "displayName": "Clearwipe Lens Cleaner 160 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a8c250e26c1979",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-a8c250e26c1979"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h95/332273732026398.jpg"
@@ -1218,16 +938,7 @@
         "sourceName": "Cuckoo Micom Rice Cooker 6 Cups CR-0685FW",
         "displayName": "Cuckoo Micom Rice Cooker 6 Cups CR-0685FW",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-89455e2f243cb4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-89455e2f243cb4"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h87/h83/348838977044510.jpg"
@@ -1260,20 +971,7 @@
         "sourceName": "DAMORA",
         "displayName": "DAMORA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-546ebe0e50a128",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 19.9,
-          "historicalMedian": 19.9,
-          "historicalHigh": 19.9,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-546ebe0e50a128"
       },
       {
         "externalId": "https://www.aldi.com.au/product/damora-damora-crisps-sweet-chilli-150g-000000000000606637",
@@ -1297,20 +995,7 @@
         "sourceName": "DAMORA",
         "displayName": "DAMORA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-546ebe0e50a128",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 19.9,
-          "historicalMedian": 19.9,
-          "historicalHigh": 19.9,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-546ebe0e50a128"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/d5f5da50-3736-43d1-8217-fb6c2a9b4e57/Damora%20Crisps%20Sea%20Salt%20150g"
@@ -1343,16 +1028,7 @@
         "sourceName": "De'Longhi Nespresso Vertuo Lattissima Coffee Machine ENV300",
         "displayName": "De'Longhi Nespresso Vertuo Lattissima Coffee Machine ENV300",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bec1de1f070c7c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-bec1de1f070c7c"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h7d/h87/193421289291806.jpg"
@@ -1389,16 +1065,7 @@
         "sourceName": "Duracell Alkaline AA Batteries 40 Pack",
         "displayName": "Duracell Alkaline AA Batteries 40 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a692f0f549fa42",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-a692f0f549fa42"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h7a/h28/172846360068126.jpg"
@@ -1431,16 +1098,7 @@
         "sourceName": "Dyson V8 Advanced+ Vacuum With Car Cleaning Kit 626439-01",
         "displayName": "Dyson V8 Advanced+ Vacuum With Car Cleaning Kit 626439-01",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a3086ec12ec5f0",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-a3086ec12ec5f0"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf6/hb9/450082512306206.jpg"
@@ -1473,16 +1131,7 @@
         "sourceName": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
         "displayName": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-77826bd9b916a1",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-77826bd9b916a1"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h32/hbe/502720337346590.jpg"
@@ -1515,20 +1164,7 @@
         "sourceName": "EL TORA",
         "displayName": "EL TORA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-fea99608396259",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 11.3,
-          "historicalMedian": 14.3,
-          "historicalHigh": 14.3,
-          "percentBelowHistoricalMedian": 21,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-fea99608396259"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/79a57017-d838-48db-9b90-15401cfb5241/Tortilla%20Strips%20White%20Corn%20230g"
@@ -1559,20 +1195,7 @@
         "sourceName": "EXPRESSI",
         "displayName": "EXPRESSI",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-5062d098f404a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 0.5,
-          "historicalMedian": 0.5,
-          "historicalHigh": 0.5,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-5062d098f404a3"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f707bed8-dec2-4274-bd6c-f0736e37fbd2/Irish%20Crme%20Flavoured%20Coffee%20Capsules%2016%20Pack"
@@ -1603,20 +1226,7 @@
         "sourceName": "FLYING POWER",
         "displayName": "FLYING POWER",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-98596f62a6dbb0",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
-          "historicalLow": 2.58,
-          "historicalMedian": 2.78,
-          "historicalHigh": 2.78,
-          "percentBelowHistoricalMedian": 7.2,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-98596f62a6dbb0"
       },
       {
         "externalId": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-berry-burst-500ml-000000000000620585",
@@ -1638,16 +1248,7 @@
         "sourceName": "FLYING POWER",
         "displayName": "FLYING POWER",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-98596f62a6dbb0",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-98596f62a6dbb0"
       },
       {
         "externalId": "https://www.aldi.com.au/product/flying-power-energy-drink-pine-lime-99-sugar-free-500ml-000000000000622180",
@@ -1669,16 +1270,7 @@
         "sourceName": "FLYING POWER",
         "displayName": "FLYING POWER",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-98596f62a6dbb0",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-98596f62a6dbb0"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6de2cc85-ecf2-44c8-b77e-b5efa977f403/Hydration%20Sport%20Drink%20Arctic%20Chill%20500ml"
@@ -1711,20 +1303,7 @@
         "sourceName": "FOOD ENVY",
         "displayName": "FOOD ENVY",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-37ac4685fc64f2",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 24.9,
-          "historicalMedian": 24.9,
-          "historicalHigh": 24.9,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-37ac4685fc64f2"
       },
       {
         "externalId": "https://www.aldi.com.au/product/food-envy-mousse-with-biscoff-spread-2-pack-90g-000000000000560180",
@@ -1748,20 +1327,7 @@
         "sourceName": "FOOD ENVY",
         "displayName": "FOOD ENVY",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-37ac4685fc64f2",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 27.7,
-          "historicalMedian": 27.7,
-          "historicalHigh": 27.7,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-37ac4685fc64f2"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/850c6ca5-2ed1-4b8b-8cf3-d9edc7d773b8/Protein%20Pancakes%20160g"
@@ -1798,16 +1364,7 @@
         "sourceName": "Four Pillars Rare Dry Gin 1L",
         "displayName": "Four Pillars Rare Dry Gin 1L",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9b2b52a3a2819f",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-9b2b52a3a2819f"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h85/97870197719070.jpg"
@@ -1840,16 +1397,7 @@
         "sourceName": "G Force 60V Brushless Hedge Trimmer Kit EV HT1K",
         "displayName": "G Force 60V Brushless Hedge Trimmer Kit EV HT1K",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4b05f234eeeecc",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-4b05f234eeeecc"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h5d/h0b/368164608278558.jpg"
@@ -1882,16 +1430,7 @@
         "sourceName": "Hisense 75 Inch U6S ULED Hi-QLED Mini LED 4K Smart TV 75U6SAU",
         "displayName": "Hisense 75 Inch U6S ULED Hi-QLED Mini LED 4K Smart TV 75U6SAU",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-200bde9e1cb93d",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-200bde9e1cb93d"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h1b/h43/474018839035934.jpg"
@@ -1924,20 +1463,7 @@
         "sourceName": "IMPERIAL GRAIN",
         "displayName": "IMPERIAL GRAIN",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dee325d469b1e8",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 6.8,
-          "historicalMedian": 6.8,
-          "historicalHigh": 6.8,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-dee325d469b1e8"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/86bab045-ad56-47b2-b6fb-a1b4ad246ef4/Sweet%20Chilli%20%20Lime%20Rice%20Pouch%20250g"
@@ -1968,20 +1494,7 @@
         "sourceName": "IRONBARK PORK",
         "displayName": "IRONBARK PORK",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-aabf286d3aabdd",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
-          "historicalLow": 9.98,
-          "historicalMedian": 9.98,
-          "historicalHigh": 9.98,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-aabf286d3aabdd"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
@@ -2003,20 +1516,7 @@
         "sourceName": "IRONBARK PORK",
         "displayName": "IRONBARK PORK",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-aabf286d3aabdd",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 13.49,
-          "historicalMedian": 13.49,
-          "historicalHigh": 13.49,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-aabf286d3aabdd"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-loin-chops-000000000000399791",
@@ -2038,20 +1538,7 @@
         "sourceName": "IRONBARK PORK",
         "displayName": "IRONBARK PORK",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-aabf286d3aabdd",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
-          "historicalLow": 13.99,
-          "historicalMedian": 13.99,
-          "historicalHigh": 13.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-aabf286d3aabdd"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-belly-000000000000399917",
@@ -2073,20 +1560,7 @@
         "sourceName": "IRONBARK PORK",
         "displayName": "IRONBARK PORK",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-aabf286d3aabdd",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
-          "historicalLow": 15.49,
-          "historicalMedian": 15.49,
-          "historicalHigh": 15.49,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-aabf286d3aabdd"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/8e91675a-ae80-4e5c-adf8-ef02c56eefcf/Pork%20Loin%20Chops"
@@ -2117,20 +1591,7 @@
         "sourceName": "JINDURRA STATION",
         "displayName": "JINDURRA STATION",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4c13de8cce2743",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 31.99,
-          "historicalMedian": 31.99,
-          "historicalHigh": 31.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-4c13de8cce2743"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/2a0f282f-f80d-4c90-9f3d-31c3345d4b52/Beef%20Scotch%20Portion"
@@ -2163,20 +1624,7 @@
         "sourceName": "KAPITI",
         "displayName": "KAPITI",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-09053bd9215db4",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 19.4,
-          "historicalMedian": 19.4,
-          "historicalHigh": 19.4,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-09053bd9215db4"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5a7dbed4-0810-4798-8a37-aa80fd3fa413/Nelson%20Boysenberry%20Ice%20Cream%206%20Pack%20360ml"
@@ -2207,20 +1655,7 @@
         "sourceName": "KILLARNEE",
         "displayName": "KILLARNEE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-825b5433911cb2",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
-          "historicalLow": 17.99,
-          "historicalMedian": 17.99,
-          "historicalHigh": 17.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-825b5433911cb2"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/eaa51e11-00a6-43bd-ac65-db254a415b85/Lamb%20BBQ%20Chops"
@@ -2255,16 +1690,7 @@
         "sourceName": "Kirkland Signature 3 Ply Bath Tissue 48 x 270 Sheets",
         "displayName": "Kirkland Signature 3 Ply Bath Tissue 48 x 270 Sheets",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-212d9dd63eb847",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-212d9dd63eb847"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h21/h62/332273411227678.jpg"
@@ -2295,20 +1721,7 @@
         "sourceName": "L’EXPRESSION",
         "displayName": "L’EXPRESSION",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-134faee1d473a0",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 10.99,
-          "historicalMedian": 10.99,
-          "historicalHigh": 10.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-134faee1d473a0"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/376f49f0-dc57-420a-8591-1264c83b4422/Pinot%20Gris%20750ml"
@@ -2341,16 +1754,7 @@
         "sourceName": "Laifen Mini Hair Dryer Green 1HD31SAUGR001",
         "displayName": "Laifen Mini Hair Dryer Green 1HD31SAUGR001",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-be6aa59d2bec06",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-be6aa59d2bec06"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h89/h5e/502583987470366.jpg"
@@ -2381,20 +1785,7 @@
         "sourceName": "LES ARGELIÈRES",
         "displayName": "LES ARGELIÈRES",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-e791e33c0ff83a",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 11.99,
-          "historicalMedian": 11.99,
-          "historicalHigh": 11.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-e791e33c0ff83a"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/41da4ebe-bbbe-4522-9712-501341f5a809/Pinot%20Noir%20750ml"
@@ -2427,16 +1818,7 @@
         "sourceName": "Masterbuilt 91cm Charcoal Wagon Grill",
         "displayName": "Masterbuilt 91cm Charcoal Wagon Grill",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-91bcadd423e7be",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-91bcadd423e7be"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hfd/h1e/418050593292318.jpg"
@@ -2467,20 +1849,7 @@
         "sourceName": "MCGUIGAN",
         "displayName": "MCGUIGAN",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-faeee97b7d3feb",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 8.99,
-          "historicalMedian": 8.99,
-          "historicalHigh": 8.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-faeee97b7d3feb"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/4f19070e-a1fc-45cb-a3a8-b02522f4d835/Black%20Label%20Red%201L"
@@ -2517,16 +1886,7 @@
         "sourceName": "Neutrogena Rainbath Gel Original 1.18L",
         "displayName": "Neutrogena Rainbath Gel Original 1.18L",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-16b6ddcefac16c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-16b6ddcefac16c"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/products/hee/hf6/383905974091806.jpg"
@@ -2559,16 +1919,7 @@
         "sourceName": "Ninja Detect Kitchen System Power Blender and Processor Pro TB401",
         "displayName": "Ninja Detect Kitchen System Power Blender and Processor Pro TB401",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6df2312390ba89",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-6df2312390ba89"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcc/h37/420216571035678.jpg"
@@ -2599,20 +1950,7 @@
         "sourceName": "PC PETITE CUISINE",
         "displayName": "PC PETITE CUISINE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-791c54be5688f4",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 22.7,
-          "historicalMedian": 22.7,
-          "historicalHigh": 22.7,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-791c54be5688f4"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/a145198a-d282-4c3a-b77e-a3b3ce88f0a8/Crumbed%20Pork%20Schnitzels%20440g"
@@ -2643,20 +1981,7 @@
         "sourceName": "READY, SET…COOK!",
         "displayName": "READY, SET…COOK!",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 18.74,
-          "historicalMedian": 18.74,
-          "historicalHigh": 18.74,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-0ba204545fa3a3"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ready-set-cook-beef-nasi-goreng-825g-000000000000584331",
@@ -2678,20 +2003,7 @@
         "sourceName": "READY, SET…COOK!",
         "displayName": "READY, SET…COOK!",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 19.38,
-          "historicalMedian": 19.38,
-          "historicalHigh": 19.38,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-0ba204545fa3a3"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ready-set-cook-rspca-approved-hot-honey-boneless-chicken-400g-000000000000697402",
@@ -2713,16 +2025,7 @@
         "sourceName": "READY, SET…COOK!",
         "displayName": "READY, SET…COOK!",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-0ba204545fa3a3"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ready-set-cook-chicken-tikka-pita-kit-680g-000000000000548320",
@@ -2744,20 +2047,7 @@
         "sourceName": "READY, SET…COOK!",
         "displayName": "READY, SET…COOK!",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 22.04,
-          "historicalMedian": 22.04,
-          "historicalHigh": 22.04,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-0ba204545fa3a3"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ready-set-cook-beef-peppered-steak-300g-000000000000677066",
@@ -2779,20 +2069,7 @@
         "sourceName": "READY, SET…COOK!",
         "displayName": "READY, SET…COOK!",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 24.97,
-          "historicalMedian": 24.97,
-          "historicalHigh": 24.97,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-0ba204545fa3a3"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ready-set-cook-beef-porterhouse-steak-with-garlic-and-herb-butter-400g-000000000000532959",
@@ -2814,20 +2091,7 @@
         "sourceName": "READY, SET…COOK!",
         "displayName": "READY, SET…COOK!",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
-          "historicalLow": 34.98,
-          "historicalMedian": 34.98,
-          "historicalHigh": 34.98,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-0ba204545fa3a3"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/93fc4a76-f5ba-4fce-81b6-7da60000a554/Beef%20Porterhouse%20Steak%20with%20Garlic%20and%20Herb%20Butter%20400g"
@@ -2860,16 +2124,7 @@
         "sourceName": "Ring Battery Video Doorbell With Indoor Camera 2nd Gen",
         "displayName": "Ring Battery Video Doorbell With Indoor Camera 2nd Gen",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-41f96a908e5884",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-41f96a908e5884"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hef/h5b/296284966387742.jpg"
@@ -2904,16 +2159,7 @@
         "sourceName": "Roblox $50 Digital Gift Card",
         "displayName": "Roblox $50 Digital Gift Card",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4d7ccf5cd91c96",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-4d7ccf5cd91c96"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf7/h5c/491566447558686.jpg"
@@ -2946,16 +2192,7 @@
         "sourceName": "Roborock Qrevo C Pro Robot Vacuum Cleaner White RRQRRCP0203WHT",
         "displayName": "Roborock Qrevo C Pro Robot Vacuum Cleaner White RRQRRCP0203WHT",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-7f41839e9e0324",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-7f41839e9e0324"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h94/h57/491134044930078.jpg"
@@ -2988,16 +2225,7 @@
         "sourceName": "Roborock Qrevo C Vacuum Cleaner White RR-QRRC02-03-WHT",
         "displayName": "Roborock Qrevo C Vacuum Cleaner White RR-QRRC02-03-WHT",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b463a59305e5dd",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-b463a59305e5dd"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h72/h11/381661833199646.jpg"
@@ -3030,16 +2258,7 @@
         "sourceName": "Roborock Qrevo Curv2 Flow PR-QC2F02-03-WHT",
         "displayName": "Roborock Qrevo Curv2 Flow PR-QC2F02-03-WHT",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-e39344036745ea",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-e39344036745ea"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h0f/h26/400041826943006.jpg"
@@ -3072,16 +2291,7 @@
         "sourceName": "Samsung Galaxy Buds4 Pro",
         "displayName": "Samsung Galaxy Buds4 Pro",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9fa4253e63ffe8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-9fa4253e63ffe8"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcd/h7a/435942429360158.jpg"
@@ -3114,16 +2324,7 @@
         "sourceName": "Samsung Galaxy S26 256GB",
         "displayName": "Samsung Galaxy S26 256GB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9ba638a774929b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-9ba638a774929b"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he2/h3c/435942104694814.jpg"
@@ -3156,16 +2357,7 @@
         "sourceName": "Skechers Men's Arch Comfy 2.0 Sneaker",
         "displayName": "Skechers Men's Arch Comfy 2.0 Sneaker",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c9b3786de16c50",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-c9b3786de16c50"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hac/ha8/473523665403934.jpg"
@@ -3202,16 +2394,7 @@
         "sourceName": "Starbucks by Nespresso Choc Hazelnut Capsules 120 Pack",
         "displayName": "Starbucks by Nespresso Choc Hazelnut Capsules 120 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-564395ad29c2c6",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-564395ad29c2c6"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/products/hc1/he7/502024921382942.jpg"
@@ -3242,20 +2425,7 @@
         "sourceName": "STEGGLES",
         "displayName": "STEGGLES",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-25761bbac66a5d",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 14.98,
-          "historicalMedian": 14.98,
-          "historicalHigh": 14.98,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-25761bbac66a5d"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/839ad8a6-3659-4347-a000-572c3a8417f1/Chicken%20Breast%20Schnitzel%20Panko%20%20Quinoa%20Crumb%204%20Pack%20600g"
@@ -3288,16 +2458,7 @@
         "sourceName": "SunVilla Helio 4 Piece Outdoor Patio Seating Set",
         "displayName": "SunVilla Helio 4 Piece Outdoor Patio Seating Set",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-1e753973e54600",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-1e753973e54600"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h77/hed/431802717274142.jpg"
@@ -3328,20 +2489,7 @@
         "sourceName": "THE FISHMONGER",
         "displayName": "THE FISHMONGER",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-14c6572d6be944",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
-          "historicalLow": 34.76,
-          "historicalMedian": 34.76,
-          "historicalHigh": 34.76,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-14c6572d6be944"
       },
       {
         "externalId": "https://www.aldi.com.au/product/the-fishmonger-fresh-tasmanian-salmon-fillets-skin-on-4-pack-460g-000000000000405629",
@@ -3363,18 +2511,7 @@
         "sourceName": "THE FISHMONGER",
         "displayName": "THE FISHMONGER",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-14c6572d6be944",
-        "intelligence": {
-          "historicalStatus": "NORMAL",
-          "historicalObservations": 9,
-          "historicalLow": 32.59,
-          "historicalMedian": 34.76,
-          "historicalHigh": 34.76,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 2,
-          "reasons": [],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-14c6572d6be944"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c6b4f835-d969-4606-941e-a9c708ac9c1c/Fresh%20Tasmanian%20Salmon%20Fillets%20Skin%20Off%204%20Pack%20460g"
@@ -3407,16 +2544,7 @@
         "sourceName": "Viva Paper Towel Double Roll 12 x 120 Sheets",
         "displayName": "Viva Paper Towel Double Roll 12 x 120 Sheets",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-870c295b9d4b12",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-870c295b9d4b12"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h83/h24/472329437184030.jpg"

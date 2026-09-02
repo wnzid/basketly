@@ -1,6 +1,6 @@
 {
   "store": "costco",
-  "collectedAt": "2026-09-02T11:14:58.331Z",
+  "collectedAt": "2026-09-02T19:48:20.497Z",
   "source": "https://www.costco.com.au/c/hot-buys-category",
   "target": {
     "area": "St Albans VIC 3021, Melbourne",
@@ -461,25 +461,6 @@
       "salePrice": 999.99,
       "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h77/hed/431802717274142.jpg",
       "sourceUrl": "https://www.costco.com.au/c/SunVilla-Helio-4-Piece-Outdoor-Patio-Seating-Set/p/1807229",
-      "promotionType": "CAMPAIGN",
-      "sourceType": "web",
-      "sourcePlatform": "costco",
-      "channel": "online",
-      "onlineAvailable": true,
-      "physicalStoreAvailability": "unknown",
-      "membershipRequired": true,
-      "locationScope": "national",
-      "targetStore": "Costco Ardeer",
-      "targetPostcode": "3021",
-      "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-      "confidence": "MEDIUM"
-    },
-    {
-      "externalId": "91095",
-      "name": "Shark Wandvac WV203 Handheld Vacuum",
-      "salePrice": 179.99,
-      "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h68/h95/31368494252062.jpg",
-      "sourceUrl": "https://www.costco.com.au/Appliances/Vacuums-Floorcare/Stick-Hand-Held-Vacuums/Shark-Wandvac-WV203-Handheld-Vacuum/p/91095",
       "promotionType": "CAMPAIGN",
       "sourceType": "web",
       "sourcePlatform": "costco",
