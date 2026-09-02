@@ -168,48 +168,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcb/h70/437373691199518.jpg"
   },
   {
-    "id": "product-6796777344cc4e",
-    "name": "Apple iPad Air 11 Inch (2026) M4 512GB",
-    "category": "Fruit & Vegetables",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "261304",
-        "name": "Apple iPad Air 11 Inch (2026) M4 512GB",
-        "salePrice": 1699.98,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he0/h7f/437373696311326.jpg",
-        "sourceUrl": "https://www.costco.com.au/Computers/iPads-Tablets/iPads/Apple-iPad-Air/Apple-iPad-Air-11-Inch-2026-M4-512GB/p/261304",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Apple iPad Air 11 Inch (2026) M4 512GB",
-        "displayName": "Apple iPad Air 11 Inch (2026) M4 512GB",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6796777344cc4e",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he0/h7f/437373696311326.jpg"
-  },
-  {
     "id": "product-45855d1e8f3d5b",
     "name": "Apple iPad Air 13 Inch (2026) M4 128GB",
     "category": "Fruit & Vegetables",
@@ -672,48 +630,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h18/h20/381418799661086.jpg"
   },
   {
-    "id": "product-4e0bf5feb8505c",
-    "name": "Apple Watch Ultra 3 GPS + Cellular 49mm Titanium Case",
-    "category": "Fruit & Vegetables",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "240998",
-        "name": "Apple Watch Ultra 3 GPS + Cellular 49mm Titanium Case",
-        "salePrice": 1299.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h63/hc5/381430297722910.jpg",
-        "sourceUrl": "https://www.costco.com.au/Electronics/Smart-Watches/Apple-Watches/Apple-Watch-Ultra-3/Apple-Watch-Ultra-3-GPS-Cellular-49mm-Titanium-Case/p/240998",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Apple Watch Ultra 3 GPS + Cellular 49mm Titanium Case",
-        "displayName": "Apple Watch Ultra 3 GPS + Cellular 49mm Titanium Case",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4e0bf5feb8505c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h63/hc5/381430297722910.jpg"
-  },
-  {
     "id": "product-dc867e89d2eeba",
     "name": "Axus Digital AXP10 Portable Keyboard Pack With Headphones And Stool NM-AXP10PK",
     "category": "Other",
@@ -784,7 +700,7 @@
         "canonicalProductId": "product-1027545f0db526",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -828,7 +744,7 @@
         "canonicalProductId": "product-cc35236583af0a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 13.99,
           "historicalMedian": 13.99,
           "historicalHigh": 13.99,
@@ -872,7 +788,7 @@
         "canonicalProductId": "product-64191c2c8faa6b",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 16.99,
           "historicalMedian": 16.99,
           "historicalHigh": 16.99,
@@ -916,7 +832,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 4.99,
           "historicalMedian": 4.99,
           "historicalHigh": 4.99,
@@ -951,7 +867,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -965,6 +881,46 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f71e52f6-1d2a-4346-9e01-7229852e7272/RSPCA%20Approved%20Chicken%20Breast%20Fillet%20Stir%20Fry"
+  },
+  {
+    "id": "product-ad68f4891184c9",
+    "name": "BROOKDALE",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/brookdale-ice-cream-cup-cones-24-pack-000000000000364956",
+        "name": "BROOKDALE",
+        "salePrice": 0.1,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f9714f6a-0bcf-4eb9-a6ca-bb565778c055/Ice%20Cream%20Cup%20Cones%2024%20Pack",
+        "sourceUrl": "https://www.aldi.com.au/product/brookdale-ice-cream-cup-cones-24-pack-000000000000364956",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "BROOKDALE",
+        "displayName": "BROOKDALE",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-ad68f4891184c9",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f9714f6a-0bcf-4eb9-a6ca-bb565778c055/Ice%20Cream%20Cup%20Cones%2024%20Pack"
   },
   {
     "id": "product-1ccc725b7bb1d4",
@@ -997,7 +953,7 @@
         "canonicalProductId": "product-1ccc725b7bb1d4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 11.7,
           "historicalMedian": 11.7,
           "historicalHigh": 11.7,
@@ -1041,7 +997,7 @@
         "canonicalProductId": "product-4071950ce49369",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -1101,6 +1057,94 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h72/he6/369010398265374.jpg"
   },
   {
+    "id": "product-07cb46db3123ca",
+    "name": "Centrum Men Multivitamin 2 x 60 Tablets",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "230353",
+        "name": "Centrum Men Multivitamin 2 x 60 Tablets",
+        "salePrice": 27.98,
+        "pricePerUnit": 0.23,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h47/h98/399756045320222.jpg",
+        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Nutrition-Weight-Management/Vitamins-Supplements/Centrum-Men-Multivitamin-2-x-60-Tablets/p/230353",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Centrum Men Multivitamin 2 x 60 Tablets",
+        "displayName": "Centrum Men Multivitamin 2 x 60 Tablets",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-07cb46db3123ca",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h47/h98/399756045320222.jpg"
+  },
+  {
+    "id": "product-724edfd36c8479",
+    "name": "Centrum Women Multivitamin 2 x 60 Tablets",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "230354",
+        "name": "Centrum Women Multivitamin 2 x 60 Tablets",
+        "salePrice": 27.98,
+        "pricePerUnit": 0.23,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h92/h31/400733971841054.jpg",
+        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Nutrition-Weight-Management/Vitamins-Supplements/Centrum-Women-Multivitamin-2-x-60-Tablets/p/230354",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Centrum Women Multivitamin 2 x 60 Tablets",
+        "displayName": "Centrum Women Multivitamin 2 x 60 Tablets",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-724edfd36c8479",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h92/h31/400733971841054.jpg"
+  },
+  {
     "id": "product-a8c250e26c1979",
     "name": "Clearwipe Lens Cleaner 160 Pack",
     "category": "Household",
@@ -1112,7 +1156,7 @@
         "salePrice": 27.98,
         "quantity": 160,
         "unit": "pcs",
-        "pricePerUnit": 0.17,
+        "pricePerUnit": 0.14,
         "pricePerUnitType": "piece",
         "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h95/332273732026398.jpg",
         "sourceUrl": "https://www.costco.com.au/Health-Beauty/First-Aid/Clearwipe-Lens-Cleaner-160-Pack/p/141095",
@@ -1219,7 +1263,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1256,7 +1300,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1474,8 +1518,8 @@
         "canonicalProductId": "product-fea99608396259",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
-          "historicalLow": 14.3,
+          "historicalObservations": 9,
+          "historicalLow": 11.3,
           "historicalMedian": 14.3,
           "historicalHigh": 14.3,
           "percentBelowHistoricalMedian": 21,
@@ -1518,7 +1562,7 @@
         "canonicalProductId": "product-5062d098f404a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 0.5,
           "historicalMedian": 0.5,
           "historicalHigh": 0.5,
@@ -1562,8 +1606,8 @@
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
-          "historicalLow": 2.78,
+          "historicalObservations": 5,
+          "historicalLow": 2.58,
           "historicalMedian": 2.78,
           "historicalHigh": 2.78,
           "percentBelowHistoricalMedian": 7.2,
@@ -1597,7 +1641,7 @@
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -1628,7 +1672,7 @@
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -1670,7 +1714,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 24.9,
           "historicalMedian": 24.9,
           "historicalHigh": 24.9,
@@ -1707,7 +1751,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -1778,8 +1822,6 @@
         "externalId": "235943",
         "name": "G Force 60V Brushless Hedge Trimmer Kit EV HT1K",
         "salePrice": 299.99,
-        "pricePerUnit": 0.17,
-        "pricePerUnitType": "piece",
         "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h5d/h0b/368164608278558.jpg",
         "sourceUrl": "https://www.costco.com.au/Home-Improvement/Tools/Power-Tools/G-Force-60V-Brushless-Hedge-Trimmer-Kit-EV-HT1K/p/235943",
         "promotionType": "CAMPAIGN",
@@ -1885,7 +1927,7 @@
         "canonicalProductId": "product-dee325d469b1e8",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 6.8,
           "historicalMedian": 6.8,
           "historicalHigh": 6.8,
@@ -1929,7 +1971,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 9.98,
           "historicalMedian": 9.98,
           "historicalHigh": 9.98,
@@ -1964,7 +2006,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 13.49,
           "historicalMedian": 13.49,
           "historicalHigh": 13.49,
@@ -1999,7 +2041,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 13.99,
           "historicalMedian": 13.99,
           "historicalHigh": 13.99,
@@ -2034,7 +2076,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 15.49,
           "historicalMedian": 15.49,
           "historicalHigh": 15.49,
@@ -2078,7 +2120,7 @@
         "canonicalProductId": "product-4c13de8cce2743",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 31.99,
           "historicalMedian": 31.99,
           "historicalHigh": 31.99,
@@ -2124,7 +2166,7 @@
         "canonicalProductId": "product-09053bd9215db4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 19.4,
           "historicalMedian": 19.4,
           "historicalHigh": 19.4,
@@ -2138,48 +2180,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5a7dbed4-0810-4798-8a37-aa80fd3fa413/Nelson%20Boysenberry%20Ice%20Cream%206%20Pack%20360ml"
-  },
-  {
-    "id": "product-8aedb2b6f69e61",
-    "name": "KELLOGG'S",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
-        "name": "KELLOGG'S",
-        "salePrice": 2.77,
-        "pricePerUnit": 27.7,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/0cf5cdeb-e156-4272-88c7-bd96501178f6/Coco%20Pops%20Bars%209%20Pack%20180g",
-        "sourceUrl": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
-        "category": "Limited Time Only",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "KELLOGG'S",
-        "displayName": "KELLOGG'S",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-8aedb2b6f69e61",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/0cf5cdeb-e156-4272-88c7-bd96501178f6/Coco%20Pops%20Bars%209%20Pack%20180g"
   },
   {
     "id": "product-825b5433911cb2",
@@ -2210,7 +2210,7 @@
         "canonicalProductId": "product-825b5433911cb2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 17.99,
           "historicalMedian": 17.99,
           "historicalHigh": 17.99,
@@ -2298,7 +2298,7 @@
         "canonicalProductId": "product-134faee1d473a0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 10.99,
           "historicalMedian": 10.99,
           "historicalHigh": 10.99,
@@ -2384,7 +2384,7 @@
         "canonicalProductId": "product-e791e33c0ff83a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -2398,48 +2398,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/41da4ebe-bbbe-4522-9712-501341f5a809/Pinot%20Noir%20750ml"
-  },
-  {
-    "id": "product-9e135e8dcff190",
-    "name": "LG 55 Inch QNED70B AI MINI LED 4K Smart TV 55QNED70BSA",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "2026166",
-        "name": "LG 55 Inch QNED70B AI MINI LED 4K Smart TV 55QNED70BSA",
-        "salePrice": 899.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hd4/had/474600323186718.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/LG-55-Inch-QNED70B-AI-MINI-LED-4K-Smart-TV-55QNED70BSA/p/2026166",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "LG 55 Inch QNED70B AI MINI LED 4K Smart TV 55QNED70BSA",
-        "displayName": "LG 55 Inch QNED70B AI MINI LED 4K Smart TV 55QNED70BSA",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9e135e8dcff190",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd4/had/474600323186718.jpg"
   },
   {
     "id": "product-91bcadd423e7be",
@@ -2512,7 +2470,7 @@
         "canonicalProductId": "product-faeee97b7d3feb",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 8.99,
           "historicalMedian": 8.99,
           "historicalHigh": 8.99,
@@ -2644,7 +2602,7 @@
         "canonicalProductId": "product-791c54be5688f4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 22.7,
           "historicalMedian": 22.7,
           "historicalHigh": 22.7,
@@ -2688,7 +2646,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 18.74,
           "historicalMedian": 18.74,
           "historicalHigh": 18.74,
@@ -2723,7 +2681,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 19.38,
           "historicalMedian": 19.38,
           "historicalHigh": 19.38,
@@ -2758,7 +2716,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -2789,7 +2747,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 22.04,
           "historicalMedian": 22.04,
           "historicalHigh": 22.04,
@@ -2824,7 +2782,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 24.97,
           "historicalMedian": 24.97,
           "historicalHigh": 24.97,
@@ -2859,7 +2817,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 34.98,
           "historicalMedian": 34.98,
           "historicalHigh": 34.98,
@@ -3329,7 +3287,7 @@
         "canonicalProductId": "product-25761bbac66a5d",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 14.98,
           "historicalMedian": 14.98,
           "historicalHigh": 14.98,
@@ -3415,7 +3373,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 34.76,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
@@ -3450,7 +3408,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "NORMAL",
-          "historicalObservations": 8,
+          "historicalObservations": 9,
           "historicalLow": 32.59,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,

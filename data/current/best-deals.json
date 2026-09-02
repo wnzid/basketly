@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T19:57:27.596Z",
+  "generatedAt": "2026-09-02T11:15:56.554Z",
   "all": [
     {
       "rank": 1,
@@ -547,6 +547,22 @@
     },
     {
       "rank": 34,
+      "dealId": "product-ad68f4891184c9",
+      "product": "BROOKDALE",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "BROOKDALE",
+      "salePrice": 0.1,
+      "sourceUrl": "https://www.aldi.com.au/product/brookdale-ice-cream-cup-cones-24-pack-000000000000364956",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 35,
       "dealId": "product-98596f62a6dbb0",
       "product": "FLYING POWER",
       "category": "Other",
@@ -562,7 +578,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "dealId": "product-98596f62a6dbb0",
       "product": "FLYING POWER",
       "category": "Other",
@@ -570,24 +586,6 @@
       "sourceName": "FLYING POWER",
       "salePrice": 3.98,
       "sourceUrl": "https://www.aldi.com.au/product/flying-power-energy-drink-pine-lime-99-sugar-free-500ml-000000000000622180",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 36,
-      "dealId": "product-8aedb2b6f69e61",
-      "product": "KELLOGG'S",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "KELLOGG'S",
-      "salePrice": 2.77,
-      "pricePerUnit": 27.7,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
       "promotionType": "CAMPAIGN",
       "dealScore": 2,
       "reasons": [
@@ -1174,6 +1172,22 @@
       },
       {
         "rank": 34,
+        "dealId": "product-ad68f4891184c9",
+        "product": "BROOKDALE",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "BROOKDALE",
+        "salePrice": 0.1,
+        "sourceUrl": "https://www.aldi.com.au/product/brookdale-ice-cream-cup-cones-24-pack-000000000000364956",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 35,
         "dealId": "product-98596f62a6dbb0",
         "product": "FLYING POWER",
         "category": "Other",
@@ -1189,7 +1203,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "dealId": "product-98596f62a6dbb0",
         "product": "FLYING POWER",
         "category": "Other",
@@ -1197,24 +1211,6 @@
         "sourceName": "FLYING POWER",
         "salePrice": 3.98,
         "sourceUrl": "https://www.aldi.com.au/product/flying-power-energy-drink-pine-lime-99-sugar-free-500ml-000000000000622180",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 36,
-        "dealId": "product-8aedb2b6f69e61",
-        "product": "KELLOGG'S",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "KELLOGG'S",
-        "salePrice": 2.77,
-        "pricePerUnit": 27.7,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
         "promotionType": "CAMPAIGN",
         "dealScore": 2,
         "reasons": [
