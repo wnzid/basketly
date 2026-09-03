@@ -1,47 +1,5 @@
 [
   {
-    "id": "product-919ec4ade58fae",
-    "name": "Apple AirPods 4",
-    "category": "Fruit & Vegetables",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "202169",
-        "name": "Apple AirPods 4",
-        "salePrice": 209.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h39/h86/273475811967006.jpg",
-        "sourceUrl": "https://www.costco.com.au/Electronics/Audio/AirPods/Apple-AirPods-4/p/202169",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Apple AirPods 4",
-        "displayName": "Apple AirPods 4",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-919ec4ade58fae",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h39/h86/273475811967006.jpg"
-  },
-  {
     "id": "product-6946a7ab6b1c20",
     "name": "Apple AirPods 4 With Active Noise Cancellation",
     "category": "Fruit & Vegetables",
@@ -630,6 +588,48 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h18/h20/381418799661086.jpg"
   },
   {
+    "id": "product-4e0bf5feb8505c",
+    "name": "Apple Watch Ultra 3 GPS + Cellular 49mm Titanium Case",
+    "category": "Fruit & Vegetables",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "240998",
+        "name": "Apple Watch Ultra 3 GPS + Cellular 49mm Titanium Case",
+        "salePrice": 1299.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h63/hc5/381430297722910.jpg",
+        "sourceUrl": "https://www.costco.com.au/Electronics/Smart-Watches/Apple-Watches/Apple-Watch-Ultra-3/Apple-Watch-Ultra-3-GPS-Cellular-49mm-Titanium-Case/p/240998",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Apple Watch Ultra 3 GPS + Cellular 49mm Titanium Case",
+        "displayName": "Apple Watch Ultra 3 GPS + Cellular 49mm Titanium Case",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-4e0bf5feb8505c",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h63/hc5/381430297722910.jpg"
+  },
+  {
     "id": "product-dc867e89d2eeba",
     "name": "Axus Digital AXP10 Portable Keyboard Pack With Headphones And Stool NM-AXP10PK",
     "category": "Other",
@@ -700,7 +700,7 @@
         "canonicalProductId": "product-1027545f0db526",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -714,50 +714,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/fc037a24-df73-41e2-91f4-03b49993ba32/Smoked%20Hocks%20per%20kg"
-  },
-  {
-    "id": "product-cc35236583af0a",
-    "name": "BIG BEAR",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/big-bear-california-chardonnay-750ml-000000000000584688",
-        "name": "BIG BEAR",
-        "salePrice": 13.99,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c0fb6d7d-91cd-48b7-8d3b-160338d6f400/California%20Chardonnay%20750ml",
-        "sourceUrl": "https://www.aldi.com.au/product/big-bear-california-chardonnay-750ml-000000000000584688",
-        "category": "Limited Time Only",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "BIG BEAR",
-        "displayName": "BIG BEAR",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-cc35236583af0a",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
-          "historicalLow": 13.99,
-          "historicalMedian": 13.99,
-          "historicalHigh": 13.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c0fb6d7d-91cd-48b7-8d3b-160338d6f400/California%20Chardonnay%20750ml"
   },
   {
     "id": "product-64191c2c8faa6b",
@@ -788,7 +744,7 @@
         "canonicalProductId": "product-64191c2c8faa6b",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 16.99,
           "historicalMedian": 16.99,
           "historicalHigh": 16.99,
@@ -832,7 +788,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 4.99,
           "historicalMedian": 4.99,
           "historicalHigh": 4.99,
@@ -867,7 +823,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -911,7 +867,7 @@
         "canonicalProductId": "product-ad68f4891184c9",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -953,7 +909,7 @@
         "canonicalProductId": "product-1ccc725b7bb1d4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 11.7,
           "historicalMedian": 11.7,
           "historicalHigh": 11.7,
@@ -997,7 +953,7 @@
         "canonicalProductId": "product-4071950ce49369",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -1263,7 +1219,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1300,7 +1256,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1413,6 +1369,8 @@
         "externalId": "263690",
         "name": "Dyson V8 Advanced+ Vacuum With Car Cleaning Kit 626439-01",
         "salePrice": 649.99,
+        "pricePerUnit": 0.45,
+        "pricePerUnitType": "piece",
         "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hf6/hb9/450082512306206.jpg",
         "sourceUrl": "https://www.costco.com.au/Appliances/Vacuums-Floorcare/Stick-Hand-Held-Vacuums/Dyson-V8-Advanced-Vacuum-With-Car-Cleaning-Kit-626439-01/p/263690",
         "promotionType": "CAMPAIGN",
@@ -1446,48 +1404,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf6/hb9/450082512306206.jpg"
   },
   {
-    "id": "product-77826bd9b916a1",
-    "name": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "277440",
-        "name": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
-        "salePrice": 599.98,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h32/hbe/502720337346590.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Dyson-V8-Cyclone-Cordless-Vacuum-626406-01/p/277440",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
-        "displayName": "Dyson V8 Cyclone Cordless Vacuum 626406-01",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-77826bd9b916a1",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h32/hbe/502720337346590.jpg"
-  },
-  {
     "id": "product-fea99608396259",
     "name": "EL TORA",
     "category": "Other",
@@ -1518,7 +1434,7 @@
         "canonicalProductId": "product-fea99608396259",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 11.3,
           "historicalMedian": 14.3,
           "historicalHigh": 14.3,
@@ -1562,7 +1478,7 @@
         "canonicalProductId": "product-5062d098f404a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 0.5,
           "historicalMedian": 0.5,
           "historicalHigh": 0.5,
@@ -1606,7 +1522,7 @@
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 2.58,
           "historicalMedian": 2.78,
           "historicalHigh": 2.78,
@@ -1640,11 +1556,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 2.58,
+          "historicalMedian": 2.58,
+          "historicalHigh": 2.78,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -1671,11 +1591,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-98596f62a6dbb0",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 3.98,
+          "historicalMedian": 3.98,
+          "historicalHigh": 3.98,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -1714,7 +1638,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 24.9,
           "historicalMedian": 24.9,
           "historicalHigh": 24.9,
@@ -1751,7 +1675,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -1927,7 +1851,7 @@
         "canonicalProductId": "product-dee325d469b1e8",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 6.8,
           "historicalMedian": 6.8,
           "historicalHigh": 6.8,
@@ -1971,7 +1895,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 9.98,
           "historicalMedian": 9.98,
           "historicalHigh": 9.98,
@@ -2006,7 +1930,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 13.49,
           "historicalMedian": 13.49,
           "historicalHigh": 13.49,
@@ -2041,7 +1965,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 13.99,
           "historicalMedian": 13.99,
           "historicalHigh": 13.99,
@@ -2076,7 +2000,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 15.49,
           "historicalMedian": 15.49,
           "historicalHigh": 15.49,
@@ -2120,7 +2044,7 @@
         "canonicalProductId": "product-4c13de8cce2743",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 31.99,
           "historicalMedian": 31.99,
           "historicalHigh": 31.99,
@@ -2166,7 +2090,7 @@
         "canonicalProductId": "product-09053bd9215db4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 19.4,
           "historicalMedian": 19.4,
           "historicalHigh": 19.4,
@@ -2180,6 +2104,48 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5a7dbed4-0810-4798-8a37-aa80fd3fa413/Nelson%20Boysenberry%20Ice%20Cream%206%20Pack%20360ml"
+  },
+  {
+    "id": "product-8aedb2b6f69e61",
+    "name": "KELLOGG'S",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
+        "name": "KELLOGG'S",
+        "salePrice": 2.77,
+        "pricePerUnit": 27.7,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/0cf5cdeb-e156-4272-88c7-bd96501178f6/Coco%20Pops%20Bars%209%20Pack%20180g",
+        "sourceUrl": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "KELLOGG'S",
+        "displayName": "KELLOGG'S",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-8aedb2b6f69e61",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 2,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/0cf5cdeb-e156-4272-88c7-bd96501178f6/Coco%20Pops%20Bars%209%20Pack%20180g"
   },
   {
     "id": "product-825b5433911cb2",
@@ -2210,7 +2176,7 @@
         "canonicalProductId": "product-825b5433911cb2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 17.99,
           "historicalMedian": 17.99,
           "historicalHigh": 17.99,
@@ -2298,7 +2264,7 @@
         "canonicalProductId": "product-134faee1d473a0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 10.99,
           "historicalMedian": 10.99,
           "historicalHigh": 10.99,
@@ -2384,7 +2350,7 @@
         "canonicalProductId": "product-e791e33c0ff83a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -2470,7 +2436,7 @@
         "canonicalProductId": "product-faeee97b7d3feb",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 8.99,
           "historicalMedian": 8.99,
           "historicalHigh": 8.99,
@@ -2602,7 +2568,7 @@
         "canonicalProductId": "product-791c54be5688f4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 22.7,
           "historicalMedian": 22.7,
           "historicalHigh": 22.7,
@@ -2646,7 +2612,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 18.74,
           "historicalMedian": 18.74,
           "historicalHigh": 18.74,
@@ -2681,7 +2647,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 19.38,
           "historicalMedian": 19.38,
           "historicalHigh": 19.38,
@@ -2716,7 +2682,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -2747,7 +2713,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 22.04,
           "historicalMedian": 22.04,
           "historicalHigh": 22.04,
@@ -2782,7 +2748,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 24.97,
           "historicalMedian": 24.97,
           "historicalHigh": 24.97,
@@ -2817,7 +2783,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 34.98,
           "historicalMedian": 34.98,
           "historicalHigh": 34.98,
@@ -3087,48 +3053,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcd/h7a/435942429360158.jpg"
   },
   {
-    "id": "product-9ba638a774929b",
-    "name": "Samsung Galaxy S26 256GB",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "258865",
-        "name": "Samsung Galaxy S26 256GB",
-        "salePrice": 1449.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/he2/h3c/435942104694814.jpg",
-        "sourceUrl": "https://www.costco.com.au/Electronics/Mobile-Phones/Samsung-Galaxy-S26/Samsung-Galaxy-S26-256GB/p/258865",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Samsung Galaxy S26 256GB",
-        "displayName": "Samsung Galaxy S26 256GB",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9ba638a774929b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he2/h3c/435942104694814.jpg"
-  },
-  {
     "id": "product-c9b3786de16c50",
     "name": "Skechers Men's Arch Comfy 2.0 Sneaker",
     "category": "Other",
@@ -3245,7 +3169,7 @@
         "canonicalProductId": "product-25761bbac66a5d",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 14.98,
           "historicalMedian": 14.98,
           "historicalHigh": 14.98,
@@ -3331,7 +3255,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 34.76,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
@@ -3366,7 +3290,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "NORMAL",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 32.59,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,

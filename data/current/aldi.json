@@ -1,6 +1,6 @@
 {
   "store": "aldi",
-  "collectedAt": "2026-09-02T11:14:25.707Z",
+  "collectedAt": "2026-09-03T11:10:21.012Z",
   "source": "https://www.aldi.com.au/products/super-savers/k/1588161426952145",
   "target": {
     "area": "St Albans VIC 3021, Melbourne",
@@ -531,23 +531,6 @@
       "confidence": "HIGH"
     },
     {
-      "externalId": "https://www.aldi.com.au/product/big-bear-california-chardonnay-750ml-000000000000584688",
-      "name": "BIG BEAR",
-      "salePrice": 13.99,
-      "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c0fb6d7d-91cd-48b7-8d3b-160338d6f400/California%20Chardonnay%20750ml",
-      "sourceUrl": "https://www.aldi.com.au/product/big-bear-california-chardonnay-750ml-000000000000584688",
-      "category": "Limited Time Only",
-      "promotionType": "CAMPAIGN",
-      "sourceType": "web",
-      "sourcePlatform": "aldi",
-      "channel": "physical",
-      "physicalStoreAvailability": "unknown",
-      "locationScope": "state-level",
-      "targetStore": "ALDI Brimbank",
-      "targetPostcode": "3021",
-      "confidence": "HIGH"
-    },
-    {
       "externalId": "https://www.aldi.com.au/product/ready-set-cook-sweet-sour-pork-meal-kit-800g-000000000000602725",
       "name": "READY, SET…COOK!",
       "salePrice": 18.74,
@@ -661,6 +644,25 @@
       "salePrice": 3.98,
       "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/47967489-74e5-42d3-b8dc-cb680c23d702/Energy%20Drink%20Pine%20Lime%2099%25%20Sugar%20Free%20500ml",
       "sourceUrl": "https://www.aldi.com.au/product/flying-power-energy-drink-pine-lime-99-sugar-free-500ml-000000000000622180",
+      "category": "Limited Time Only",
+      "promotionType": "CAMPAIGN",
+      "sourceType": "web",
+      "sourcePlatform": "aldi",
+      "channel": "physical",
+      "physicalStoreAvailability": "unknown",
+      "locationScope": "state-level",
+      "targetStore": "ALDI Brimbank",
+      "targetPostcode": "3021",
+      "confidence": "HIGH"
+    },
+    {
+      "externalId": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
+      "name": "KELLOGG'S",
+      "salePrice": 2.77,
+      "pricePerUnit": 27.7,
+      "pricePerUnitType": "kg",
+      "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/0cf5cdeb-e156-4272-88c7-bd96501178f6/Coco%20Pops%20Bars%209%20Pack%20180g",
+      "sourceUrl": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
       "category": "Limited Time Only",
       "promotionType": "CAMPAIGN",
       "sourceType": "web",
