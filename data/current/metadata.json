@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:12:00.493Z",
+  "generatedAt": "2026-09-03T19:50:39.046Z",
   "target": {
     "suburb": "St Albans",
     "state": "VIC",
@@ -10,7 +10,7 @@
   },
   "stores": {
     "aldi": {
-      "status": "success",
+      "status": "unchanged",
       "offers": 38,
       "target": {
         "name": "ALDI Brimbank",
@@ -43,7 +43,7 @@
       }
     },
     "costco": {
-      "status": "success",
+      "status": "unchanged",
       "offers": 42,
       "target": {
         "name": "Costco Ardeer",
