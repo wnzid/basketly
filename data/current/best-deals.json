@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T19:50:39.046Z",
+  "generatedAt": "2026-09-04T11:19:40.555Z",
   "all": [
     {
       "rank": 1,
@@ -171,54 +171,6 @@
     },
     {
       "rank": 11,
-      "dealId": "product-98596f62a6dbb0",
-      "product": "FLYING POWER",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "FLYING POWER",
-      "salePrice": 2.58,
-      "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 32,
-      "reasons": [
-        "LOWEST_OBSERVED_PRICE"
-      ],
-      "historicalStatus": "LOWEST_OBSERVED"
-    },
-    {
-      "rank": 12,
-      "dealId": "product-98596f62a6dbb0",
-      "product": "FLYING POWER",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "FLYING POWER",
-      "salePrice": 2.58,
-      "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-berry-burst-500ml-000000000000620585",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 32,
-      "reasons": [
-        "LOWEST_OBSERVED_PRICE"
-      ],
-      "historicalStatus": "LOWEST_OBSERVED"
-    },
-    {
-      "rank": 13,
-      "dealId": "product-98596f62a6dbb0",
-      "product": "FLYING POWER",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "FLYING POWER",
-      "salePrice": 3.98,
-      "sourceUrl": "https://www.aldi.com.au/product/flying-power-energy-drink-pine-lime-99-sugar-free-500ml-000000000000622180",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 32,
-      "reasons": [
-        "LOWEST_OBSERVED_PRICE"
-      ],
-      "historicalStatus": "LOWEST_OBSERVED"
-    },
-    {
-      "rank": 14,
       "dealId": "product-37ac4685fc64f2",
       "product": "FOOD ENVY",
       "category": "Other",
@@ -236,7 +188,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 15,
+      "rank": 12,
       "dealId": "product-37ac4685fc64f2",
       "product": "FOOD ENVY",
       "category": "Other",
@@ -254,7 +206,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 16,
+      "rank": 13,
       "dealId": "product-dee325d469b1e8",
       "product": "IMPERIAL GRAIN",
       "category": "Other",
@@ -272,7 +224,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 17,
+      "rank": 14,
       "dealId": "product-aabf286d3aabdd",
       "product": "IRONBARK PORK",
       "category": "Meat",
@@ -288,7 +240,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 18,
+      "rank": 15,
       "dealId": "product-aabf286d3aabdd",
       "product": "IRONBARK PORK",
       "category": "Meat",
@@ -304,7 +256,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 19,
+      "rank": 16,
       "dealId": "product-aabf286d3aabdd",
       "product": "IRONBARK PORK",
       "category": "Meat",
@@ -320,7 +272,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 20,
+      "rank": 17,
       "dealId": "product-aabf286d3aabdd",
       "product": "IRONBARK PORK",
       "category": "Meat",
@@ -336,7 +288,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 21,
+      "rank": 18,
       "dealId": "product-4c13de8cce2743",
       "product": "JINDURRA STATION",
       "category": "Other",
@@ -352,7 +304,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 22,
+      "rank": 19,
       "dealId": "product-09053bd9215db4",
       "product": "KAPITI",
       "category": "Other",
@@ -370,7 +322,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 23,
+      "rank": 20,
       "dealId": "product-825b5433911cb2",
       "product": "KILLARNEE",
       "category": "Other",
@@ -386,7 +338,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 24,
+      "rank": 21,
       "dealId": "product-134faee1d473a0",
       "product": "L’EXPRESSION",
       "category": "Other",
@@ -402,7 +354,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 25,
+      "rank": 22,
       "dealId": "product-e791e33c0ff83a",
       "product": "LES ARGELIÈRES",
       "category": "Other",
@@ -418,7 +370,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 26,
+      "rank": 23,
       "dealId": "product-faeee97b7d3feb",
       "product": "MCGUIGAN",
       "category": "Other",
@@ -434,7 +386,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 27,
+      "rank": 24,
       "dealId": "product-791c54be5688f4",
       "product": "PC PETITE CUISINE",
       "category": "Other",
@@ -450,7 +402,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 28,
+      "rank": 25,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -466,7 +418,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 29,
+      "rank": 26,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -482,7 +434,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 30,
+      "rank": 27,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -498,7 +450,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 31,
+      "rank": 28,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -514,7 +466,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 32,
+      "rank": 29,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -530,7 +482,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 33,
+      "rank": 30,
       "dealId": "product-25761bbac66a5d",
       "product": "STEGGLES",
       "category": "Dairy & Eggs",
@@ -546,7 +498,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 34,
+      "rank": 31,
       "dealId": "product-14c6572d6be944",
       "product": "THE FISHMONGER",
       "category": "Fish & Seafood",
@@ -562,7 +514,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 35,
+      "rank": 32,
       "dealId": "product-ad68f4891184c9",
       "product": "BROOKDALE",
       "category": "Other",
@@ -578,7 +530,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 36,
+      "rank": 33,
       "dealId": "product-8aedb2b6f69e61",
       "product": "KELLOGG'S",
       "category": "Other",
@@ -596,7 +548,43 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 37,
+      "rank": 34,
+      "dealId": "product-41ade1389f855d",
+      "product": "OMBRA",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "OMBRA",
+      "salePrice": 2,
+      "pricePerUnit": 20,
+      "pricePerUnitType": "l",
+      "sourceUrl": "https://www.aldi.com.au/product/ombra-kids-sunscreen-spf-50-250ml-000000000000628179",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 35,
+      "dealId": "product-41ade1389f855d",
+      "product": "OMBRA",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "OMBRA",
+      "salePrice": 3.99,
+      "pricePerUnit": 39.9,
+      "pricePerUnitType": "l",
+      "sourceUrl": "https://www.aldi.com.au/product/ombra-daily-defence-mineral-sunscreen-sensitive-spf50-100ml-000000000000628169",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 36,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -612,7 +600,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "dealId": "product-14c6572d6be944",
       "product": "THE FISHMONGER",
       "category": "Fish & Seafood",
@@ -624,6 +612,24 @@
       "dealScore": 2,
       "reasons": [],
       "historicalStatus": "NORMAL"
+    },
+    {
+      "rank": 38,
+      "dealId": "product-6dbea64804f022",
+      "product": "WORLD KITCHEN",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "WORLD KITCHEN",
+      "salePrice": 1.25,
+      "pricePerUnit": 12.5,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/world-kitchen-beef-massaman-curry-800g-000000000000630823",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
     }
   ],
   "byStore": {
@@ -798,54 +804,6 @@
       },
       {
         "rank": 11,
-        "dealId": "product-98596f62a6dbb0",
-        "product": "FLYING POWER",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "FLYING POWER",
-        "salePrice": 2.58,
-        "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 32,
-        "reasons": [
-          "LOWEST_OBSERVED_PRICE"
-        ],
-        "historicalStatus": "LOWEST_OBSERVED"
-      },
-      {
-        "rank": 12,
-        "dealId": "product-98596f62a6dbb0",
-        "product": "FLYING POWER",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "FLYING POWER",
-        "salePrice": 2.58,
-        "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-berry-burst-500ml-000000000000620585",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 32,
-        "reasons": [
-          "LOWEST_OBSERVED_PRICE"
-        ],
-        "historicalStatus": "LOWEST_OBSERVED"
-      },
-      {
-        "rank": 13,
-        "dealId": "product-98596f62a6dbb0",
-        "product": "FLYING POWER",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "FLYING POWER",
-        "salePrice": 3.98,
-        "sourceUrl": "https://www.aldi.com.au/product/flying-power-energy-drink-pine-lime-99-sugar-free-500ml-000000000000622180",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 32,
-        "reasons": [
-          "LOWEST_OBSERVED_PRICE"
-        ],
-        "historicalStatus": "LOWEST_OBSERVED"
-      },
-      {
-        "rank": 14,
         "dealId": "product-37ac4685fc64f2",
         "product": "FOOD ENVY",
         "category": "Other",
@@ -863,7 +821,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 15,
+        "rank": 12,
         "dealId": "product-37ac4685fc64f2",
         "product": "FOOD ENVY",
         "category": "Other",
@@ -881,7 +839,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 16,
+        "rank": 13,
         "dealId": "product-dee325d469b1e8",
         "product": "IMPERIAL GRAIN",
         "category": "Other",
@@ -899,7 +857,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 17,
+        "rank": 14,
         "dealId": "product-aabf286d3aabdd",
         "product": "IRONBARK PORK",
         "category": "Meat",
@@ -915,7 +873,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 18,
+        "rank": 15,
         "dealId": "product-aabf286d3aabdd",
         "product": "IRONBARK PORK",
         "category": "Meat",
@@ -931,7 +889,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 19,
+        "rank": 16,
         "dealId": "product-aabf286d3aabdd",
         "product": "IRONBARK PORK",
         "category": "Meat",
@@ -947,7 +905,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 20,
+        "rank": 17,
         "dealId": "product-aabf286d3aabdd",
         "product": "IRONBARK PORK",
         "category": "Meat",
@@ -963,7 +921,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 21,
+        "rank": 18,
         "dealId": "product-4c13de8cce2743",
         "product": "JINDURRA STATION",
         "category": "Other",
@@ -979,7 +937,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 22,
+        "rank": 19,
         "dealId": "product-09053bd9215db4",
         "product": "KAPITI",
         "category": "Other",
@@ -997,7 +955,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 23,
+        "rank": 20,
         "dealId": "product-825b5433911cb2",
         "product": "KILLARNEE",
         "category": "Other",
@@ -1013,7 +971,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 24,
+        "rank": 21,
         "dealId": "product-134faee1d473a0",
         "product": "L’EXPRESSION",
         "category": "Other",
@@ -1029,7 +987,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 25,
+        "rank": 22,
         "dealId": "product-e791e33c0ff83a",
         "product": "LES ARGELIÈRES",
         "category": "Other",
@@ -1045,7 +1003,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 26,
+        "rank": 23,
         "dealId": "product-faeee97b7d3feb",
         "product": "MCGUIGAN",
         "category": "Other",
@@ -1061,7 +1019,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 27,
+        "rank": 24,
         "dealId": "product-791c54be5688f4",
         "product": "PC PETITE CUISINE",
         "category": "Other",
@@ -1077,7 +1035,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 28,
+        "rank": 25,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1093,7 +1051,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 29,
+        "rank": 26,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1109,7 +1067,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 30,
+        "rank": 27,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1125,7 +1083,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 31,
+        "rank": 28,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1141,7 +1099,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 32,
+        "rank": 29,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1157,7 +1115,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 33,
+        "rank": 30,
         "dealId": "product-25761bbac66a5d",
         "product": "STEGGLES",
         "category": "Dairy & Eggs",
@@ -1173,7 +1131,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 34,
+        "rank": 31,
         "dealId": "product-14c6572d6be944",
         "product": "THE FISHMONGER",
         "category": "Fish & Seafood",
@@ -1189,7 +1147,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 35,
+        "rank": 32,
         "dealId": "product-ad68f4891184c9",
         "product": "BROOKDALE",
         "category": "Other",
@@ -1205,7 +1163,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 36,
+        "rank": 33,
         "dealId": "product-8aedb2b6f69e61",
         "product": "KELLOGG'S",
         "category": "Other",
@@ -1223,7 +1181,43 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 37,
+        "rank": 34,
+        "dealId": "product-41ade1389f855d",
+        "product": "OMBRA",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "OMBRA",
+        "salePrice": 2,
+        "pricePerUnit": 20,
+        "pricePerUnitType": "l",
+        "sourceUrl": "https://www.aldi.com.au/product/ombra-kids-sunscreen-spf-50-250ml-000000000000628179",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 35,
+        "dealId": "product-41ade1389f855d",
+        "product": "OMBRA",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "OMBRA",
+        "salePrice": 3.99,
+        "pricePerUnit": 39.9,
+        "pricePerUnitType": "l",
+        "sourceUrl": "https://www.aldi.com.au/product/ombra-daily-defence-mineral-sunscreen-sensitive-spf50-100ml-000000000000628169",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 36,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1239,7 +1233,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 38,
+        "rank": 37,
         "dealId": "product-14c6572d6be944",
         "product": "THE FISHMONGER",
         "category": "Fish & Seafood",
@@ -1251,6 +1245,24 @@
         "dealScore": 2,
         "reasons": [],
         "historicalStatus": "NORMAL"
+      },
+      {
+        "rank": 38,
+        "dealId": "product-6dbea64804f022",
+        "product": "WORLD KITCHEN",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "WORLD KITCHEN",
+        "salePrice": 1.25,
+        "pricePerUnit": 12.5,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/world-kitchen-beef-massaman-curry-800g-000000000000630823",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
       }
     ],
     "coles": [],
