@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T11:19:40.555Z",
+  "generatedAt": "2026-09-04T19:35:01.848Z",
   "all": [
     {
       "rank": 1,
@@ -323,6 +323,24 @@
     },
     {
       "rank": 20,
+      "dealId": "product-8aedb2b6f69e61",
+      "product": "KELLOGG'S",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "KELLOGG'S",
+      "salePrice": 2.77,
+      "pricePerUnit": 27.7,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 32,
+      "reasons": [
+        "LOWEST_OBSERVED_PRICE"
+      ],
+      "historicalStatus": "LOWEST_OBSERVED"
+    },
+    {
+      "rank": 21,
       "dealId": "product-825b5433911cb2",
       "product": "KILLARNEE",
       "category": "Other",
@@ -338,7 +356,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "dealId": "product-134faee1d473a0",
       "product": "L’EXPRESSION",
       "category": "Other",
@@ -354,7 +372,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "dealId": "product-e791e33c0ff83a",
       "product": "LES ARGELIÈRES",
       "category": "Other",
@@ -370,7 +388,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "dealId": "product-faeee97b7d3feb",
       "product": "MCGUIGAN",
       "category": "Other",
@@ -386,7 +404,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "dealId": "product-791c54be5688f4",
       "product": "PC PETITE CUISINE",
       "category": "Other",
@@ -402,7 +420,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -418,7 +436,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -434,7 +452,23 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 27,
+      "rank": 28,
+      "dealId": "product-0ba204545fa3a3",
+      "product": "READY, SET…COOK!",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "READY, SET…COOK!",
+      "salePrice": 19.98,
+      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-rspca-approved-hot-honey-boneless-chicken-400g-000000000000697402",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 32,
+      "reasons": [
+        "LOWEST_OBSERVED_PRICE"
+      ],
+      "historicalStatus": "LOWEST_OBSERVED"
+    },
+    {
+      "rank": 29,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -450,7 +484,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 28,
+      "rank": 30,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -466,7 +500,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 29,
+      "rank": 31,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -482,7 +516,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 30,
+      "rank": 32,
       "dealId": "product-25761bbac66a5d",
       "product": "STEGGLES",
       "category": "Dairy & Eggs",
@@ -498,7 +532,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 31,
+      "rank": 33,
       "dealId": "product-14c6572d6be944",
       "product": "THE FISHMONGER",
       "category": "Fish & Seafood",
@@ -514,7 +548,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 32,
+      "rank": 34,
       "dealId": "product-ad68f4891184c9",
       "product": "BROOKDALE",
       "category": "Other",
@@ -530,25 +564,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 33,
-      "dealId": "product-8aedb2b6f69e61",
-      "product": "KELLOGG'S",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "KELLOGG'S",
-      "salePrice": 2.77,
-      "pricePerUnit": 27.7,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 34,
+      "rank": 35,
       "dealId": "product-41ade1389f855d",
       "product": "OMBRA",
       "category": "Other",
@@ -566,7 +582,7 @@
       "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "dealId": "product-41ade1389f855d",
       "product": "OMBRA",
       "category": "Other",
@@ -576,22 +592,6 @@
       "pricePerUnit": 39.9,
       "pricePerUnitType": "l",
       "sourceUrl": "https://www.aldi.com.au/product/ombra-daily-defence-mineral-sunscreen-sensitive-spf50-100ml-000000000000628169",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
-    },
-    {
-      "rank": 36,
-      "dealId": "product-0ba204545fa3a3",
-      "product": "READY, SET…COOK!",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "READY, SET…COOK!",
-      "salePrice": 19.98,
-      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-rspca-approved-hot-honey-boneless-chicken-400g-000000000000697402",
       "promotionType": "CAMPAIGN",
       "dealScore": 2,
       "reasons": [
@@ -956,6 +956,24 @@
       },
       {
         "rank": 20,
+        "dealId": "product-8aedb2b6f69e61",
+        "product": "KELLOGG'S",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "KELLOGG'S",
+        "salePrice": 2.77,
+        "pricePerUnit": 27.7,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 32,
+        "reasons": [
+          "LOWEST_OBSERVED_PRICE"
+        ],
+        "historicalStatus": "LOWEST_OBSERVED"
+      },
+      {
+        "rank": 21,
         "dealId": "product-825b5433911cb2",
         "product": "KILLARNEE",
         "category": "Other",
@@ -971,7 +989,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "dealId": "product-134faee1d473a0",
         "product": "L’EXPRESSION",
         "category": "Other",
@@ -987,7 +1005,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "dealId": "product-e791e33c0ff83a",
         "product": "LES ARGELIÈRES",
         "category": "Other",
@@ -1003,7 +1021,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "dealId": "product-faeee97b7d3feb",
         "product": "MCGUIGAN",
         "category": "Other",
@@ -1019,7 +1037,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "dealId": "product-791c54be5688f4",
         "product": "PC PETITE CUISINE",
         "category": "Other",
@@ -1035,7 +1053,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1051,7 +1069,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1067,7 +1085,23 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 27,
+        "rank": 28,
+        "dealId": "product-0ba204545fa3a3",
+        "product": "READY, SET…COOK!",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "salePrice": 19.98,
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-rspca-approved-hot-honey-boneless-chicken-400g-000000000000697402",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 32,
+        "reasons": [
+          "LOWEST_OBSERVED_PRICE"
+        ],
+        "historicalStatus": "LOWEST_OBSERVED"
+      },
+      {
+        "rank": 29,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1083,7 +1117,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 28,
+        "rank": 30,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1099,7 +1133,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 29,
+        "rank": 31,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1115,7 +1149,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 30,
+        "rank": 32,
         "dealId": "product-25761bbac66a5d",
         "product": "STEGGLES",
         "category": "Dairy & Eggs",
@@ -1131,7 +1165,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 31,
+        "rank": 33,
         "dealId": "product-14c6572d6be944",
         "product": "THE FISHMONGER",
         "category": "Fish & Seafood",
@@ -1147,7 +1181,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 32,
+        "rank": 34,
         "dealId": "product-ad68f4891184c9",
         "product": "BROOKDALE",
         "category": "Other",
@@ -1163,25 +1197,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 33,
-        "dealId": "product-8aedb2b6f69e61",
-        "product": "KELLOGG'S",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "KELLOGG'S",
-        "salePrice": 2.77,
-        "pricePerUnit": 27.7,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/kellogg-s-coco-pops-bars-9-pack-180g-000000000000627417",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 34,
+        "rank": 35,
         "dealId": "product-41ade1389f855d",
         "product": "OMBRA",
         "category": "Other",
@@ -1199,7 +1215,7 @@
         "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "dealId": "product-41ade1389f855d",
         "product": "OMBRA",
         "category": "Other",
@@ -1209,22 +1225,6 @@
         "pricePerUnit": 39.9,
         "pricePerUnitType": "l",
         "sourceUrl": "https://www.aldi.com.au/product/ombra-daily-defence-mineral-sunscreen-sensitive-spf50-100ml-000000000000628169",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
-      },
-      {
-        "rank": 36,
-        "dealId": "product-0ba204545fa3a3",
-        "product": "READY, SET…COOK!",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "READY, SET…COOK!",
-        "salePrice": 19.98,
-        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-rspca-approved-hot-honey-boneless-chicken-400g-000000000000697402",
         "promotionType": "CAMPAIGN",
         "dealScore": 2,
         "reasons": [
