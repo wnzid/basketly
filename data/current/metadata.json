@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:33:36.638Z",
+  "generatedAt": "2026-09-05T19:03:20.454Z",
   "target": {
     "suburb": "St Albans",
     "state": "VIC",
@@ -43,7 +43,7 @@
       }
     },
     "costco": {
-      "status": "success",
+      "status": "unchanged",
       "offers": 37,
       "target": {
         "name": "Costco Ardeer",

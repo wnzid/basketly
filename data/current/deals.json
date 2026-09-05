@@ -28,7 +28,7 @@
         "canonicalProductId": "product-1027545f0db526",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -72,7 +72,7 @@
         "canonicalProductId": "product-64191c2c8faa6b",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 16.99,
           "historicalMedian": 16.99,
           "historicalHigh": 16.99,
@@ -116,7 +116,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 4.99,
           "historicalMedian": 4.99,
           "historicalHigh": 4.99,
@@ -151,7 +151,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -194,11 +194,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-ad68f4891184c9",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 0.1,
+          "historicalMedian": 0.1,
+          "historicalHigh": 0.1,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -237,7 +241,7 @@
         "canonicalProductId": "product-1ccc725b7bb1d4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 11.7,
           "historicalMedian": 11.7,
           "historicalHigh": 11.7,
@@ -281,7 +285,7 @@
         "canonicalProductId": "product-4071950ce49369",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -639,7 +643,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -676,7 +680,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1192,7 +1196,7 @@
         "canonicalProductId": "product-fea99608396259",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 11.3,
           "historicalMedian": 14.3,
           "historicalHigh": 14.3,
@@ -1236,7 +1240,7 @@
         "canonicalProductId": "product-5062d098f404a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 0.5,
           "historicalMedian": 0.5,
           "historicalHigh": 0.5,
@@ -1282,7 +1286,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 24.9,
           "historicalMedian": 24.9,
           "historicalHigh": 24.9,
@@ -1319,7 +1323,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -1495,7 +1499,7 @@
         "canonicalProductId": "product-dee325d469b1e8",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 6.8,
           "historicalMedian": 6.8,
           "historicalHigh": 6.8,
@@ -1539,7 +1543,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 9.98,
           "historicalMedian": 9.98,
           "historicalHigh": 9.98,
@@ -1574,7 +1578,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 13.49,
           "historicalMedian": 13.49,
           "historicalHigh": 13.49,
@@ -1609,7 +1613,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 13.99,
           "historicalMedian": 13.99,
           "historicalHigh": 13.99,
@@ -1644,7 +1648,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 15.49,
           "historicalMedian": 15.49,
           "historicalHigh": 15.49,
@@ -1688,7 +1692,7 @@
         "canonicalProductId": "product-4c13de8cce2743",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 31.99,
           "historicalMedian": 31.99,
           "historicalHigh": 31.99,
@@ -1734,7 +1738,7 @@
         "canonicalProductId": "product-09053bd9215db4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 19.4,
           "historicalMedian": 19.4,
           "historicalHigh": 19.4,
@@ -1780,7 +1784,7 @@
         "canonicalProductId": "product-8aedb2b6f69e61",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 3,
+          "historicalObservations": 4,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -1824,7 +1828,7 @@
         "canonicalProductId": "product-825b5433911cb2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 17.99,
           "historicalMedian": 17.99,
           "historicalHigh": 17.99,
@@ -1954,7 +1958,7 @@
         "canonicalProductId": "product-134faee1d473a0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 10.99,
           "historicalMedian": 10.99,
           "historicalHigh": 10.99,
@@ -2040,7 +2044,7 @@
         "canonicalProductId": "product-e791e33c0ff83a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -2084,7 +2088,7 @@
         "canonicalProductId": "product-faeee97b7d3feb",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 8.99,
           "historicalMedian": 8.99,
           "historicalHigh": 8.99,
@@ -2264,7 +2268,7 @@
         "canonicalProductId": "product-41ade1389f855d",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -2296,11 +2300,15 @@
         "displayNameSource": "AUTO",
         "canonicalProductId": "product-41ade1389f855d",
         "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 2,
-          "dealScore": 2,
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 39.9,
+          "historicalMedian": 39.9,
+          "historicalHigh": 39.9,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
           "reasons": [
-            "LIMITED_HISTORY"
+            "LOWEST_OBSERVED_PRICE"
           ],
           "comparisonReasons": []
         }
@@ -2337,7 +2345,7 @@
         "canonicalProductId": "product-791c54be5688f4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 22.7,
           "historicalMedian": 22.7,
           "historicalHigh": 22.7,
@@ -2381,7 +2389,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 18.74,
           "historicalMedian": 18.74,
           "historicalHigh": 18.74,
@@ -2416,7 +2424,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 19.38,
           "historicalMedian": 19.38,
           "historicalHigh": 19.38,
@@ -2451,7 +2459,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 3,
+          "historicalObservations": 4,
           "historicalLow": 19.98,
           "historicalMedian": 19.98,
           "historicalHigh": 19.98,
@@ -2486,7 +2494,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 22.04,
           "historicalMedian": 22.04,
           "historicalHigh": 22.04,
@@ -2521,7 +2529,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 24.97,
           "historicalMedian": 24.97,
           "historicalHigh": 24.97,
@@ -2556,7 +2564,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 34.98,
           "historicalMedian": 34.98,
           "historicalHigh": 34.98,
@@ -2938,7 +2946,7 @@
         "canonicalProductId": "product-25761bbac66a5d",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 14.98,
           "historicalMedian": 14.98,
           "historicalHigh": 14.98,
@@ -3024,7 +3032,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 9,
+          "historicalObservations": 10,
           "historicalLow": 34.76,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
@@ -3059,7 +3067,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "NORMAL",
-          "historicalObservations": 11,
+          "historicalObservations": 12,
           "historicalLow": 32.59,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
@@ -3145,7 +3153,7 @@
         "canonicalProductId": "product-6dbea64804f022",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
+          "historicalObservations": 2,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
