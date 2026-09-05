@@ -1,6 +1,6 @@
 {
   "store": "costco",
-  "collectedAt": "2026-09-04T11:18:39.460Z",
+  "collectedAt": "2026-09-05T10:32:38.259Z",
   "source": "https://www.costco.com.au/c/hot-buys-category",
   "target": {
     "area": "St Albans VIC 3021, Melbourne",
@@ -492,25 +492,6 @@
       "pricePerUnitType": "l",
       "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h3a/h4c/436189047357470.jpg",
       "sourceUrl": "https://www.costco.com.au/c/Midea-362L-Hybrid-Chest-Freezer-White-MDRC499FZF01AP/p/242443",
-      "promotionType": "CAMPAIGN",
-      "sourceType": "web",
-      "sourcePlatform": "costco",
-      "channel": "online",
-      "onlineAvailable": true,
-      "physicalStoreAvailability": "unknown",
-      "membershipRequired": true,
-      "locationScope": "national",
-      "targetStore": "Costco Ardeer",
-      "targetPostcode": "3021",
-      "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-      "confidence": "MEDIUM"
-    },
-    {
-      "externalId": "1807258",
-      "name": "Masterbuilt 91cm Charcoal Wagon Grill",
-      "salePrice": 599.98,
-      "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hfd/h1e/418050593292318.jpg",
-      "sourceUrl": "https://www.costco.com.au/Patio-Lawn-Garden/Barbecues/Charcoal-BBQs-Pellet-Smokers/Masterbuilt-91cm-Charcoal-Wagon-Grill/p/1807258",
       "promotionType": "CAMPAIGN",
       "sourceType": "web",
       "sourcePlatform": "costco",
