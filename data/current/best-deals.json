@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:54:16.884Z",
+  "generatedAt": "2026-09-06T19:10:17.751Z",
   "all": [
     {
       "rank": 1,
@@ -262,7 +262,7 @@
       "category": "Meat",
       "store": "aldi",
       "sourceName": "IRONBARK PORK",
-      "salePrice": 13.49,
+      "salePrice": 11.99,
       "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
       "promotionType": "CAMPAIGN",
       "dealScore": 32,
@@ -426,6 +426,24 @@
       "category": "Other",
       "store": "aldi",
       "sourceName": "OMBRA",
+      "salePrice": 2,
+      "pricePerUnit": 20,
+      "pricePerUnitType": "l",
+      "sourceUrl": "https://www.aldi.com.au/product/ombra-kids-sunscreen-spf-50-250ml-000000000000628179",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 32,
+      "reasons": [
+        "LOWEST_OBSERVED_PRICE"
+      ],
+      "historicalStatus": "LOWEST_OBSERVED"
+    },
+    {
+      "rank": 27,
+      "dealId": "product-41ade1389f855d",
+      "product": "OMBRA",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "OMBRA",
       "salePrice": 3.99,
       "pricePerUnit": 39.9,
       "pricePerUnitType": "l",
@@ -438,7 +456,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "dealId": "product-791c54be5688f4",
       "product": "PC PETITE CUISINE",
       "category": "Other",
@@ -454,7 +472,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -470,7 +488,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -486,7 +504,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -502,7 +520,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -518,7 +536,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -534,7 +552,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -550,7 +568,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "dealId": "product-25761bbac66a5d",
       "product": "STEGGLES",
       "category": "Dairy & Eggs",
@@ -566,7 +584,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "dealId": "product-14c6572d6be944",
       "product": "THE FISHMONGER",
       "category": "Fish & Seafood",
@@ -582,25 +600,25 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 36,
-      "dealId": "product-41ade1389f855d",
-      "product": "OMBRA",
+      "rank": 37,
+      "dealId": "product-6dbea64804f022",
+      "product": "WORLD KITCHEN",
       "category": "Other",
       "store": "aldi",
-      "sourceName": "OMBRA",
-      "salePrice": 2,
-      "pricePerUnit": 20,
-      "pricePerUnitType": "l",
-      "sourceUrl": "https://www.aldi.com.au/product/ombra-kids-sunscreen-spf-50-250ml-000000000000628179",
+      "sourceName": "WORLD KITCHEN",
+      "salePrice": 1.25,
+      "pricePerUnit": 12.5,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/world-kitchen-beef-massaman-curry-800g-000000000000630823",
       "promotionType": "CAMPAIGN",
-      "dealScore": 2,
+      "dealScore": 32,
       "reasons": [
-        "LIMITED_HISTORY"
+        "LOWEST_OBSERVED_PRICE"
       ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
+      "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "dealId": "product-14c6572d6be944",
       "product": "THE FISHMONGER",
       "category": "Fish & Seafood",
@@ -612,24 +630,6 @@
       "dealScore": 2,
       "reasons": [],
       "historicalStatus": "NORMAL"
-    },
-    {
-      "rank": 38,
-      "dealId": "product-6dbea64804f022",
-      "product": "WORLD KITCHEN",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "WORLD KITCHEN",
-      "salePrice": 1.25,
-      "pricePerUnit": 12.5,
-      "pricePerUnitType": "kg",
-      "sourceUrl": "https://www.aldi.com.au/product/world-kitchen-beef-massaman-curry-800g-000000000000630823",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 2,
-      "reasons": [
-        "LIMITED_HISTORY"
-      ],
-      "historicalStatus": "INSUFFICIENT_HISTORY"
     }
   ],
   "byStore": {
@@ -895,7 +895,7 @@
         "category": "Meat",
         "store": "aldi",
         "sourceName": "IRONBARK PORK",
-        "salePrice": 13.49,
+        "salePrice": 11.99,
         "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
         "promotionType": "CAMPAIGN",
         "dealScore": 32,
@@ -1059,6 +1059,24 @@
         "category": "Other",
         "store": "aldi",
         "sourceName": "OMBRA",
+        "salePrice": 2,
+        "pricePerUnit": 20,
+        "pricePerUnitType": "l",
+        "sourceUrl": "https://www.aldi.com.au/product/ombra-kids-sunscreen-spf-50-250ml-000000000000628179",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 32,
+        "reasons": [
+          "LOWEST_OBSERVED_PRICE"
+        ],
+        "historicalStatus": "LOWEST_OBSERVED"
+      },
+      {
+        "rank": 27,
+        "dealId": "product-41ade1389f855d",
+        "product": "OMBRA",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "OMBRA",
         "salePrice": 3.99,
         "pricePerUnit": 39.9,
         "pricePerUnitType": "l",
@@ -1071,7 +1089,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "dealId": "product-791c54be5688f4",
         "product": "PC PETITE CUISINE",
         "category": "Other",
@@ -1087,7 +1105,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1103,7 +1121,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1119,7 +1137,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1135,7 +1153,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1151,7 +1169,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1167,7 +1185,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1183,7 +1201,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "dealId": "product-25761bbac66a5d",
         "product": "STEGGLES",
         "category": "Dairy & Eggs",
@@ -1199,7 +1217,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "dealId": "product-14c6572d6be944",
         "product": "THE FISHMONGER",
         "category": "Fish & Seafood",
@@ -1215,25 +1233,25 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 36,
-        "dealId": "product-41ade1389f855d",
-        "product": "OMBRA",
+        "rank": 37,
+        "dealId": "product-6dbea64804f022",
+        "product": "WORLD KITCHEN",
         "category": "Other",
         "store": "aldi",
-        "sourceName": "OMBRA",
-        "salePrice": 2,
-        "pricePerUnit": 20,
-        "pricePerUnitType": "l",
-        "sourceUrl": "https://www.aldi.com.au/product/ombra-kids-sunscreen-spf-50-250ml-000000000000628179",
+        "sourceName": "WORLD KITCHEN",
+        "salePrice": 1.25,
+        "pricePerUnit": 12.5,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/world-kitchen-beef-massaman-curry-800g-000000000000630823",
         "promotionType": "CAMPAIGN",
-        "dealScore": 2,
+        "dealScore": 32,
         "reasons": [
-          "LIMITED_HISTORY"
+          "LOWEST_OBSERVED_PRICE"
         ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
+        "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "dealId": "product-14c6572d6be944",
         "product": "THE FISHMONGER",
         "category": "Fish & Seafood",
@@ -1245,24 +1263,6 @@
         "dealScore": 2,
         "reasons": [],
         "historicalStatus": "NORMAL"
-      },
-      {
-        "rank": 38,
-        "dealId": "product-6dbea64804f022",
-        "product": "WORLD KITCHEN",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "WORLD KITCHEN",
-        "salePrice": 1.25,
-        "pricePerUnit": 12.5,
-        "pricePerUnitType": "kg",
-        "sourceUrl": "https://www.aldi.com.au/product/world-kitchen-beef-massaman-curry-800g-000000000000630823",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 2,
-        "reasons": [
-          "LIMITED_HISTORY"
-        ],
-        "historicalStatus": "INSUFFICIENT_HISTORY"
       }
     ],
     "coles": [],

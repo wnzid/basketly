@@ -1,6 +1,6 @@
 {
   "store": "aldi",
-  "collectedAt": "2026-09-04T11:18:07.445Z",
+  "collectedAt": "2026-09-06T19:08:47.354Z",
   "source": "https://www.aldi.com.au/products/super-savers/k/1588161426952145",
   "target": {
     "area": "St Albans VIC 3021, Melbourne",
@@ -149,7 +149,7 @@
     {
       "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
       "name": "IRONBARK PORK",
-      "salePrice": 13.49,
+      "salePrice": 11.99,
       "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f7432c81-4476-4a01-a0d9-c4568d2eaf5b/Pork%20Scotch%20Fillet%20Roast",
       "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
       "category": "Limited Time Only",
