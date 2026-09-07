@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T12:27:53.553Z",
+  "generatedAt": "2026-09-07T20:35:02.490Z",
   "all": [
     {
       "rank": 1,
@@ -494,22 +494,6 @@
       "category": "Other",
       "store": "aldi",
       "sourceName": "READY, SET…COOK!",
-      "salePrice": 19.38,
-      "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-beef-nasi-goreng-825g-000000000000584331",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 32,
-      "reasons": [
-        "LOWEST_OBSERVED_PRICE"
-      ],
-      "historicalStatus": "LOWEST_OBSERVED"
-    },
-    {
-      "rank": 31,
-      "dealId": "product-0ba204545fa3a3",
-      "product": "READY, SET…COOK!",
-      "category": "Other",
-      "store": "aldi",
-      "sourceName": "READY, SET…COOK!",
       "salePrice": 19.98,
       "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-rspca-approved-hot-honey-boneless-chicken-400g-000000000000697402",
       "promotionType": "CAMPAIGN",
@@ -520,7 +504,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -536,7 +520,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -552,7 +536,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "dealId": "product-0ba204545fa3a3",
       "product": "READY, SET…COOK!",
       "category": "Other",
@@ -568,23 +552,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 35,
-      "dealId": "product-25761bbac66a5d",
-      "product": "STEGGLES",
-      "category": "Dairy & Eggs",
-      "store": "aldi",
-      "sourceName": "STEGGLES",
-      "salePrice": 14.98,
-      "sourceUrl": "https://www.aldi.com.au/product/steggles-chicken-breast-schnitzel-panko-quinoa-crumb-4-pack-600g-000000000000401221",
-      "promotionType": "CAMPAIGN",
-      "dealScore": 32,
-      "reasons": [
-        "LOWEST_OBSERVED_PRICE"
-      ],
-      "historicalStatus": "LOWEST_OBSERVED"
-    },
-    {
-      "rank": 36,
+      "rank": 34,
       "dealId": "product-14c6572d6be944",
       "product": "THE FISHMONGER",
       "category": "Fish & Seafood",
@@ -600,7 +568,7 @@
       "historicalStatus": "LOWEST_OBSERVED"
     },
     {
-      "rank": 37,
+      "rank": 35,
       "dealId": "product-6dbea64804f022",
       "product": "WORLD KITCHEN",
       "category": "Other",
@@ -616,6 +584,42 @@
         "LOWEST_OBSERVED_PRICE"
       ],
       "historicalStatus": "LOWEST_OBSERVED"
+    },
+    {
+      "rank": 36,
+      "dealId": "product-99864605275bf6",
+      "product": "DELI ORIGINALS",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "DELI ORIGINALS",
+      "salePrice": 1.5,
+      "pricePerUnit": 15,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/deli-originals-deli-originals-fresh-sweet-chilli-dip-200g-000000000000638465",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
+    },
+    {
+      "rank": 37,
+      "dealId": "product-530dd030518800",
+      "product": "INTERNATIONAL CUISINE",
+      "category": "Other",
+      "store": "aldi",
+      "sourceName": "INTERNATIONAL CUISINE",
+      "salePrice": 1.37,
+      "pricePerUnit": 13.7,
+      "pricePerUnitType": "kg",
+      "sourceUrl": "https://www.aldi.com.au/product/international-cuisine-ham-cheese-mini-pizza-4-pack-400g-000000000000646255",
+      "promotionType": "CAMPAIGN",
+      "dealScore": 2,
+      "reasons": [
+        "LIMITED_HISTORY"
+      ],
+      "historicalStatus": "INSUFFICIENT_HISTORY"
     },
     {
       "rank": 38,
@@ -1127,22 +1131,6 @@
         "category": "Other",
         "store": "aldi",
         "sourceName": "READY, SET…COOK!",
-        "salePrice": 19.38,
-        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-beef-nasi-goreng-825g-000000000000584331",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 32,
-        "reasons": [
-          "LOWEST_OBSERVED_PRICE"
-        ],
-        "historicalStatus": "LOWEST_OBSERVED"
-      },
-      {
-        "rank": 31,
-        "dealId": "product-0ba204545fa3a3",
-        "product": "READY, SET…COOK!",
-        "category": "Other",
-        "store": "aldi",
-        "sourceName": "READY, SET…COOK!",
         "salePrice": 19.98,
         "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-rspca-approved-hot-honey-boneless-chicken-400g-000000000000697402",
         "promotionType": "CAMPAIGN",
@@ -1153,7 +1141,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 32,
+        "rank": 31,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1169,7 +1157,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 33,
+        "rank": 32,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1185,7 +1173,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 34,
+        "rank": 33,
         "dealId": "product-0ba204545fa3a3",
         "product": "READY, SET…COOK!",
         "category": "Other",
@@ -1201,23 +1189,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 35,
-        "dealId": "product-25761bbac66a5d",
-        "product": "STEGGLES",
-        "category": "Dairy & Eggs",
-        "store": "aldi",
-        "sourceName": "STEGGLES",
-        "salePrice": 14.98,
-        "sourceUrl": "https://www.aldi.com.au/product/steggles-chicken-breast-schnitzel-panko-quinoa-crumb-4-pack-600g-000000000000401221",
-        "promotionType": "CAMPAIGN",
-        "dealScore": 32,
-        "reasons": [
-          "LOWEST_OBSERVED_PRICE"
-        ],
-        "historicalStatus": "LOWEST_OBSERVED"
-      },
-      {
-        "rank": 36,
+        "rank": 34,
         "dealId": "product-14c6572d6be944",
         "product": "THE FISHMONGER",
         "category": "Fish & Seafood",
@@ -1233,7 +1205,7 @@
         "historicalStatus": "LOWEST_OBSERVED"
       },
       {
-        "rank": 37,
+        "rank": 35,
         "dealId": "product-6dbea64804f022",
         "product": "WORLD KITCHEN",
         "category": "Other",
@@ -1249,6 +1221,42 @@
           "LOWEST_OBSERVED_PRICE"
         ],
         "historicalStatus": "LOWEST_OBSERVED"
+      },
+      {
+        "rank": 36,
+        "dealId": "product-99864605275bf6",
+        "product": "DELI ORIGINALS",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "DELI ORIGINALS",
+        "salePrice": 1.5,
+        "pricePerUnit": 15,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/deli-originals-deli-originals-fresh-sweet-chilli-dip-200g-000000000000638465",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
+      },
+      {
+        "rank": 37,
+        "dealId": "product-530dd030518800",
+        "product": "INTERNATIONAL CUISINE",
+        "category": "Other",
+        "store": "aldi",
+        "sourceName": "INTERNATIONAL CUISINE",
+        "salePrice": 1.37,
+        "pricePerUnit": 13.7,
+        "pricePerUnitType": "kg",
+        "sourceUrl": "https://www.aldi.com.au/product/international-cuisine-ham-cheese-mini-pizza-4-pack-400g-000000000000646255",
+        "promotionType": "CAMPAIGN",
+        "dealScore": 2,
+        "reasons": [
+          "LIMITED_HISTORY"
+        ],
+        "historicalStatus": "INSUFFICIENT_HISTORY"
       },
       {
         "rank": 38,
