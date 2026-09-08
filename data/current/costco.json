@@ -1,6 +1,6 @@
 {
   "store": "costco",
-  "collectedAt": "2026-09-08T11:14:31.577Z",
+  "collectedAt": "2026-09-08T19:55:04.057Z",
   "source": "https://www.costco.com.au/c/hot-buys-category",
   "target": {
     "area": "St Albans VIC 3021, Melbourne",
@@ -386,25 +386,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "externalId": "240991",
-      "name": "Apple Watch Series 11 GPS 42mm Aluminium Case with Sport Band",
-      "salePrice": 649.99,
-      "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h18/h20/381418799661086.jpg",
-      "sourceUrl": "https://www.costco.com.au/Electronics/Smart-Watches/Apple-Watches/Apple-Watch-Series-11/Apple-Watch-Series-11-GPS-42mm-Aluminium-Case-with-Sport-Band/p/240991",
-      "promotionType": "CAMPAIGN",
-      "sourceType": "web",
-      "sourcePlatform": "costco",
-      "channel": "online",
-      "onlineAvailable": true,
-      "physicalStoreAvailability": "unknown",
-      "membershipRequired": true,
-      "locationScope": "national",
-      "targetStore": "Costco Ardeer",
-      "targetPostcode": "3021",
-      "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-      "confidence": "MEDIUM"
-    },
-    {
       "externalId": "192223",
       "name": "Hero Mighty Patch 60 Original Patches + 24 Invisible Patches",
       "salePrice": 31.99,
@@ -486,7 +467,7 @@
       "salePrice": 17.99,
       "quantity": 10,
       "unit": "pcs",
-      "pricePerUnit": 1.4,
+      "pricePerUnit": 1.2,
       "pricePerUnitType": "piece",
       "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h0e/he1/419556241768478.jpg",
       "sourceUrl": "https://www.costco.com.au/c/Oral-B-Cross-Action-Clean-Ultrathin-Charcoal-Toothbrush-10-Pack/p/253486",
@@ -1383,25 +1364,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "externalId": "229430",
-      "name": "TCL 55 Inch C7K Premium QD-Mini LED Google TV 55C7K",
-      "salePrice": 1499.99,
-      "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h44/h8d/473783826481182.jpg",
-      "sourceUrl": "https://www.costco.com.au/Electronics/TVs-Projectors/TVs/TCL-55-Inch-C7K-Premium-QD-Mini-LED-Google-TV-55C7K/p/229430",
-      "promotionType": "CAMPAIGN",
-      "sourceType": "web",
-      "sourcePlatform": "costco",
-      "channel": "online",
-      "onlineAvailable": true,
-      "physicalStoreAvailability": "unknown",
-      "membershipRequired": true,
-      "locationScope": "national",
-      "targetStore": "Costco Ardeer",
-      "targetPostcode": "3021",
-      "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-      "confidence": "MEDIUM"
-    },
-    {
       "externalId": "195151",
       "name": "Sony 50 Inch BRAVIA 3 4K HDR Google TV K50S30",
       "salePrice": 1099.99,
@@ -1528,7 +1490,7 @@
       "pricePerUnit": 0.1,
       "pricePerUnitType": "piece",
       "imageUrl": "https://www.costco.com.au/medias/sys_master/products/h95/h08/502024918106142.jpg",
-      "sourceUrl": "https://www.costco.com.au/Occasions/Swarovski-Annual-Edition-Festive-Ornament-2026/p/269162",
+      "sourceUrl": "https://www.costco.com.au/Occasions/Christmas/Christmas-Decorations/Swarovski-Annual-Edition-Festive-Ornament-2026/p/269162",
       "promotionType": "CAMPAIGN",
       "sourceType": "web",
       "sourcePlatform": "costco",

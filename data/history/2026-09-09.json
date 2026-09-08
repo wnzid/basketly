@@ -25,16 +25,7 @@
         "sourceName": "ALDI",
         "displayName": "ALDI",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b07c10a8cb6320",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-b07c10a8cb6320"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/7a9ca36f-138b-441b-b6c7-ca33f2700499/Natural%20Walnuts%20500g"
@@ -67,16 +58,7 @@
         "sourceName": "Apple iPhone 17 Pro 512GB",
         "displayName": "Apple iPhone 17 Pro 512GB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b836f393a8a1d5",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-b836f393a8a1d5"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h34/h1c/381535327715358.jpg"
@@ -109,16 +91,7 @@
         "sourceName": "Apple iPhone 17 Pro Max 256GB",
         "displayName": "Apple iPhone 17 Pro Max 256GB",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-71db74c3495dde",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-71db74c3495dde"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h6d/h6e/381563596013598.jpg"
@@ -151,16 +124,7 @@
         "sourceName": "Australian Geographic Extreme Animals Kit 2 Packs",
         "displayName": "Australian Geographic Extreme Animals Kit 2 Packs",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-19ef88091a74d5",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-19ef88091a74d5"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h79/h48/384786227068958.jpg"
@@ -193,16 +157,7 @@
         "sourceName": "BELMONT BISCUIT CO.",
         "displayName": "BELMONT BISCUIT CO.",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-643692c552d659",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-643692c552d659"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/b029499d-87ca-41ad-aa66-3fc389e41670/Jaffa%20Cakes%20150g"
@@ -233,20 +188,7 @@
         "sourceName": "BERG",
         "displayName": "BERG",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-1027545f0db526",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 9.99,
-          "historicalMedian": 9.99,
-          "historicalHigh": 9.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-1027545f0db526"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/fc037a24-df73-41e2-91f4-03b49993ba32/Smoked%20Hocks%20per%20kg"
@@ -277,20 +219,7 @@
         "sourceName": "BLACKSTONE PADDOCK",
         "displayName": "BLACKSTONE PADDOCK",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-64191c2c8faa6b",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 16.99,
-          "historicalMedian": 16.99,
-          "historicalHigh": 16.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-64191c2c8faa6b"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3a73b434-c207-4fb5-b300-c6f2c9e81f0e/Limited%20Release%20Margaret%20River%20Chardonnay%20750ml"
@@ -323,16 +252,7 @@
         "sourceName": "BON APPETIT",
         "displayName": "BON APPETIT",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b4aed4efd29378",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-b4aed4efd29378"
       },
       {
         "externalId": "https://www.aldi.com.au/product/bon-appetit-chocolate-chip-brioche-milk-rolls-8-pack-280g-000000000000200998",
@@ -356,16 +276,7 @@
         "sourceName": "BON APPETIT",
         "displayName": "BON APPETIT",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b4aed4efd29378",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-b4aed4efd29378"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/0161d36f-99af-45b8-aaed-481d5259c685/Chocolate%20Chip%20Brioche%20Milk%20Rolls%208%20Pack%20280g"
@@ -396,20 +307,7 @@
         "sourceName": "BROOKDALE",
         "displayName": "BROOKDALE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-ad68f4891184c9",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
-          "historicalLow": 0.1,
-          "historicalMedian": 0.1,
-          "historicalHigh": 0.1,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-ad68f4891184c9"
       },
       {
         "externalId": "https://www.aldi.com.au/product/brookdale-pure-maple-syrup-250ml-000000000000261631",
@@ -433,16 +331,7 @@
         "sourceName": "BROOKDALE",
         "displayName": "BROOKDALE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-ad68f4891184c9",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-ad68f4891184c9"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/92ab7023-6cb8-43c0-a258-a4fb5645c959/Pure%20Maple%20Syrup%20250ml"
@@ -475,20 +364,7 @@
         "sourceName": "BROOKLEA",
         "displayName": "BROOKLEA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-1ccc725b7bb1d4",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 11.7,
-          "historicalMedian": 11.7,
-          "historicalHigh": 11.7,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-1ccc725b7bb1d4"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ae023736-c696-4a93-b7ef-bd3956ebd2fb/No%20Added%20Sugar%20Banana%20Yogurt%20Pouch%20110g"
@@ -519,20 +395,7 @@
         "sourceName": "BROWN BROTHERS",
         "displayName": "BROWN BROTHERS",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4071950ce49369",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 9.99,
-          "historicalMedian": 9.99,
-          "historicalHigh": 9.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-4071950ce49369"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/74415ca2-a88b-4cc7-9a1c-bf9f62bf1662/Winter%20Red%20750ml"
@@ -565,16 +428,7 @@
         "sourceName": "BURGER RINGS",
         "displayName": "BURGER RINGS",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-3dc9879a27f0bc",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-3dc9879a27f0bc"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/eb710a15-c502-49c6-bd32-3d257651d16c/Party%20Bag%20220g"
@@ -611,16 +465,7 @@
         "sourceName": "Carefree Breathable Liners 2 x 144 Pack",
         "displayName": "Carefree Breathable Liners 2 x 144 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4e98b80e82dd02",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-4e98b80e82dd02"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h47/h78/436197076697118.jpg"
@@ -657,16 +502,7 @@
         "sourceName": "Cetaphil Cleanser 2 x 1L",
         "displayName": "Cetaphil Cleanser 2 x 1L",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-94f0c49969ab6c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-94f0c49969ab6c"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h0b/h16/157796378902558.jpg"
@@ -703,16 +539,7 @@
         "sourceName": "Cetaphil Moisturising Lotion 2 x 1L",
         "displayName": "Cetaphil Moisturising Lotion 2 x 1L",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-3a1aa1faa97204",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-3a1aa1faa97204"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h90/hab/383973657739294.jpg"
@@ -749,16 +576,7 @@
         "sourceName": "Clearwipe Lens Cleaner 160 Pack",
         "displayName": "Clearwipe Lens Cleaner 160 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a8c250e26c1979",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-a8c250e26c1979"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h95/332273732026398.jpg"
@@ -795,16 +613,7 @@
         "sourceName": "Colgate Max Fresh Toothpaste 4 x 200g",
         "displayName": "Colgate Max Fresh Toothpaste 4 x 200g",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-d4b5328c20a183",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-d4b5328c20a183"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h75/433023372656670.jpg"
@@ -837,16 +646,7 @@
         "sourceName": "COLWAY",
         "displayName": "COLWAY",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-df290f757d4a01",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-df290f757d4a01"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/e7ee855b-33c6-4dbb-b0af-9a6b8d21445c/Authentic%20Mayonnaise%20Squeeze%20475g"
@@ -879,16 +679,7 @@
         "sourceName": "CORALE",
         "displayName": "CORALE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-db4db10ed81831",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-db4db10ed81831"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/052753ed-d194-4344-be26-b99946f66710/Baked%20Beans%20in%20Tomato%20Sauce%20420g"
@@ -921,16 +712,7 @@
         "sourceName": "Cuckoo Micom Rice Cooker 6 Cups CR-0685FW",
         "displayName": "Cuckoo Micom Rice Cooker 6 Cups CR-0685FW",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-89455e2f243cb4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-89455e2f243cb4"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h87/h83/348838977044510.jpg"
@@ -967,16 +749,7 @@
         "sourceName": "Cuckoo Multi Cooker 7.5L CMCBSN801F",
         "displayName": "Cuckoo Multi Cooker 7.5L CMCBSN801F",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-428e750fd147d5",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-428e750fd147d5"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/had/h04/491134058364958.jpg"
@@ -1009,20 +782,7 @@
         "sourceName": "DAMORA",
         "displayName": "DAMORA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-546ebe0e50a128",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 19.9,
-          "historicalMedian": 19.9,
-          "historicalHigh": 19.9,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-546ebe0e50a128"
       },
       {
         "externalId": "https://www.aldi.com.au/product/damora-damora-crisps-sweet-chilli-150g-000000000000606637",
@@ -1046,20 +806,7 @@
         "sourceName": "DAMORA",
         "displayName": "DAMORA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-546ebe0e50a128",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 19.9,
-          "historicalMedian": 19.9,
-          "historicalHigh": 19.9,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-546ebe0e50a128"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/d5f5da50-3736-43d1-8217-fb6c2a9b4e57/Damora%20Crisps%20Sea%20Salt%20150g"
@@ -1092,16 +839,7 @@
         "sourceName": "Danskin Women's Hold Tight Leggings",
         "displayName": "Danskin Women's Hold Tight Leggings",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-e3d8a23d30eab3",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-e3d8a23d30eab3"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h91/h20/486344541929502.jpg"
@@ -1134,16 +872,7 @@
         "sourceName": "Danskin Women's Mantra Yoga Jacket",
         "displayName": "Danskin Women's Mantra Yoga Jacket",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-db28a27b580078",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-db28a27b580078"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h99/hda/486373159796766.jpg"
@@ -1174,16 +903,7 @@
         "sourceName": "DELI ORIGINALS",
         "displayName": "DELI ORIGINALS",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-99864605275bf6",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-99864605275bf6"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/8675cc3e-0c24-4d63-9355-0f43b0d10c02/Spanish%20Stuffed%20Green%20Olives%20450g"
@@ -1218,16 +938,7 @@
         "sourceName": "DoorDash $100 Digital Gift Card",
         "displayName": "DoorDash $100 Digital Gift Card",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-ab37e810aa2d44",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-ab37e810aa2d44"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h4a/h42/326451126861854.jpg"
@@ -1264,16 +975,7 @@
         "sourceName": "Duracell Alkaline AA Batteries 40 Pack",
         "displayName": "Duracell Alkaline AA Batteries 40 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a692f0f549fa42",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-a692f0f549fa42"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h7a/h28/172846360068126.jpg"
@@ -1306,16 +1008,7 @@
         "sourceName": "Dyson Airwrap Origin 113161-01",
         "displayName": "Dyson Airwrap Origin 113161-01",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c452de6d1ad8ec",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-c452de6d1ad8ec"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h2e/h3d/368156987097118.jpg"
@@ -1348,16 +1041,7 @@
         "sourceName": "Dyson HushJet Mini Cool Fan Carnelian/Sky 654836-01",
         "displayName": "Dyson HushJet Mini Cool Fan Carnelian/Sky 654836-01",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-74783df5359259",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-74783df5359259"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h12/h2c/491364485365790.jpg"
@@ -1390,16 +1074,7 @@
         "sourceName": "Dyson Pure Hot + Cool White Purifying Fan And Heater HP00",
         "displayName": "Dyson Pure Hot + Cool White Purifying Fan And Heater HP00",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-02c96588fb1e2a",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-02c96588fb1e2a"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h97/hfa/81338603995166.jpg"
@@ -1432,16 +1107,7 @@
         "sourceName": "Dyson V10 Konical Vacuum Cleaner 626407-01",
         "displayName": "Dyson V10 Konical Vacuum Cleaner 626407-01",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bd9150fed622fd",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-bd9150fed622fd"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h9d/hb3/439016478179358.jpg"
@@ -1474,16 +1140,7 @@
         "sourceName": "Dyson V15 Detect Absolute Vacuum 626408-01",
         "displayName": "Dyson V15 Detect Absolute Vacuum 626408-01",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-efc32622054cf7",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-efc32622054cf7"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/default/ha5/h1d/485593854050334.jpg"
@@ -1516,16 +1173,7 @@
         "sourceName": "Dyson V8 Advanced+ Vacuum With Car Cleaning Kit 626439-01",
         "displayName": "Dyson V8 Advanced+ Vacuum With Car Cleaning Kit 626439-01",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a3086ec12ec5f0",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-a3086ec12ec5f0"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf6/hb9/450082512306206.jpg"
@@ -1558,20 +1206,7 @@
         "sourceName": "EL TORA",
         "displayName": "EL TORA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-fea99608396259",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 11.3,
-          "historicalMedian": 14.3,
-          "historicalHigh": 14.3,
-          "percentBelowHistoricalMedian": 21,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-fea99608396259"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/79a57017-d838-48db-9b90-15401cfb5241/Tortilla%20Strips%20White%20Corn%20230g"
@@ -1602,16 +1237,7 @@
         "sourceName": "EMPORIUM SELECTION",
         "displayName": "EMPORIUM SELECTION",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-afb78407587506",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-afb78407587506"
       },
       {
         "externalId": "https://www.aldi.com.au/product/emporium-selection-double-cream-camembert-200g-000000000000281818",
@@ -1633,16 +1259,7 @@
         "sourceName": "EMPORIUM SELECTION",
         "displayName": "EMPORIUM SELECTION",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-afb78407587506",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-afb78407587506"
       },
       {
         "externalId": "https://www.aldi.com.au/product/emporium-selection-smoked-cheese-200g-000000000000283609",
@@ -1664,16 +1281,7 @@
         "sourceName": "EMPORIUM SELECTION",
         "displayName": "EMPORIUM SELECTION",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-afb78407587506",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-afb78407587506"
       },
       {
         "externalId": "https://www.aldi.com.au/product/emporium-selection-smooth-blue-vein-cheese-200g-000000000000281867",
@@ -1695,16 +1303,7 @@
         "sourceName": "EMPORIUM SELECTION",
         "displayName": "EMPORIUM SELECTION",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-afb78407587506",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-afb78407587506"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/062a3faa-4a09-48b2-bad0-521224c694eb/Triple%20Cream%20Brie%20Cheese%20200g"
@@ -1735,20 +1334,7 @@
         "sourceName": "EXPRESSI",
         "displayName": "EXPRESSI",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-5062d098f404a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 0.5,
-          "historicalMedian": 0.5,
-          "historicalHigh": 0.5,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-5062d098f404a3"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f707bed8-dec2-4274-bd6c-f0736e37fbd2/Irish%20Crme%20Flavoured%20Coffee%20Capsules%2016%20Pack"
@@ -1781,20 +1367,7 @@
         "sourceName": "FOOD ENVY",
         "displayName": "FOOD ENVY",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-37ac4685fc64f2",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 24.9,
-          "historicalMedian": 24.9,
-          "historicalHigh": 24.9,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-37ac4685fc64f2"
       },
       {
         "externalId": "https://www.aldi.com.au/product/food-envy-mousse-with-biscoff-spread-2-pack-90g-000000000000560180",
@@ -1818,20 +1391,7 @@
         "sourceName": "FOOD ENVY",
         "displayName": "FOOD ENVY",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-37ac4685fc64f2",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 27.7,
-          "historicalMedian": 27.7,
-          "historicalHigh": 27.7,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-37ac4685fc64f2"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/850c6ca5-2ed1-4b8b-8cf3-d9edc7d773b8/Protein%20Pancakes%20160g"
@@ -1868,16 +1428,7 @@
         "sourceName": "Gillette Fusion 5 Manual Cartridges 20 Pack",
         "displayName": "Gillette Fusion 5 Manual Cartridges 20 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-84ca81f6b20375",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-84ca81f6b20375"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/ha8/h9b/157796541661214.jpg"
@@ -1914,16 +1465,7 @@
         "sourceName": "Gillette Fusion Hydra Sensitive Skin Shave Gel 3 x 195g",
         "displayName": "Gillette Fusion Hydra Sensitive Skin Shave Gel 3 x 195g",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-56ccd5b92a4c70",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-56ccd5b92a4c70"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd4/h7e/157796379426846.jpg"
@@ -1956,16 +1498,7 @@
         "sourceName": "Gillette Fusion Proshield Razor And Cartridges 1 Razor + 13 Refills",
         "displayName": "Gillette Fusion Proshield Razor And Cartridges 1 Razor + 13 Refills",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-cbe1db57201c78",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-cbe1db57201c78"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h64/h02/332273813028894.jpg"
@@ -1998,16 +1531,7 @@
         "sourceName": "Gillette Venus Comfortglide Razor + 12 Refill Blades",
         "displayName": "Gillette Venus Comfortglide Razor + 12 Refill Blades",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6a4feba896c4f2",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-6a4feba896c4f2"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h6e/ha2/364960747126814.jpg"
@@ -2042,16 +1566,7 @@
         "sourceName": "Glowiest Dream Glow Beauty Mask Duo Soothing + Calming 2 x 30 Count",
         "displayName": "Glowiest Dream Glow Beauty Mask Duo Soothing + Calming 2 x 30 Count",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-67d80ede77852f",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-67d80ede77852f"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h27/h0f/473321916301342.jpg"
@@ -2088,16 +1603,7 @@
         "sourceName": "GreenPan 6L Slow Cooker CC005725-003 Blue Haze",
         "displayName": "GreenPan 6L Slow Cooker CC005725-003 Blue Haze",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-2873ee663cc6bb",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-2873ee663cc6bb"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h7d/h07/382363202224158.jpg"
@@ -2134,16 +1640,7 @@
         "sourceName": "GreenPan Bistro 7.2L Airfryer CC009006-001 Smokey Sky Blue",
         "displayName": "GreenPan Bistro 7.2L Airfryer CC009006-001 Smokey Sky Blue",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b2c0d3ff62574e",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-b2c0d3ff62574e"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hac/h1a/383167390973982.jpg"
@@ -2180,16 +1677,7 @@
         "sourceName": "GreenPan Slow Cooker 6L CC005723-003 Black",
         "displayName": "GreenPan Slow Cooker 6L CC005723-003 Black",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-70b98e66f14e41",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-70b98e66f14e41"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h41/hf1/243990041198622.jpg"
@@ -2222,16 +1710,7 @@
         "sourceName": "HARIBO",
         "displayName": "HARIBO",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-df3bfcba80c14b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-df3bfcba80c14b"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f565efbc-67cf-4f99-bbcc-20145ad72315/Mega%20Roulette%2045g"
@@ -2268,16 +1747,7 @@
         "sourceName": "Herbal Essences Bio: Renew White Strawberry And Mint Conditioner 1.2L",
         "displayName": "Herbal Essences Bio: Renew White Strawberry And Mint Conditioner 1.2L",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-502146b7408bf3",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-502146b7408bf3"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h3e/hb7/313644718489630.jpg"
@@ -2314,16 +1784,7 @@
         "sourceName": "Herbal Essences White Strawberry And Mint Shampoo 1.2L",
         "displayName": "Herbal Essences White Strawberry And Mint Shampoo 1.2L",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-23fc884062bc16",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-23fc884062bc16"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h5f/ha4/313299845054494.jpg"
@@ -2356,16 +1817,7 @@
         "sourceName": "Hero Mighty Patch 60 Original Patches + 24 Invisible Patches",
         "displayName": "Hero Mighty Patch 60 Original Patches + 24 Invisible Patches",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-52f9e78ced1a97",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-52f9e78ced1a97"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h10/h18/365701402394654.jpg"
@@ -2398,16 +1850,7 @@
         "sourceName": "Hisense 55 Inch Q6SAU QLED 4K Smart TV 55Q6SAU",
         "displayName": "Hisense 55 Inch Q6SAU QLED 4K Smart TV 55Q6SAU",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c7a5de5be3d4b2",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-c7a5de5be3d4b2"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h34/ha9/473783747543070.jpg"
@@ -2440,16 +1883,7 @@
         "sourceName": "IMPERIAL GRAIN",
         "displayName": "IMPERIAL GRAIN",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dee325d469b1e8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-dee325d469b1e8"
       },
       {
         "externalId": "https://www.aldi.com.au/product/imperial-grain-jasmine-rice-1kg-000000000000262101",
@@ -2473,16 +1907,7 @@
         "sourceName": "IMPERIAL GRAIN",
         "displayName": "IMPERIAL GRAIN",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dee325d469b1e8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-dee325d469b1e8"
       },
       {
         "externalId": "https://www.aldi.com.au/product/imperial-grain-basmati-rice-1kg-000000000000262325",
@@ -2506,16 +1931,7 @@
         "sourceName": "IMPERIAL GRAIN",
         "displayName": "IMPERIAL GRAIN",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dee325d469b1e8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-dee325d469b1e8"
       },
       {
         "externalId": "https://www.aldi.com.au/product/imperial-grain-sweet-chilli-lime-rice-pouch-250g-000000000000474656",
@@ -2539,20 +1955,7 @@
         "sourceName": "IMPERIAL GRAIN",
         "displayName": "IMPERIAL GRAIN",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dee325d469b1e8",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 6.8,
-          "historicalMedian": 6.8,
-          "historicalHigh": 6.8,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-dee325d469b1e8"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f8c80679-b4ba-46fe-af9f-058b76d5cf08/Jasmine%20Rice%201kg"
@@ -2583,20 +1986,7 @@
         "sourceName": "IRONBARK PORK",
         "displayName": "IRONBARK PORK",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-aabf286d3aabdd",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 11.99,
-          "historicalMedian": 13.49,
-          "historicalHigh": 13.49,
-          "percentBelowHistoricalMedian": 11.1,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-aabf286d3aabdd"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f7432c81-4476-4a01-a0d9-c4568d2eaf5b/Pork%20Scotch%20Fillet%20Roast"
@@ -2629,16 +2019,7 @@
         "sourceName": "Jamie Oliver By Tefal Dual Drawer Air Fryer EY905J",
         "displayName": "Jamie Oliver By Tefal Dual Drawer Air Fryer EY905J",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-49dd9cce70b76a",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-49dd9cce70b76a"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h32/h56/435137966735390.jpg"
@@ -2669,20 +2050,7 @@
         "sourceName": "JINDURRA STATION",
         "displayName": "JINDURRA STATION",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4c13de8cce2743",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 31.99,
-          "historicalMedian": 31.99,
-          "historicalHigh": 31.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-4c13de8cce2743"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/2a0f282f-f80d-4c90-9f3d-31c3345d4b52/Beef%20Scotch%20Portion"
@@ -2715,20 +2083,7 @@
         "sourceName": "KAPITI",
         "displayName": "KAPITI",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-09053bd9215db4",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 19.4,
-          "historicalMedian": 19.4,
-          "historicalHigh": 19.4,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-09053bd9215db4"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5a7dbed4-0810-4798-8a37-aa80fd3fa413/Nelson%20Boysenberry%20Ice%20Cream%206%20Pack%20360ml"
@@ -2761,20 +2116,7 @@
         "sourceName": "KELLOGG'S",
         "displayName": "KELLOGG'S",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-8aedb2b6f69e61",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
-          "historicalLow": 27.7,
-          "historicalMedian": 27.7,
-          "historicalHigh": 27.7,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-8aedb2b6f69e61"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/0cf5cdeb-e156-4272-88c7-bd96501178f6/Coco%20Pops%20Bars%209%20Pack%20180g"
@@ -2809,16 +2151,7 @@
         "sourceName": "Kirkland Signature 3 Ply Bath Tissue 48 x 270 Sheets",
         "displayName": "Kirkland Signature 3 Ply Bath Tissue 48 x 270 Sheets",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-212d9dd63eb847",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-212d9dd63eb847"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h21/h62/332273411227678.jpg"
@@ -2851,16 +2184,7 @@
         "sourceName": "Kirkland Signature Flushable Wipes 2 x 640 Count",
         "displayName": "Kirkland Signature Flushable Wipes 2 x 640 Count",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-edb0c45f27b93e",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-edb0c45f27b93e"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcd/h27/385751895474206.jpg"
@@ -2893,16 +2217,7 @@
         "sourceName": "KitchenAid 3 Piece Pasta Roller And Cutter Attachment",
         "displayName": "KitchenAid 3 Piece Pasta Roller And Cutter Attachment",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-882e191751e5b6",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-882e191751e5b6"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd0/h49/171747107831838.jpg"
@@ -2935,16 +2250,7 @@
         "sourceName": "KitchenAid 7 Blade Spiraliser Plus With Peel Core And Slice Attachment",
         "displayName": "KitchenAid 7 Blade Spiraliser Plus With Peel Core And Slice Attachment",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-cfe96e2ecef1f6",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-cfe96e2ecef1f6"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h36/h5c/27827288997918.jpg"
@@ -2977,16 +2283,7 @@
         "sourceName": "KitchenAid 7 Cup Food Processor Empire Red 5KFP0719AER",
         "displayName": "KitchenAid 7 Cup Food Processor Empire Red 5KFP0719AER",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-376882aaefb58b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-376882aaefb58b"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h67/hc6/116020764377118.jpg"
@@ -3019,16 +2316,7 @@
         "sourceName": "KitchenAid Metal Food Grinder Attachment 5KSMMGAA",
         "displayName": "KitchenAid Metal Food Grinder Attachment 5KSMMGAA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-2c99d50d99f81b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-2c99d50d99f81b"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hbe/h32/27827435208734.jpg"
@@ -3059,20 +2347,7 @@
         "sourceName": "L’EXPRESSION",
         "displayName": "L’EXPRESSION",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-134faee1d473a0",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 10.99,
-          "historicalMedian": 10.99,
-          "historicalHigh": 10.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-134faee1d473a0"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/376f49f0-dc57-420a-8591-1264c83b4422/Pinot%20Gris%20750ml"
@@ -3105,16 +2380,7 @@
         "sourceName": "Laifen Mini Hair Dryer Green 1HD31SAUGR001",
         "displayName": "Laifen Mini Hair Dryer Green 1HD31SAUGR001",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-be6aa59d2bec06",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-be6aa59d2bec06"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h89/h5e/502583987470366.jpg"
@@ -3147,16 +2413,7 @@
         "sourceName": "Leisure Line Adirondack Chair Grey",
         "displayName": "Leisure Line Adirondack Chair Grey",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-2fd1827d24e58f",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-2fd1827d24e58f"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h86/h86/362417471848478.jpg"
@@ -3189,16 +2446,7 @@
         "sourceName": "Leisure Line Adirondack Chair White",
         "displayName": "Leisure Line Adirondack Chair White",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-2a716c8ece6e18",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-2a716c8ece6e18"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf1/hd1/62206090313758.jpg"
@@ -3229,20 +2477,7 @@
         "sourceName": "LES ARGELIÈRES",
         "displayName": "LES ARGELIÈRES",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-e791e33c0ff83a",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 11.99,
-          "historicalMedian": 11.99,
-          "historicalHigh": 11.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-e791e33c0ff83a"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/41da4ebe-bbbe-4522-9712-501341f5a809/Pinot%20Noir%20750ml"
@@ -3273,16 +2508,7 @@
         "sourceName": "MARQUES DEL ATRIO",
         "displayName": "MARQUES DEL ATRIO",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-397e2e79d2178d",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-397e2e79d2178d"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6be7550c-b931-419f-838b-ee5bf9a6097f/Rioja%20Reserva%20Tempranillo%20Graciano%20750ml"
@@ -3313,20 +2539,7 @@
         "sourceName": "MCGUIGAN",
         "displayName": "MCGUIGAN",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-faeee97b7d3feb",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 8.99,
-          "historicalMedian": 8.99,
-          "historicalHigh": 8.99,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-faeee97b7d3feb"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/4f19070e-a1fc-45cb-a3a8-b02522f4d835/Black%20Label%20Red%201L"
@@ -3363,16 +2576,7 @@
         "sourceName": "Neutrogena Deep Clean Hydrating Cleanser 2 x 150g",
         "displayName": "Neutrogena Deep Clean Hydrating Cleanser 2 x 150g",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-27304bace4ddf8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-27304bace4ddf8"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he5/h48/436370967822366.jpg"
@@ -3409,16 +2613,7 @@
         "sourceName": "Neutrogena Hydroboost Sun Lotion 2 x 85ml",
         "displayName": "Neutrogena Hydroboost Sun Lotion 2 x 85ml",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-159fc3d5df5d1e",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-159fc3d5df5d1e"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h18/h6c/436249919193118.jpg"
@@ -3455,16 +2650,7 @@
         "sourceName": "Neutrogena Night Calming Wipes 6 x 25 Pack",
         "displayName": "Neutrogena Night Calming Wipes 6 x 25 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-3eddc7c573213c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-3eddc7c573213c"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcf/h7e/436582820347934.jpg"
@@ -3501,16 +2687,7 @@
         "sourceName": "Neutrogena Rainbath Gel Original 1.18L",
         "displayName": "Neutrogena Rainbath Gel Original 1.18L",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-16b6ddcefac16c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-16b6ddcefac16c"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/products/hee/hf6/383905974091806.jpg"
@@ -3547,16 +2724,7 @@
         "sourceName": "Neutrogena Rainbath Shower Gel Ocean Mist 1.18L",
         "displayName": "Neutrogena Rainbath Shower Gel Ocean Mist 1.18L",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6e22a87336693e",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-6e22a87336693e"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h9a/he7/398458966671390.jpg"
@@ -3589,16 +2757,7 @@
         "sourceName": "Ninja Detect Kitchen System Power Blender and Processor Pro TB401",
         "displayName": "Ninja Detect Kitchen System Power Blender and Processor Pro TB401",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6df2312390ba89",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-6df2312390ba89"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcc/h37/420216571035678.jpg"
@@ -3629,16 +2788,7 @@
         "sourceName": "O'DONNELLS",
         "displayName": "O'DONNELLS",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9f0b13a98ccc21",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-9f0b13a98ccc21"
       },
       {
         "externalId": "https://www.aldi.com.au/product/o-donnells-irish-country-cream-700ml-000000000000283907",
@@ -3660,16 +2810,7 @@
         "sourceName": "O'DONNELLS",
         "displayName": "O'DONNELLS",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9f0b13a98ccc21",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-9f0b13a98ccc21"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/e0bbfeb0-2a6a-4b7f-83e4-5dfd303f0787/Irish%20Country%20Cream%20700ml"
@@ -3700,16 +2841,7 @@
         "sourceName": "OCEAN ROYALE",
         "displayName": "OCEAN ROYALE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c8699083a3f90b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-c8699083a3f90b"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ocean-royale-crumbed-calamari-rings-400g-000000000000278981",
@@ -3731,16 +2863,7 @@
         "sourceName": "OCEAN ROYALE",
         "displayName": "OCEAN ROYALE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c8699083a3f90b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-c8699083a3f90b"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ocean-royale-salt-pepper-squid-360g-000000000000278985",
@@ -3762,16 +2885,7 @@
         "sourceName": "OCEAN ROYALE",
         "displayName": "OCEAN ROYALE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c8699083a3f90b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-c8699083a3f90b"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ocean-royale-barramundi-fillets-1kg-000000000000279961",
@@ -3793,16 +2907,7 @@
         "sourceName": "OCEAN ROYALE",
         "displayName": "OCEAN ROYALE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c8699083a3f90b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-c8699083a3f90b"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/7394db98-937c-4bfb-a7ad-b4b61034bc03/Crumbed%20Calamari%20Rings%20400g"
@@ -3839,16 +2944,7 @@
         "sourceName": "OGX Argan Oil Of Morocco Shampoo & Conditioner 2 x 750ml",
         "displayName": "OGX Argan Oil Of Morocco Shampoo & Conditioner 2 x 750ml",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-f4f33f6b841da8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-f4f33f6b841da8"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he7/h45/332273808965662.jpg"
@@ -3881,16 +2977,7 @@
         "sourceName": "OH SO NATURAL ORGANIC",
         "displayName": "OH SO NATURAL ORGANIC",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-e620a94e80ce2f",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-e620a94e80ce2f"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ce18a1c2-0a82-4534-88d3-a83ebab3db92/Organic%20Extra%20Virgin%20Olive%20Oil%20500ml"
@@ -3923,20 +3010,7 @@
         "sourceName": "OMBRA",
         "displayName": "OMBRA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-41ade1389f855d",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
-          "historicalLow": 20,
-          "historicalMedian": 20,
-          "historicalHigh": 20,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-41ade1389f855d"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ombra-daily-defence-mineral-sunscreen-sensitive-spf50-100ml-000000000000628169",
@@ -3960,20 +3034,7 @@
         "sourceName": "OMBRA",
         "displayName": "OMBRA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-41ade1389f855d",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
-          "historicalLow": 39.9,
-          "historicalMedian": 39.9,
-          "historicalHigh": 39.9,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-41ade1389f855d"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c5575ff2-3466-46f0-ab6e-661c7f1d1a6c/Daily%20Defence%20Mineral%20Sunscreen%20Sensitive%20SPF50%20100ml"
@@ -4010,16 +3071,7 @@
         "sourceName": "Oral-B Cross Action Clean Ultrathin Charcoal Toothbrush 10 Pack",
         "displayName": "Oral-B Cross Action Clean Ultrathin Charcoal Toothbrush 10 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-cdfbb45e165950",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-cdfbb45e165950"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h0e/he1/419556241768478.jpg"
@@ -4050,20 +3102,7 @@
         "sourceName": "PC PETITE CUISINE",
         "displayName": "PC PETITE CUISINE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-791c54be5688f4",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 22.7,
-          "historicalMedian": 22.7,
-          "historicalHigh": 22.7,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-791c54be5688f4"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/a145198a-d282-4c3a-b77e-a3b3ce88f0a8/Crumbed%20Pork%20Schnitzels%20440g"
@@ -4096,16 +3135,7 @@
         "sourceName": "Philips Sonicare Compact Flosser 1000 Purple",
         "displayName": "Philips Sonicare Compact Flosser 1000 Purple",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-de4f0c6de5a895",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-de4f0c6de5a895"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf9/hb2/381953287323678.jpg"
@@ -4142,16 +3172,7 @@
         "sourceName": "Poise Extra Plus Pads 2 x 60 Pack",
         "displayName": "Poise Extra Plus Pads 2 x 60 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-2ad3bb880d1ce9",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-2ad3bb880d1ce9"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h39/h70/206813711859742.jpg"
@@ -4188,16 +3209,7 @@
         "sourceName": "Poise Regular Liners for Bladder Leaks 2 x 78 Pack",
         "displayName": "Poise Regular Liners for Bladder Leaks 2 x 78 Pack",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-75472c329d71a6",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-75472c329d71a6"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he9/h59/207237691998238.jpg"
@@ -4234,16 +3246,7 @@
         "sourceName": "Premier Protein Vanilla Protein Shake 24 x 325ml",
         "displayName": "Premier Protein Vanilla Protein Shake 24 x 325ml",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-8ca060a6b4ccbc",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-8ca060a6b4ccbc"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h82/h97/419556235870238.jpg"
@@ -4276,16 +3279,7 @@
         "sourceName": "Products",
         "displayName": "Products",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-bcfed986c29dc4"
       },
       {
         "externalId": "https://www.doordash.com/p/aldi-australia?srsltid=AfmBOoqwsSBRqA5_Q82QhhYvHQgr-z4KiqqWvj-M-AH_DSSHbRGkHsKA",
@@ -4309,16 +3303,7 @@
         "sourceName": "Products",
         "displayName": "Products",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-bcfed986c29dc4"
       },
       {
         "externalId": "https://www.aldi.com.au/product/urban-eats-greek-spinach-cheese-spanakopita-750g-000000000000368932",
@@ -4342,16 +3327,7 @@
         "sourceName": "Products",
         "displayName": "Products",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-bcfed986c29dc4"
       },
       {
         "externalId": "https://www.aldi.com.au/product/di-san-oxy-laundry-soaker-1kg-000000000399116001",
@@ -4375,16 +3351,7 @@
         "sourceName": "Products",
         "displayName": "Products",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-bcfed986c29dc4"
       },
       {
         "externalId": "https://www.aldi.com.au/products/meat-seafood/k/940000000",
@@ -4408,16 +3375,7 @@
         "sourceName": "Products",
         "displayName": "Products",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-bcfed986c29dc4"
       },
       {
         "externalId": "https://www.aldi.com.au/products/fruits-vegetables/k/950000000",
@@ -4441,16 +3399,7 @@
         "sourceName": "Products",
         "displayName": "Products",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-bcfed986c29dc4"
       },
       {
         "externalId": "https://www.aldi.com.au/products/dairy-eggs-fridge/k/960000000",
@@ -4474,16 +3423,7 @@
         "sourceName": "Products",
         "displayName": "Products",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-bcfed986c29dc4"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/AllGroceries-3056_1024?wid=3056"
@@ -4516,16 +3456,7 @@
         "sourceName": "PURE VITA",
         "displayName": "PURE VITA",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-47b29047f9167c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-47b29047f9167c"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f315fe90-7075-4f29-b0cb-5abad7510ad9/Sunflower%20Oil%201L"
@@ -4556,20 +3487,7 @@
         "sourceName": "READY, SET…COOK!",
         "displayName": "READY, SET…COOK!",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 18.74,
-          "historicalMedian": 18.74,
-          "historicalHigh": 18.74,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-0ba204545fa3a3"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ready-set-cook-rspca-approved-hot-honey-boneless-chicken-400g-000000000000697402",
@@ -4591,20 +3509,7 @@
         "sourceName": "READY, SET…COOK!",
         "displayName": "READY, SET…COOK!",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
-          "historicalLow": 19.98,
-          "historicalMedian": 19.98,
-          "historicalHigh": 19.98,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-0ba204545fa3a3"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ready-set-cook-chicken-tikka-pita-kit-680g-000000000000548320",
@@ -4626,20 +3531,7 @@
         "sourceName": "READY, SET…COOK!",
         "displayName": "READY, SET…COOK!",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 22.04,
-          "historicalMedian": 22.04,
-          "historicalHigh": 22.04,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-0ba204545fa3a3"
       },
       {
         "externalId": "https://www.aldi.com.au/product/ready-set-cook-beef-peppered-steak-300g-000000000000677066",
@@ -4661,20 +3553,7 @@
         "sourceName": "READY, SET…COOK!",
         "displayName": "READY, SET…COOK!",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-0ba204545fa3a3",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
-          "historicalLow": 24.97,
-          "historicalMedian": 24.97,
-          "historicalHigh": 24.97,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-0ba204545fa3a3"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/54acbe43-e42b-463f-8304-454ce24f303c/Chicken%20Tikka%20Pita%20Kit%20680g"
@@ -4707,16 +3586,7 @@
         "sourceName": "Reflex Women's Scuba Short",
         "displayName": "Reflex Women's Scuba Short",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-3672c8ae1ace80",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-3672c8ae1ace80"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hec/hc8/491134123081758.jpg"
@@ -4747,16 +3617,7 @@
         "sourceName": "REMANO",
         "displayName": "REMANO",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6c02e0951f0cac",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-6c02e0951f0cac"
       },
       {
         "externalId": "https://www.aldi.com.au/product/remano-basil-pesto-190g-000000000000274244",
@@ -4780,16 +3641,7 @@
         "sourceName": "REMANO",
         "displayName": "REMANO",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6c02e0951f0cac",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-6c02e0951f0cac"
       },
       {
         "externalId": "https://www.aldi.com.au/product/remano-sundried-tomato-pesto-190g-000000000000274249",
@@ -4813,16 +3665,7 @@
         "sourceName": "REMANO",
         "displayName": "REMANO",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6c02e0951f0cac",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-6c02e0951f0cac"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/811290eb-12a1-4bca-afb8-ee096da0bbe7/Basil%20Pesto%20190g"
@@ -4855,16 +3698,7 @@
         "sourceName": "Roborock Qrevo C Pro Robot Vacuum Cleaner White RRQRRCP0203WHT",
         "displayName": "Roborock Qrevo C Pro Robot Vacuum Cleaner White RRQRRCP0203WHT",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-7f41839e9e0324",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-7f41839e9e0324"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h94/h57/491134044930078.jpg"
@@ -4897,16 +3731,7 @@
         "sourceName": "Roborock Qrevo Curv2 Flow PR-QC2F02-03-WHT",
         "displayName": "Roborock Qrevo Curv2 Flow PR-QC2F02-03-WHT",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-e39344036745ea",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-e39344036745ea"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h0f/h26/400041826943006.jpg"
@@ -4943,16 +3768,7 @@
         "sourceName": "Salts & Co. Pure Magnesium Bath Flakes 3.75kg",
         "displayName": "Salts & Co. Pure Magnesium Bath Flakes 3.75kg",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b9dfee94e64716",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-b9dfee94e64716"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h70/hf4/292655742025758.jpg"
@@ -4985,16 +3801,7 @@
         "sourceName": "Snapware Pyrex Glass Container 18 Piece Set",
         "displayName": "Snapware Pyrex Glass Container 18 Piece Set",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-8d5dba0e2109f7",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-8d5dba0e2109f7"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h17/29590683058206.jpg"
@@ -5027,16 +3834,7 @@
         "sourceName": "Sony 2.0 Channel Bluetooth Soundbar HT-S100F",
         "displayName": "Sony 2.0 Channel Bluetooth Soundbar HT-S100F",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-10cf5493c4e095",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-10cf5493c4e095"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hac/hb4/246135970693150.jpg"
@@ -5069,16 +3867,7 @@
         "sourceName": "Sony 43 Inch BRAVIA 3 4K HDR Google TV K43S30",
         "displayName": "Sony 43 Inch BRAVIA 3 4K HDR Google TV K43S30",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-d4d50e23330f4d",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-d4d50e23330f4d"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h21/hb6/473783738073118.jpg"
@@ -5111,16 +3900,7 @@
         "sourceName": "Sony 50 Inch BRAVIA 3 4K HDR Google TV K50S30",
         "displayName": "Sony 50 Inch BRAVIA 3 4K HDR Google TV K50S30",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-d2151c4e524f00",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-d2151c4e524f00"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h3f/h7b/473783739318302.jpg"
@@ -5155,16 +3935,7 @@
         "sourceName": "Springleaf Eyemax 5 In 1 100 Capsule",
         "displayName": "Springleaf Eyemax 5 In 1 100 Capsule",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-e4b11a81ff7c85",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-e4b11a81ff7c85"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h95/h08/413727712346142.jpg"
@@ -5197,16 +3968,7 @@
         "sourceName": "SunVilla Helio 4 Piece Outdoor Patio Seating Set",
         "displayName": "SunVilla Helio 4 Piece Outdoor Patio Seating Set",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-1e753973e54600",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-1e753973e54600"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h77/hed/431802717274142.jpg"
@@ -5241,16 +4003,7 @@
         "sourceName": "Swarovski Annual Edition Festive Ornament 2026",
         "displayName": "Swarovski Annual Edition Festive Ornament 2026",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b42eb10a1e8db0",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-b42eb10a1e8db0"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/products/h95/h08/502024918106142.jpg"
@@ -5281,16 +4034,7 @@
         "sourceName": "SWEET VALLEY",
         "displayName": "SWEET VALLEY",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-2c48e4059dfeff",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-2c48e4059dfeff"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/14b8b982-21ea-496e-9fc1-0cfd8f074ce4/Peach%20Slices%20In%20Syrup%20825g"
@@ -5321,16 +4065,7 @@
         "sourceName": "SWEET VINE",
         "displayName": "SWEET VINE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-f4adcc79145d89",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-f4adcc79145d89"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/85581f2f-c0b5-422b-93d2-8a73c8b5415c/Pitted%20Prunes%20500g"
@@ -5361,18 +4096,7 @@
         "sourceName": "THE FISHMONGER",
         "displayName": "THE FISHMONGER",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-14c6572d6be944",
-        "intelligence": {
-          "historicalStatus": "NORMAL",
-          "historicalObservations": 15,
-          "historicalLow": 32.59,
-          "historicalMedian": 34.76,
-          "historicalHigh": 34.76,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 2,
-          "reasons": [],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-14c6572d6be944"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/39ae0862-7694-47e6-9772-c35f4e67d2aa/Fresh%20Tasmanian%20Salmon%20Fillets%20Skin%20On%204%20Pack%20460g"
@@ -5409,16 +4133,7 @@
         "sourceName": "The Ginger People Gin Gins Original Ginger Chews 500g",
         "displayName": "The Ginger People Gin Gins Original Ginger Chews 500g",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-f54e7aead3a895",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-f54e7aead3a895"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hc0/hd6/332273730977822.jpg"
@@ -5451,16 +4166,7 @@
         "sourceName": "Tuff Women's Sherpa Half Zip Pullover",
         "displayName": "Tuff Women's Sherpa Half Zip Pullover",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-4352869bea1043",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-4352869bea1043"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h2a/hc5/472944475570206.jpg"
@@ -5497,16 +4203,7 @@
         "sourceName": "Vaseline Petroleum Jelly 3 x 250g",
         "displayName": "Vaseline Petroleum Jelly 3 x 250g",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a80edeade63a1c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-a80edeade63a1c"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hd7/h98/275914428776478.jpg"
@@ -5541,16 +4238,7 @@
         "sourceName": "Vitaceuticals Advanced Berberine+ 150 Hard Capsules",
         "displayName": "Vitaceuticals Advanced Berberine+ 150 Hard Capsules",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-690c4e38ca48c7",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-690c4e38ca48c7"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcc/h7f/436357696815134.jpg"
@@ -5587,16 +4275,7 @@
         "sourceName": "Vitaceuticals MagZorb Magnesium Glycinate 1000mg Powder 510g",
         "displayName": "Vitaceuticals MagZorb Magnesium Glycinate 1000mg Powder 510g",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-821c7e2501fbe8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-821c7e2501fbe8"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h67/h04/436199878262814.jpg"
@@ -5631,16 +4310,7 @@
         "sourceName": "Vitaceuticals Magzorb Sleep 150 Count",
         "displayName": "Vitaceuticals Magzorb Sleep 150 Count",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9b5b0198d5e1bf",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-9b5b0198d5e1bf"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h4c/hd8/468190667669534.jpg"
@@ -5673,16 +4343,7 @@
         "sourceName": "Viva Paper Towel Double Roll 12 x 120 Sheets",
         "displayName": "Viva Paper Towel Double Roll 12 x 120 Sheets",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-870c295b9d4b12",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-870c295b9d4b12"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h83/h24/472329437184030.jpg"
@@ -5715,16 +4376,7 @@
         "sourceName": "Winix True HEPA 4-Stage With Bonus Filter C610",
         "displayName": "Winix True HEPA 4-Stage With Bonus Filter C610",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-f9d8c3a6828519",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-f9d8c3a6828519"
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/default/h5b/hac/486651890532382.png"
@@ -5757,20 +4409,7 @@
         "sourceName": "WORLD KITCHEN",
         "displayName": "WORLD KITCHEN",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6dbea64804f022",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
-          "historicalLow": 12.5,
-          "historicalMedian": 12.5,
-          "historicalHigh": 12.5,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-6dbea64804f022"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/9d75001d-146d-4ccb-8ecd-4230581885a7/Beef%20Massaman%20Curry%20800g"
@@ -5801,16 +4440,7 @@
         "sourceName": "WYNNS ESTATE",
         "displayName": "WYNNS ESTATE",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9b0c2f1af1fcfa",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
+        "canonicalProductId": "product-9b0c2f1af1fcfa"
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/65aad95c-1e03-4cdd-95b0-3f5570b0df6b/The%20Siding%20Coonawarra%20Shiraz%202023%20750ml"

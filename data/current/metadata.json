@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T11:15:29.269Z",
+  "generatedAt": "2026-09-08T19:56:00.765Z",
   "target": {
     "suburb": "St Albans",
     "state": "VIC",
@@ -10,8 +10,8 @@
   },
   "stores": {
     "aldi": {
-      "status": "unchanged",
-      "offers": 38,
+      "status": "success",
+      "offers": 67,
       "target": {
         "name": "ALDI Brimbank",
         "address": "Cnr Neale and Station Roads, Deer Park VIC 3023",
@@ -44,7 +44,7 @@
     },
     "costco": {
       "status": "success",
-      "offers": 75,
+      "offers": 73,
       "target": {
         "name": "Costco Ardeer",
         "address": "740 Ballarat Road, Ardeer VIC 3022",
@@ -64,6 +64,6 @@
       }
     }
   },
-  "totalOffers": 113,
-  "normalizedProducts": 101
+  "totalOffers": 140,
+  "normalizedProducts": 114
 }
