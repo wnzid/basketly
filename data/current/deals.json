@@ -1,89 +1,5 @@
 [
   {
-    "id": "product-6946a7ab6b1c20",
-    "name": "Apple AirPods 4 With Active Noise Cancellation",
-    "category": "Fruit & Vegetables",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "202170",
-        "name": "Apple AirPods 4 With Active Noise Cancellation",
-        "salePrice": 279.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hfb/hf3/273475815637022.jpg",
-        "sourceUrl": "https://www.costco.com.au/Electronics/Audio/AirPods/Apple-AirPods-4-With-Active-Noise-Cancellation/p/202170",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Apple AirPods 4 With Active Noise Cancellation",
-        "displayName": "Apple AirPods 4 With Active Noise Cancellation",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6946a7ab6b1c20",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hfb/hf3/273475815637022.jpg"
-  },
-  {
-    "id": "product-56ad4ab2611447",
-    "name": "Apple AirPods Pro 3",
-    "category": "Fruit & Vegetables",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "240974",
-        "name": "Apple AirPods Pro 3",
-        "salePrice": 389.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hf7/hbd/381453773864990.jpg",
-        "sourceUrl": "https://www.costco.com.au/Electronics/Audio/AirPods/AirPods-Pro-3/Apple-AirPods-Pro-3/p/240974",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Apple AirPods Pro 3",
-        "displayName": "Apple AirPods Pro 3",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-56ad4ab2611447",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hf7/hbd/381453773864990.jpg"
-  },
-  {
     "id": "product-b836f393a8a1d5",
     "name": "Apple iPhone 17 Pro 512GB",
     "category": "Fruit & Vegetables",
@@ -280,7 +196,7 @@
         "canonicalProductId": "product-1027545f0db526",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -324,7 +240,7 @@
         "canonicalProductId": "product-64191c2c8faa6b",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 16.99,
           "historicalMedian": 16.99,
           "historicalHigh": 16.99,
@@ -368,7 +284,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 12,
+          "historicalObservations": 13,
           "historicalLow": 4.99,
           "historicalMedian": 4.99,
           "historicalHigh": 4.99,
@@ -403,7 +319,7 @@
         "canonicalProductId": "product-fc9e0f645aa847",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 12,
+          "historicalObservations": 13,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -447,7 +363,7 @@
         "canonicalProductId": "product-ad68f4891184c9",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 0.1,
           "historicalMedian": 0.1,
           "historicalHigh": 0.1,
@@ -493,7 +409,7 @@
         "canonicalProductId": "product-1ccc725b7bb1d4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 11.7,
           "historicalMedian": 11.7,
           "historicalHigh": 11.7,
@@ -537,7 +453,7 @@
         "canonicalProductId": "product-4071950ce49369",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -901,7 +817,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -938,7 +854,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1068,7 +984,7 @@
         "canonicalProductId": "product-99864605275bf6",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -1089,6 +1005,8 @@
         "externalId": "388388",
         "name": "DoorDash $100 Digital Gift Card",
         "salePrice": 79.99,
+        "pricePerUnit": 8.5,
+        "pricePerUnitType": "l",
         "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h4a/h42/326451126861854.jpg",
         "sourceUrl": "https://www.costco.com.au/Gift-Cards-Office-Supplies-Books/Gift-Cards-Tickets/Digital-Gift-Cards/DoorDash-100-Digital-Gift-Card/p/388388",
         "promotionType": "CAMPAIGN",
@@ -1450,7 +1368,7 @@
         "canonicalProductId": "product-fea99608396259",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 11.3,
           "historicalMedian": 14.3,
           "historicalHigh": 14.3,
@@ -1494,7 +1412,7 @@
         "canonicalProductId": "product-5062d098f404a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 0.5,
           "historicalMedian": 0.5,
           "historicalHigh": 0.5,
@@ -1540,7 +1458,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 24.9,
           "historicalMedian": 24.9,
           "historicalHigh": 24.9,
@@ -1577,7 +1495,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -2157,7 +2075,7 @@
         "canonicalProductId": "product-dee325d469b1e8",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 6.8,
           "historicalMedian": 6.8,
           "historicalHigh": 6.8,
@@ -2203,7 +2121,7 @@
         "canonicalProductId": "product-530dd030518800",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -2243,7 +2161,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 12,
+          "historicalObservations": 13,
           "historicalLow": 9.98,
           "historicalMedian": 9.98,
           "historicalHigh": 9.98,
@@ -2278,7 +2196,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 11.99,
           "historicalMedian": 13.49,
           "historicalHigh": 13.49,
@@ -2313,7 +2231,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 12,
+          "historicalObservations": 13,
           "historicalLow": 13.99,
           "historicalMedian": 13.99,
           "historicalHigh": 13.99,
@@ -2348,7 +2266,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 12,
+          "historicalObservations": 13,
           "historicalLow": 15.49,
           "historicalMedian": 15.49,
           "historicalHigh": 15.49,
@@ -2434,7 +2352,7 @@
         "canonicalProductId": "product-4c13de8cce2743",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 31.99,
           "historicalMedian": 31.99,
           "historicalHigh": 31.99,
@@ -2480,7 +2398,7 @@
         "canonicalProductId": "product-09053bd9215db4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 19.4,
           "historicalMedian": 19.4,
           "historicalHigh": 19.4,
@@ -2526,7 +2444,7 @@
         "canonicalProductId": "product-8aedb2b6f69e61",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -2570,7 +2488,7 @@
         "canonicalProductId": "product-825b5433911cb2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 12,
+          "historicalObservations": 13,
           "historicalLow": 17.99,
           "historicalMedian": 17.99,
           "historicalHigh": 17.99,
@@ -2868,7 +2786,7 @@
         "canonicalProductId": "product-134faee1d473a0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 10.99,
           "historicalMedian": 10.99,
           "historicalHigh": 10.99,
@@ -2924,48 +2842,6 @@
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h89/h5e/502583987470366.jpg"
-  },
-  {
-    "id": "product-045ecabb12bb11",
-    "name": "Laifen Wave SE Electric Toothbrush Pink 1TB31-P-US-PK-002",
-    "category": "Personal Care",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "263429",
-        "name": "Laifen Wave SE Electric Toothbrush Pink 1TB31-P-US-PK-002",
-        "salePrice": 84.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hda/hcb/450004971290654.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Laifen-Wave-SE-Electric-Toothbrush-Pink-1TB31-P-US-PK-002/p/263429",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "costco",
-        "channel": "online",
-        "onlineAvailable": true,
-        "physicalStoreAvailability": "unknown",
-        "membershipRequired": true,
-        "locationScope": "national",
-        "targetStore": "Costco Ardeer",
-        "targetPostcode": "3021",
-        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
-        "confidence": "MEDIUM",
-        "store": "costco",
-        "sourceName": "Laifen Wave SE Electric Toothbrush Pink 1TB31-P-US-PK-002",
-        "displayName": "Laifen Wave SE Electric Toothbrush Pink 1TB31-P-US-PK-002",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-045ecabb12bb11",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 0,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hda/hcb/450004971290654.jpg"
   },
   {
     "id": "product-2fd1827d24e58f",
@@ -3080,7 +2956,7 @@
         "canonicalProductId": "product-e791e33c0ff83a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -3124,7 +3000,7 @@
         "canonicalProductId": "product-faeee97b7d3feb",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 8.99,
           "historicalMedian": 8.99,
           "historicalHigh": 8.99,
@@ -3488,7 +3364,7 @@
         "canonicalProductId": "product-41ade1389f855d",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 20,
           "historicalMedian": 20,
           "historicalHigh": 20,
@@ -3525,7 +3401,7 @@
         "canonicalProductId": "product-41ade1389f855d",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
+          "historicalObservations": 6,
           "historicalLow": 39.9,
           "historicalMedian": 39.9,
           "historicalHigh": 39.9,
@@ -3615,7 +3491,7 @@
         "canonicalProductId": "product-791c54be5688f4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 22.7,
           "historicalMedian": 22.7,
           "historicalHigh": 22.7,
@@ -3839,7 +3715,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 18.74,
           "historicalMedian": 18.74,
           "historicalHigh": 18.74,
@@ -3874,7 +3750,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 19.98,
           "historicalMedian": 19.98,
           "historicalHigh": 19.98,
@@ -3909,7 +3785,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 22.04,
           "historicalMedian": 22.04,
           "historicalHigh": 22.04,
@@ -3944,7 +3820,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 24.97,
           "historicalMedian": 24.97,
           "historicalHigh": 24.97,
@@ -3979,7 +3855,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 12,
+          "historicalObservations": 13,
           "historicalLow": 34.98,
           "historicalMedian": 34.98,
           "historicalHigh": 34.98,
@@ -3995,17 +3871,17 @@
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/93fc4a76-f5ba-4fce-81b6-7da60000a554/Beef%20Porterhouse%20Steak%20with%20Garlic%20and%20Herb%20Butter%20400g"
   },
   {
-    "id": "product-a4578b523822e6",
-    "name": "Roborock F25 Gen2 Wet and Dry Vacuum RRWD5M21A51203",
+    "id": "product-3672c8ae1ace80",
+    "name": "Reflex Women's Scuba Short",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "272364",
-        "name": "Roborock F25 Gen2 Wet and Dry Vacuum RRWD5M21A51203",
-        "salePrice": 669.99,
-        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h67/h3c/472175661154334.jpg",
-        "sourceUrl": "https://www.costco.com.au/c/Roborock-F25-Gen2-Wet-and-Dry-Vacuum-RRWD5M21A51203/p/272364",
+        "externalId": "254983",
+        "name": "Reflex Women's Scuba Short",
+        "salePrice": 34.99,
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hec/hc8/491134123081758.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Reflex-Womens-Scuba-Short/p/254983",
         "promotionType": "CAMPAIGN",
         "sourceType": "web",
         "sourcePlatform": "costco",
@@ -4019,10 +3895,10 @@
         "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
         "confidence": "MEDIUM",
         "store": "costco",
-        "sourceName": "Roborock F25 Gen2 Wet and Dry Vacuum RRWD5M21A51203",
-        "displayName": "Roborock F25 Gen2 Wet and Dry Vacuum RRWD5M21A51203",
+        "sourceName": "Reflex Women's Scuba Short",
+        "displayName": "Reflex Women's Scuba Short",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-a4578b523822e6",
+        "canonicalProductId": "product-3672c8ae1ace80",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
           "historicalObservations": 0,
@@ -4034,7 +3910,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h67/h3c/472175661154334.jpg"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hec/hc8/491134123081758.jpg"
   },
   {
     "id": "product-7f41839e9e0324",
@@ -4421,6 +4297,50 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h77/hed/431802717274142.jpg"
   },
   {
+    "id": "product-b42eb10a1e8db0",
+    "name": "Swarovski Annual Edition Festive Ornament 2026",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "269162",
+        "name": "Swarovski Annual Edition Festive Ornament 2026",
+        "salePrice": 89.99,
+        "pricePerUnit": 0.1,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/products/h95/h08/502024918106142.jpg",
+        "sourceUrl": "https://www.costco.com.au/Occasions/Swarovski-Annual-Edition-Festive-Ornament-2026/p/269162",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Swarovski Annual Edition Festive Ornament 2026",
+        "displayName": "Swarovski Annual Edition Festive Ornament 2026",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-b42eb10a1e8db0",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/products/h95/h08/502024918106142.jpg"
+  },
+  {
     "id": "product-128748d488c088",
     "name": "TCL 55 Inch C7K Premium QD-Mini LED Google TV 55C7K",
     "category": "Other",
@@ -4491,7 +4411,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 12,
+          "historicalObservations": 13,
           "historicalLow": 34.76,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
@@ -4526,7 +4446,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "NORMAL",
-          "historicalObservations": 14,
+          "historicalObservations": 15,
           "historicalLow": 32.59,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
@@ -4922,7 +4842,7 @@
         "canonicalProductId": "product-6dbea64804f022",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 4,
+          "historicalObservations": 5,
           "historicalLow": 12.5,
           "historicalMedian": 12.5,
           "historicalHigh": 12.5,
