@@ -1,45 +1,5 @@
 [
   {
-    "id": "product-b07c10a8cb6320",
-    "name": "ALDI",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/aldi-natural-walnuts-500g-000000000000282420",
-        "name": "ALDI",
-        "salePrice": 19.98,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/7a9ca36f-138b-441b-b6c7-ca33f2700499/Natural%20Walnuts%20500g",
-        "sourceUrl": "https://www.aldi.com.au/product/aldi-natural-walnuts-500g-000000000000282420",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "ALDI",
-        "displayName": "ALDI",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b07c10a8cb6320",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/7a9ca36f-138b-441b-b6c7-ca33f2700499/Natural%20Walnuts%20500g"
-  },
-  {
     "id": "product-b836f393a8a1d5",
     "name": "Apple iPhone 17 Pro 512GB",
     "category": "Fruit & Vegetables",
@@ -166,48 +126,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h79/h48/384786227068958.jpg"
   },
   {
-    "id": "product-643692c552d659",
-    "name": "BELMONT BISCUIT CO.",
-    "category": "Snacks",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/belmont-biscuit-co-jaffa-cakes-150g-000000000000283683",
-        "name": "BELMONT BISCUIT CO.",
-        "salePrice": 1.86,
-        "pricePerUnit": 18.6,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/b029499d-87ca-41ad-aa66-3fc389e41670/Jaffa%20Cakes%20150g",
-        "sourceUrl": "https://www.aldi.com.au/product/belmont-biscuit-co-jaffa-cakes-150g-000000000000283683",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "BELMONT BISCUIT CO.",
-        "displayName": "BELMONT BISCUIT CO.",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-643692c552d659",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/b029499d-87ca-41ad-aa66-3fc389e41670/Jaffa%20Cakes%20150g"
-  },
-  {
     "id": "product-1027545f0db526",
     "name": "BERG",
     "category": "Other",
@@ -236,7 +154,7 @@
         "canonicalProductId": "product-1027545f0db526",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -280,7 +198,7 @@
         "canonicalProductId": "product-64191c2c8faa6b",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 16.99,
           "historicalMedian": 16.99,
           "historicalHigh": 16.99,
@@ -294,81 +212,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3a73b434-c207-4fb5-b300-c6f2c9e81f0e/Limited%20Release%20Margaret%20River%20Chardonnay%20750ml"
-  },
-  {
-    "id": "product-b4aed4efd29378",
-    "name": "BON APPETIT",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/bon-appetit-pains-au-chocolat-6-pack-270g-000000000000262056",
-        "name": "BON APPETIT",
-        "salePrice": 1.85,
-        "pricePerUnit": 18.5,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/698b6be2-6736-4c77-95ba-be340c1b2700/Pains%20Au%20Chocolat%206%20Pack%20270g",
-        "sourceUrl": "https://www.aldi.com.au/product/bon-appetit-pains-au-chocolat-6-pack-270g-000000000000262056",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "BON APPETIT",
-        "displayName": "BON APPETIT",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b4aed4efd29378",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/bon-appetit-chocolate-chip-brioche-milk-rolls-8-pack-280g-000000000000200998",
-        "name": "BON APPETIT",
-        "salePrice": 1.89,
-        "pricePerUnit": 18.9,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/0161d36f-99af-45b8-aaed-481d5259c685/Chocolate%20Chip%20Brioche%20Milk%20Rolls%208%20Pack%20280g",
-        "sourceUrl": "https://www.aldi.com.au/product/bon-appetit-chocolate-chip-brioche-milk-rolls-8-pack-280g-000000000000200998",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "BON APPETIT",
-        "displayName": "BON APPETIT",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-b4aed4efd29378",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/0161d36f-99af-45b8-aaed-481d5259c685/Chocolate%20Chip%20Brioche%20Milk%20Rolls%208%20Pack%20280g"
   },
   {
     "id": "product-ad68f4891184c9",
@@ -399,7 +242,7 @@
         "canonicalProductId": "product-ad68f4891184c9",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
+          "historicalObservations": 7,
           "historicalLow": 0.1,
           "historicalMedian": 0.1,
           "historicalHigh": 0.1,
@@ -410,42 +253,9 @@
           ],
           "comparisonReasons": []
         }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/brookdale-pure-maple-syrup-250ml-000000000000261631",
-        "name": "BROOKDALE",
-        "salePrice": 2.2,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/92ab7023-6cb8-43c0-a258-a4fb5645c959/Pure%20Maple%20Syrup%20250ml",
-        "sourceUrl": "https://www.aldi.com.au/product/brookdale-pure-maple-syrup-250ml-000000000000261631",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "BROOKDALE",
-        "displayName": "BROOKDALE",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-ad68f4891184c9",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
       }
     ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/92ab7023-6cb8-43c0-a258-a4fb5645c959/Pure%20Maple%20Syrup%20250ml"
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f9714f6a-0bcf-4eb9-a6ca-bb565778c055/Ice%20Cream%20Cup%20Cones%2024%20Pack"
   },
   {
     "id": "product-1ccc725b7bb1d4",
@@ -478,7 +288,7 @@
         "canonicalProductId": "product-1ccc725b7bb1d4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 11.7,
           "historicalMedian": 11.7,
           "historicalHigh": 11.7,
@@ -522,7 +332,7 @@
         "canonicalProductId": "product-4071950ce49369",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 9.99,
           "historicalMedian": 9.99,
           "historicalHigh": 9.99,
@@ -568,7 +378,7 @@
         "canonicalProductId": "product-3dc9879a27f0bc",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
@@ -810,90 +620,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hb6/h75/433023372656670.jpg"
   },
   {
-    "id": "product-df290f757d4a01",
-    "name": "COLWAY",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/colway-authentic-mayonnaise-squeeze-475g-000000000000275699",
-        "name": "COLWAY",
-        "salePrice": 0.78,
-        "pricePerUnit": 7.8,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/e7ee855b-33c6-4dbb-b0af-9a6b8d21445c/Authentic%20Mayonnaise%20Squeeze%20475g",
-        "sourceUrl": "https://www.aldi.com.au/product/colway-authentic-mayonnaise-squeeze-475g-000000000000275699",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "COLWAY",
-        "displayName": "COLWAY",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-df290f757d4a01",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/e7ee855b-33c6-4dbb-b0af-9a6b8d21445c/Authentic%20Mayonnaise%20Squeeze%20475g"
-  },
-  {
-    "id": "product-db4db10ed81831",
-    "name": "CORALE",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/corale-baked-beans-in-tomato-sauce-420g-000000000000261610",
-        "name": "CORALE",
-        "salePrice": 0.26,
-        "pricePerUnit": 2.6,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/052753ed-d194-4344-be26-b99946f66710/Baked%20Beans%20in%20Tomato%20Sauce%20420g",
-        "sourceUrl": "https://www.aldi.com.au/product/corale-baked-beans-in-tomato-sauce-420g-000000000000261610",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "CORALE",
-        "displayName": "CORALE",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-db4db10ed81831",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/052753ed-d194-4344-be26-b99946f66710/Baked%20Beans%20in%20Tomato%20Sauce%20420g"
-  },
-  {
     "id": "product-89455e2f243cb4",
     "name": "Cuckoo Micom Rice Cooker 6 Cups CR-0685FW",
     "category": "Pantry",
@@ -1012,7 +738,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1049,7 +775,7 @@
         "canonicalProductId": "product-546ebe0e50a128",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 19.9,
           "historicalMedian": 19.9,
           "historicalHigh": 19.9,
@@ -1147,46 +873,6 @@
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h99/hda/486373159796766.jpg"
-  },
-  {
-    "id": "product-99864605275bf6",
-    "name": "DELI ORIGINALS",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/deli-originals-spanish-stuffed-green-olives-450g-000000000000210837",
-        "name": "DELI ORIGINALS",
-        "salePrice": 5,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/8675cc3e-0c24-4d63-9355-0f43b0d10c02/Spanish%20Stuffed%20Green%20Olives%20450g",
-        "sourceUrl": "https://www.aldi.com.au/product/deli-originals-spanish-stuffed-green-olives-450g-000000000000210837",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "DELI ORIGINALS",
-        "displayName": "DELI ORIGINALS",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-99864605275bf6",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/8675cc3e-0c24-4d63-9355-0f43b0d10c02/Spanish%20Stuffed%20Green%20Olives%20450g"
   },
   {
     "id": "product-ab37e810aa2d44",
@@ -1561,11 +1247,11 @@
         "canonicalProductId": "product-fea99608396259",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 11.3,
-          "historicalMedian": 14.3,
+          "historicalMedian": 12.8,
           "historicalHigh": 14.3,
-          "percentBelowHistoricalMedian": 21,
+          "percentBelowHistoricalMedian": 11.7,
           "dealScore": 32,
           "reasons": [
             "LOWEST_OBSERVED_PRICE"
@@ -1575,139 +1261,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/79a57017-d838-48db-9b90-15401cfb5241/Tortilla%20Strips%20White%20Corn%20230g"
-  },
-  {
-    "id": "product-afb78407587506",
-    "name": "EMPORIUM SELECTION",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/emporium-selection-triple-cream-brie-cheese-200g-000000000000281811",
-        "name": "EMPORIUM SELECTION",
-        "salePrice": 24.95,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/062a3faa-4a09-48b2-bad0-521224c694eb/Triple%20Cream%20Brie%20Cheese%20200g",
-        "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-triple-cream-brie-cheese-200g-000000000000281811",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "EMPORIUM SELECTION",
-        "displayName": "EMPORIUM SELECTION",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-afb78407587506",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/emporium-selection-double-cream-camembert-200g-000000000000281818",
-        "name": "EMPORIUM SELECTION",
-        "salePrice": 24.95,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/47933bb7-6e5e-4adf-9ac5-9b2b4aae8513/Double%20Cream%20Camembert%20200g",
-        "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-double-cream-camembert-200g-000000000000281818",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "EMPORIUM SELECTION",
-        "displayName": "EMPORIUM SELECTION",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-afb78407587506",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/emporium-selection-smoked-cheese-200g-000000000000283609",
-        "name": "EMPORIUM SELECTION",
-        "salePrice": 24.95,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5273d675-32cb-4890-92b7-30517d641c3e/Smoked%20Cheese%20200g",
-        "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-smoked-cheese-200g-000000000000283609",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "EMPORIUM SELECTION",
-        "displayName": "EMPORIUM SELECTION",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-afb78407587506",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/emporium-selection-smooth-blue-vein-cheese-200g-000000000000281867",
-        "name": "EMPORIUM SELECTION",
-        "salePrice": 31.45,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/676478e4-d728-4b79-8441-bd86a86a45e1/Smooth%20Blue%20Vein%20Cheese%20200g",
-        "sourceUrl": "https://www.aldi.com.au/product/emporium-selection-smooth-blue-vein-cheese-200g-000000000000281867",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "EMPORIUM SELECTION",
-        "displayName": "EMPORIUM SELECTION",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-afb78407587506",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/062a3faa-4a09-48b2-bad0-521224c694eb/Triple%20Cream%20Brie%20Cheese%20200g"
   },
   {
     "id": "product-5062d098f404a3",
@@ -1738,7 +1291,7 @@
         "canonicalProductId": "product-5062d098f404a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 0.5,
           "historicalMedian": 0.5,
           "historicalHigh": 0.5,
@@ -1752,6 +1305,120 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f707bed8-dec2-4274-bd6c-f0736e37fbd2/Irish%20Crme%20Flavoured%20Coffee%20Capsules%2016%20Pack"
+  },
+  {
+    "id": "product-98596f62a6dbb0",
+    "name": "FLYING POWER",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
+        "name": "FLYING POWER",
+        "salePrice": 2.58,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6de2cc85-ecf2-44c8-b77e-b5efa977f403/Hydration%20Sport%20Drink%20Arctic%20Chill%20500ml",
+        "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-arctic-chill-500ml-000000000000620260",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "FLYING POWER",
+        "displayName": "FLYING POWER",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-98596f62a6dbb0",
+        "intelligence": {
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 6,
+          "historicalLow": 2.58,
+          "historicalMedian": 2.78,
+          "historicalHigh": 2.78,
+          "percentBelowHistoricalMedian": 7.2,
+          "dealScore": 32,
+          "reasons": [
+            "LOWEST_OBSERVED_PRICE"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-berry-burst-500ml-000000000000620585",
+        "name": "FLYING POWER",
+        "salePrice": 2.58,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3c9525be-031b-4609-bafd-e5f0eade5bcc/Hydration%20Sport%20Drink%20Berry%20Burst%20500ml",
+        "sourceUrl": "https://www.aldi.com.au/product/flying-power-hydration-sport-drink-berry-burst-500ml-000000000000620585",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "FLYING POWER",
+        "displayName": "FLYING POWER",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-98596f62a6dbb0",
+        "intelligence": {
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 2.58,
+          "historicalMedian": 2.58,
+          "historicalHigh": 2.78,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
+          "reasons": [
+            "LOWEST_OBSERVED_PRICE"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/flying-power-energy-drink-pine-lime-99-sugar-free-500ml-000000000000622180",
+        "name": "FLYING POWER",
+        "salePrice": 3.98,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/47967489-74e5-42d3-b8dc-cb680c23d702/Energy%20Drink%20Pine%20Lime%2099%25%20Sugar%20Free%20500ml",
+        "sourceUrl": "https://www.aldi.com.au/product/flying-power-energy-drink-pine-lime-99-sugar-free-500ml-000000000000622180",
+        "category": "Limited Time Only",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "FLYING POWER",
+        "displayName": "FLYING POWER",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-98596f62a6dbb0",
+        "intelligence": {
+          "historicalStatus": "LOWEST_OBSERVED",
+          "historicalObservations": 3,
+          "historicalLow": 3.98,
+          "historicalMedian": 3.98,
+          "historicalHigh": 3.98,
+          "percentBelowHistoricalMedian": 0,
+          "dealScore": 32,
+          "reasons": [
+            "LOWEST_OBSERVED_PRICE"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6de2cc85-ecf2-44c8-b77e-b5efa977f403/Hydration%20Sport%20Drink%20Arctic%20Chill%20500ml"
   },
   {
     "id": "product-37ac4685fc64f2",
@@ -1784,7 +1451,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 24.9,
           "historicalMedian": 24.9,
           "historicalHigh": 24.9,
@@ -1821,7 +1488,7 @@
         "canonicalProductId": "product-37ac4685fc64f2",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -2013,6 +1680,52 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h6e/ha2/364960747126814.jpg"
   },
   {
+    "id": "product-1f61ef4571ac4d",
+    "name": "Gin Gins Spicy Apple Ginger Chew 500g",
+    "category": "Fruit & Vegetables",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "219355",
+        "name": "Gin Gins Spicy Apple Ginger Chew 500g",
+        "salePrice": 24.99,
+        "quantity": 500,
+        "unit": "g",
+        "pricePerUnit": 40,
+        "pricePerUnitType": "kg",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h78/h0a/343717766103070.jpg",
+        "sourceUrl": "https://www.costco.com.au/Health-Beauty/Health-Medicines/Gin-Gins-Spicy-Apple-Ginger-Chew-500g/p/219355",
+        "promotionType": "CAMPAIGN",
+        "sourceType": "web",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
+        "physicalStoreAvailability": "unknown",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
+        "targetPostcode": "3021",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Gin Gins Spicy Apple Ginger Chew 500g",
+        "displayName": "Gin Gins Spicy Apple Ginger Chew 500g",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-1f61ef4571ac4d",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 0,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h78/h0a/343717766103070.jpg"
+  },
+  {
     "id": "product-67d80ede77852f",
     "name": "Glowiest Dream Glow Beauty Mask Duo Soothing + Calming 2 x 30 Count",
     "category": "Personal Care",
@@ -2193,48 +1906,6 @@
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h41/hf1/243990041198622.jpg"
-  },
-  {
-    "id": "product-df3bfcba80c14b",
-    "name": "HARIBO",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/haribo-mega-roulette-45g-000000000000173130",
-        "name": "HARIBO",
-        "salePrice": 2.2,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f565efbc-67cf-4f99-bbcc-20145ad72315/Mega%20Roulette%2045g",
-        "sourceUrl": "https://www.aldi.com.au/product/haribo-mega-roulette-45g-000000000000173130",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "HARIBO",
-        "displayName": "HARIBO",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-df3bfcba80c14b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f565efbc-67cf-4f99-bbcc-20145ad72315/Mega%20Roulette%2045g"
   },
   {
     "id": "product-502146b7408bf3",
@@ -2419,105 +2090,6 @@
     "aliases": [],
     "offers": [
       {
-        "externalId": "https://www.aldi.com.au/product/imperial-grain-long-grain-rice-2kg-000000000000262809",
-        "name": "IMPERIAL GRAIN",
-        "salePrice": 0.18,
-        "pricePerUnit": 1.8,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f741576a-2c44-4fa6-98ce-06a083c58a94/Long%20Grain%20Rice%202kg",
-        "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-long-grain-rice-2kg-000000000000262809",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "IMPERIAL GRAIN",
-        "displayName": "IMPERIAL GRAIN",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dee325d469b1e8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/imperial-grain-jasmine-rice-1kg-000000000000262101",
-        "name": "IMPERIAL GRAIN",
-        "salePrice": 0.3,
-        "pricePerUnit": 3,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f8c80679-b4ba-46fe-af9f-058b76d5cf08/Jasmine%20Rice%201kg",
-        "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-jasmine-rice-1kg-000000000000262101",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "IMPERIAL GRAIN",
-        "displayName": "IMPERIAL GRAIN",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dee325d469b1e8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/imperial-grain-basmati-rice-1kg-000000000000262325",
-        "name": "IMPERIAL GRAIN",
-        "salePrice": 0.4,
-        "pricePerUnit": 4,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/a560b507-81e7-4363-8287-50db45da54a0/Basmati%20Rice%201kg",
-        "sourceUrl": "https://www.aldi.com.au/product/imperial-grain-basmati-rice-1kg-000000000000262325",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "IMPERIAL GRAIN",
-        "displayName": "IMPERIAL GRAIN",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-dee325d469b1e8",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
         "externalId": "https://www.aldi.com.au/product/imperial-grain-sweet-chilli-lime-rice-pouch-250g-000000000000474656",
         "name": "IMPERIAL GRAIN",
         "salePrice": 0.68,
@@ -2542,7 +2114,7 @@
         "canonicalProductId": "product-dee325d469b1e8",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 6.8,
           "historicalMedian": 6.8,
           "historicalHigh": 6.8,
@@ -2555,7 +2127,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f8c80679-b4ba-46fe-af9f-058b76d5cf08/Jasmine%20Rice%201kg"
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/86bab045-ad56-47b2-b6fb-a1b4ad246ef4/Sweet%20Chilli%20%20Lime%20Rice%20Pouch%20250g"
   },
   {
     "id": "product-aabf286d3aabdd",
@@ -2563,6 +2135,37 @@
     "category": "Meat",
     "aliases": [],
     "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/ironbark-pork-boneless-pork-loin-roast-000000000000402950",
+        "name": "IRONBARK PORK",
+        "salePrice": 9.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f5d7679d-f5f9-4cc3-8b1c-912547caa79e/Boneless%20Pork%20Loin%20Roast",
+        "sourceUrl": "https://www.aldi.com.au/product/ironbark-pork-boneless-pork-loin-roast-000000000000402950",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "IRONBARK PORK",
+        "displayName": "IRONBARK PORK",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-aabf286d3aabdd",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
       {
         "externalId": "https://www.aldi.com.au/product/ironbark-pork-pork-scotch-fillet-roast-000000000000399199",
         "name": "IRONBARK PORK",
@@ -2586,7 +2189,7 @@
         "canonicalProductId": "product-aabf286d3aabdd",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 11.99,
           "historicalMedian": 13.49,
           "historicalHigh": 13.49,
@@ -2599,7 +2202,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f7432c81-4476-4a01-a0d9-c4568d2eaf5b/Pork%20Scotch%20Fillet%20Roast"
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f5d7679d-f5f9-4cc3-8b1c-912547caa79e/Boneless%20Pork%20Loin%20Roast"
   },
   {
     "id": "product-49dd9cce70b76a",
@@ -2650,6 +2253,37 @@
     "aliases": [],
     "offers": [
       {
+        "externalId": "https://www.aldi.com.au/product/jindurra-station-beef-blade-steak-000000000000400023",
+        "name": "JINDURRA STATION",
+        "salePrice": 18.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/393449ee-5078-4f87-b0fd-669afa032935/Beef%20Blade%20Steak",
+        "sourceUrl": "https://www.aldi.com.au/product/jindurra-station-beef-blade-steak-000000000000400023",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "JINDURRA STATION",
+        "displayName": "JINDURRA STATION",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-4c13de8cce2743",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
         "externalId": "https://www.aldi.com.au/product/jindurra-station-beef-scotch-portion-000000000000400621",
         "name": "JINDURRA STATION",
         "salePrice": 31.99,
@@ -2672,7 +2306,7 @@
         "canonicalProductId": "product-4c13de8cce2743",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 31.99,
           "historicalMedian": 31.99,
           "historicalHigh": 31.99,
@@ -2685,7 +2319,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/2a0f282f-f80d-4c90-9f3d-31c3345d4b52/Beef%20Scotch%20Portion"
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/393449ee-5078-4f87-b0fd-669afa032935/Beef%20Blade%20Steak"
   },
   {
     "id": "product-09053bd9215db4",
@@ -2718,7 +2352,7 @@
         "canonicalProductId": "product-09053bd9215db4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 19.4,
           "historicalMedian": 19.4,
           "historicalHigh": 19.4,
@@ -2764,7 +2398,7 @@
         "canonicalProductId": "product-8aedb2b6f69e61",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 27.7,
           "historicalMedian": 27.7,
           "historicalHigh": 27.7,
@@ -2778,6 +2412,46 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/0cf5cdeb-e156-4272-88c7-bd96501178f6/Coco%20Pops%20Bars%209%20Pack%20180g"
+  },
+  {
+    "id": "product-825b5433911cb2",
+    "name": "KILLARNEE",
+    "category": "Other",
+    "aliases": [],
+    "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/killarnee-half-lamb-leg-bone-in-000000000000400247",
+        "name": "KILLARNEE",
+        "salePrice": 14.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3eba644b-ecb5-4ab2-92ba-de86a1cb1a50/Half%20Lamb%20Leg%20Bone%20In",
+        "sourceUrl": "https://www.aldi.com.au/product/killarnee-half-lamb-leg-bone-in-000000000000400247",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "KILLARNEE",
+        "displayName": "KILLARNEE",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-825b5433911cb2",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 1,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      }
+    ],
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3eba644b-ecb5-4ab2-92ba-de86a1cb1a50/Half%20Lamb%20Leg%20Bone%20In"
   },
   {
     "id": "product-212d9dd63eb847",
@@ -3062,7 +2736,7 @@
         "canonicalProductId": "product-134faee1d473a0",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 10.99,
           "historicalMedian": 10.99,
           "historicalHigh": 10.99,
@@ -3232,7 +2906,7 @@
         "canonicalProductId": "product-e791e33c0ff83a",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 11.99,
           "historicalMedian": 11.99,
           "historicalHigh": 11.99,
@@ -3246,46 +2920,6 @@
       }
     ],
     "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/41da4ebe-bbbe-4522-9712-501341f5a809/Pinot%20Noir%20750ml"
-  },
-  {
-    "id": "product-397e2e79d2178d",
-    "name": "MARQUES DEL ATRIO",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/marques-del-atrio-rioja-reserva-tempranillo-graciano-750ml-000000000000283861",
-        "name": "MARQUES DEL ATRIO",
-        "salePrice": 12.99,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6be7550c-b931-419f-838b-ee5bf9a6097f/Rioja%20Reserva%20Tempranillo%20Graciano%20750ml",
-        "sourceUrl": "https://www.aldi.com.au/product/marques-del-atrio-rioja-reserva-tempranillo-graciano-750ml-000000000000283861",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "MARQUES DEL ATRIO",
-        "displayName": "MARQUES DEL ATRIO",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-397e2e79d2178d",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6be7550c-b931-419f-838b-ee5bf9a6097f/Rioja%20Reserva%20Tempranillo%20Graciano%20750ml"
   },
   {
     "id": "product-faeee97b7d3feb",
@@ -3316,7 +2950,7 @@
         "canonicalProductId": "product-faeee97b7d3feb",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 8.99,
           "historicalMedian": 8.99,
           "historicalHigh": 8.99,
@@ -3604,67 +3238,42 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hcc/h37/420216571035678.jpg"
   },
   {
-    "id": "product-9f0b13a98ccc21",
-    "name": "O'DONNELLS",
+    "id": "product-57cf504132a3a4",
+    "name": "Nourish Korean Red Ginseng Extract and Collagen Jelly Sachets 30 x 20g",
     "category": "Other",
     "aliases": [],
     "offers": [
       {
-        "externalId": "https://www.aldi.com.au/product/o-donnells-irish-cream-salted-caramel-liqueur-700ml-000000000000284675",
-        "name": "O'DONNELLS",
-        "salePrice": 12.99,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f3f1c1d8-a45c-4c89-8a68-82c188dbf150/Irish%20Cream%20Salted%20Caramel%20Liqueur%20700ml",
-        "sourceUrl": "https://www.aldi.com.au/product/o-donnells-irish-cream-salted-caramel-liqueur-700ml-000000000000284675",
-        "category": "Super Savers",
-        "promotionType": "SALE",
+        "externalId": "180506",
+        "name": "Nourish Korean Red Ginseng Extract and Collagen Jelly Sachets 30 x 20g",
+        "salePrice": 42.99,
+        "quantity": 600,
+        "unit": "g",
+        "pricePerUnit": 1.44,
+        "pricePerUnitType": "piece",
+        "imageUrl": "https://www.costco.com.au/medias/sys_master/images/h67/hcb/332274137792542.jpg",
+        "sourceUrl": "https://www.costco.com.au/c/Nourish-Korean-Red-Ginseng-Extract-and-Collagen-Jelly-Sachets-30-x-20g/p/180506",
+        "promotionType": "CAMPAIGN",
         "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
+        "sourcePlatform": "costco",
+        "channel": "online",
+        "onlineAvailable": true,
         "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
+        "membershipRequired": true,
+        "locationScope": "national",
+        "targetStore": "Costco Ardeer",
         "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "O'DONNELLS",
-        "displayName": "O'DONNELLS",
+        "promotionConditions": "Costco membership required. Online and Ardeer warehouse prices may differ; verify the warehouse price before purchase.",
+        "confidence": "MEDIUM",
+        "store": "costco",
+        "sourceName": "Nourish Korean Red Ginseng Extract and Collagen Jelly Sachets 30 x 20g",
+        "displayName": "Nourish Korean Red Ginseng Extract and Collagen Jelly Sachets 30 x 20g",
         "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9f0b13a98ccc21",
+        "canonicalProductId": "product-57cf504132a3a4",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/o-donnells-irish-country-cream-700ml-000000000000283907",
-        "name": "O'DONNELLS",
-        "salePrice": 14.99,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/e0bbfeb0-2a6a-4b7f-83e4-5dfd303f0787/Irish%20Country%20Cream%20700ml",
-        "sourceUrl": "https://www.aldi.com.au/product/o-donnells-irish-country-cream-700ml-000000000000283907",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "O'DONNELLS",
-        "displayName": "O'DONNELLS",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-9f0b13a98ccc21",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
+          "historicalObservations": 0,
+          "dealScore": 0,
           "reasons": [
             "LIMITED_HISTORY"
           ],
@@ -3672,140 +3281,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/e0bbfeb0-2a6a-4b7f-83e4-5dfd303f0787/Irish%20Country%20Cream%20700ml"
-  },
-  {
-    "id": "product-c8699083a3f90b",
-    "name": "OCEAN ROYALE",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/ocean-royale-basa-fillets-1kg-000000000000279936",
-        "name": "OCEAN ROYALE",
-        "salePrice": 6.99,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/3b9d6613-2b96-48bc-8ea5-658f7d21042b/Basa%20Fillets%201kg",
-        "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-basa-fillets-1kg-000000000000279936",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "OCEAN ROYALE",
-        "displayName": "OCEAN ROYALE",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c8699083a3f90b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/ocean-royale-crumbed-calamari-rings-400g-000000000000278981",
-        "name": "OCEAN ROYALE",
-        "salePrice": 10.98,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/7394db98-937c-4bfb-a7ad-b4b61034bc03/Crumbed%20Calamari%20Rings%20400g",
-        "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-crumbed-calamari-rings-400g-000000000000278981",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "OCEAN ROYALE",
-        "displayName": "OCEAN ROYALE",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c8699083a3f90b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/ocean-royale-salt-pepper-squid-360g-000000000000278985",
-        "name": "OCEAN ROYALE",
-        "salePrice": 13.86,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/1ab83c58-8430-457a-8486-8a0fd53393b2/Salt%20%20Pepper%20Squid%20360g",
-        "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-salt-pepper-squid-360g-000000000000278985",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "OCEAN ROYALE",
-        "displayName": "OCEAN ROYALE",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c8699083a3f90b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/ocean-royale-barramundi-fillets-1kg-000000000000279961",
-        "name": "OCEAN ROYALE",
-        "salePrice": 19.99,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/5ab42d82-8d94-4dfe-bd8a-3188841c7d32/Barramundi%20Fillets%201kg",
-        "sourceUrl": "https://www.aldi.com.au/product/ocean-royale-barramundi-fillets-1kg-000000000000279961",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "OCEAN ROYALE",
-        "displayName": "OCEAN ROYALE",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-c8699083a3f90b",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/7394db98-937c-4bfb-a7ad-b4b61034bc03/Crumbed%20Calamari%20Rings%20400g"
+    "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h67/hcb/332274137792542.jpg"
   },
   {
     "id": "product-f4f33f6b841da8",
@@ -3852,131 +3328,6 @@
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/he7/h45/332273808965662.jpg"
-  },
-  {
-    "id": "product-e620a94e80ce2f",
-    "name": "OH SO NATURAL ORGANIC",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/oh-so-natural-organic-organic-extra-virgin-olive-oil-500ml-000000000000199822",
-        "name": "OH SO NATURAL ORGANIC",
-        "salePrice": 1.6,
-        "pricePerUnit": 16,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ce18a1c2-0a82-4534-88d3-a83ebab3db92/Organic%20Extra%20Virgin%20Olive%20Oil%20500ml",
-        "sourceUrl": "https://www.aldi.com.au/product/oh-so-natural-organic-organic-extra-virgin-olive-oil-500ml-000000000000199822",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "OH SO NATURAL ORGANIC",
-        "displayName": "OH SO NATURAL ORGANIC",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-e620a94e80ce2f",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ce18a1c2-0a82-4534-88d3-a83ebab3db92/Organic%20Extra%20Virgin%20Olive%20Oil%20500ml"
-  },
-  {
-    "id": "product-41ade1389f855d",
-    "name": "OMBRA",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/ombra-kids-sunscreen-spf-50-250ml-000000000000628179",
-        "name": "OMBRA",
-        "salePrice": 2,
-        "pricePerUnit": 20,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/cc3afa1f-cabd-49a5-b96a-0147c07f6744/Kids%20Sunscreen%20SPF%2050%20250ml",
-        "sourceUrl": "https://www.aldi.com.au/product/ombra-kids-sunscreen-spf-50-250ml-000000000000628179",
-        "category": "Limited Time Only",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "OMBRA",
-        "displayName": "OMBRA",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-41ade1389f855d",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
-          "historicalLow": 20,
-          "historicalMedian": 20,
-          "historicalHigh": 20,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/ombra-daily-defence-mineral-sunscreen-sensitive-spf50-100ml-000000000000628169",
-        "name": "OMBRA",
-        "salePrice": 3.99,
-        "pricePerUnit": 39.9,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c5575ff2-3466-46f0-ab6e-661c7f1d1a6c/Daily%20Defence%20Mineral%20Sunscreen%20Sensitive%20SPF50%20100ml",
-        "sourceUrl": "https://www.aldi.com.au/product/ombra-daily-defence-mineral-sunscreen-sensitive-spf50-100ml-000000000000628169",
-        "category": "Limited Time Only",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "OMBRA",
-        "displayName": "OMBRA",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-41ade1389f855d",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 6,
-          "historicalLow": 39.9,
-          "historicalMedian": 39.9,
-          "historicalHigh": 39.9,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/c5575ff2-3466-46f0-ab6e-661c7f1d1a6c/Daily%20Defence%20Mineral%20Sunscreen%20Sensitive%20SPF50%20100ml"
   },
   {
     "id": "product-cdfbb45e165950",
@@ -4053,7 +3404,7 @@
         "canonicalProductId": "product-791c54be5688f4",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 22.7,
           "historicalMedian": 22.7,
           "historicalHigh": 22.7,
@@ -4249,293 +3600,104 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/h82/h97/419556235870238.jpg"
   },
   {
-    "id": "product-bcfed986c29dc4",
-    "name": "Products",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/products/limited-time-only/k/1588161420755352",
-        "name": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/AllGroceries-3056_1024?wid=3056",
-        "sourceUrl": "https://www.aldi.com.au/products/limited-time-only/k/1588161420755352",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "Products",
-        "displayName": "Products",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.doordash.com/p/aldi-australia?srsltid=AfmBOoqwsSBRqA5_Q82QhhYvHQgr-z4KiqqWvj-M-AH_DSSHbRGkHsKA",
-        "name": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/AllGroceries-3056_1024?wid=3056",
-        "sourceUrl": "https://www.doordash.com/p/aldi-australia?srsltid=AfmBOoqwsSBRqA5_Q82QhhYvHQgr-z4KiqqWvj-M-AH_DSSHbRGkHsKA",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "Products",
-        "displayName": "Products",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/urban-eats-greek-spinach-cheese-spanakopita-750g-000000000000368932",
-        "name": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/AllGroceries-3056_1024?wid=3056",
-        "sourceUrl": "https://www.aldi.com.au/product/urban-eats-greek-spinach-cheese-spanakopita-750g-000000000000368932",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "Products",
-        "displayName": "Products",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/di-san-oxy-laundry-soaker-1kg-000000000399116001",
-        "name": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/AllGroceries-3056_1024?wid=3056",
-        "sourceUrl": "https://www.aldi.com.au/product/di-san-oxy-laundry-soaker-1kg-000000000399116001",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "Products",
-        "displayName": "Products",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/products/meat-seafood/k/940000000",
-        "name": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/AllGroceries-3056_1024?wid=3056",
-        "sourceUrl": "https://www.aldi.com.au/products/meat-seafood/k/940000000",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "Products",
-        "displayName": "Products",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/products/fruits-vegetables/k/950000000",
-        "name": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/AllGroceries-3056_1024?wid=3056",
-        "sourceUrl": "https://www.aldi.com.au/products/fruits-vegetables/k/950000000",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "Products",
-        "displayName": "Products",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/products/dairy-eggs-fridge/k/960000000",
-        "name": "Products",
-        "salePrice": 50,
-        "pricePerUnit": 22,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/AllGroceries-3056_1024?wid=3056",
-        "sourceUrl": "https://www.aldi.com.au/products/dairy-eggs-fridge/k/960000000",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "Products",
-        "displayName": "Products",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-bcfed986c29dc4",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/AllGroceries-3056_1024?wid=3056"
-  },
-  {
-    "id": "product-47b29047f9167c",
-    "name": "PURE VITA",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/pure-vita-sunflower-oil-1l-000000000000200347",
-        "name": "PURE VITA",
-        "salePrice": 0.5,
-        "pricePerUnit": 5,
-        "pricePerUnitType": "l",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f315fe90-7075-4f29-b0cb-5abad7510ad9/Sunflower%20Oil%201L",
-        "sourceUrl": "https://www.aldi.com.au/product/pure-vita-sunflower-oil-1l-000000000000200347",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "PURE VITA",
-        "displayName": "PURE VITA",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-47b29047f9167c",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/f315fe90-7075-4f29-b0cb-5abad7510ad9/Sunflower%20Oil%201L"
-  },
-  {
     "id": "product-0ba204545fa3a3",
     "name": "READY, SET…COOK!",
     "category": "Other",
     "aliases": [],
     "offers": [
+      {
+        "externalId": "https://www.aldi.com.au/product/ready-set-cook-thin-sausages-500g-000000000000570520",
+        "name": "READY, SET…COOK!",
+        "salePrice": 5.98,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/7116178f-88a1-411e-8c93-6fe0923705aa/Thin%20Sausages%20500g",
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-thin-sausages-500g-000000000000570520",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "displayName": "READY, SET…COOK!",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-0ba204545fa3a3",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/ready-set-cook-fresh-marinated-chicken-wings-honey-soy-1kg-000000000398439001",
+        "name": "READY, SET…COOK!",
+        "salePrice": 6.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/25fde8c4-4fd9-4551-8f38-978fa465bfd2/Fresh%20Marinated%20Chicken%20Wings%20Honey%20Soy%201kg",
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-fresh-marinated-chicken-wings-honey-soy-1kg-000000000398439001",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "displayName": "READY, SET…COOK!",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-0ba204545fa3a3",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
+      {
+        "externalId": "https://www.aldi.com.au/product/ready-set-cook-fresh-marinated-chicken-wings-buffalo-style-1kg-000000000398439002",
+        "name": "READY, SET…COOK!",
+        "salePrice": 6.99,
+        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/6e42cd70-b67f-4cdc-aaa5-cf4c6a5e9acc/Fresh%20Marinated%20Chicken%20Wings%20Buffalo%20Style%201kg",
+        "sourceUrl": "https://www.aldi.com.au/product/ready-set-cook-fresh-marinated-chicken-wings-buffalo-style-1kg-000000000398439002",
+        "category": "Super Savers",
+        "promotionType": "SALE",
+        "sourceType": "web",
+        "sourcePlatform": "aldi",
+        "channel": "physical",
+        "physicalStoreAvailability": "unknown",
+        "locationScope": "state-level",
+        "targetStore": "ALDI Brimbank",
+        "targetPostcode": "3021",
+        "confidence": "HIGH",
+        "store": "aldi",
+        "sourceName": "READY, SET…COOK!",
+        "displayName": "READY, SET…COOK!",
+        "displayNameSource": "AUTO",
+        "canonicalProductId": "product-0ba204545fa3a3",
+        "intelligence": {
+          "historicalStatus": "INSUFFICIENT_HISTORY",
+          "historicalObservations": 0,
+          "dealScore": 2,
+          "reasons": [
+            "LIMITED_HISTORY"
+          ],
+          "comparisonReasons": []
+        }
+      },
       {
         "externalId": "https://www.aldi.com.au/product/ready-set-cook-sweet-sour-pork-meal-kit-800g-000000000000602725",
         "name": "READY, SET…COOK!",
@@ -4559,7 +3721,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 18.74,
           "historicalMedian": 18.74,
           "historicalHigh": 18.74,
@@ -4594,7 +3756,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 7,
+          "historicalObservations": 8,
           "historicalLow": 19.98,
           "historicalMedian": 19.98,
           "historicalHigh": 19.98,
@@ -4629,7 +3791,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 22.04,
           "historicalMedian": 22.04,
           "historicalHigh": 22.04,
@@ -4664,7 +3826,7 @@
         "canonicalProductId": "product-0ba204545fa3a3",
         "intelligence": {
           "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 24.97,
           "historicalMedian": 24.97,
           "historicalHigh": 24.97,
@@ -4677,7 +3839,7 @@
         }
       }
     ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/54acbe43-e42b-463f-8304-454ce24f303c/Chicken%20Tikka%20Pita%20Kit%20680g"
+    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/7116178f-88a1-411e-8c93-6fe0923705aa/Thin%20Sausages%20500g"
   },
   {
     "id": "product-3672c8ae1ace80",
@@ -4720,112 +3882,6 @@
       }
     ],
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/images/hec/hc8/491134123081758.jpg"
-  },
-  {
-    "id": "product-6c02e0951f0cac",
-    "name": "REMANO",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/remano-italian-diced-tomatoes-400g-000000000000278716",
-        "name": "REMANO",
-        "salePrice": 2.38,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/ec29a462-82b7-41a1-a64b-5f2371583202/Italian%20Diced%20Tomatoes%20400g",
-        "sourceUrl": "https://www.aldi.com.au/product/remano-italian-diced-tomatoes-400g-000000000000278716",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "REMANO",
-        "displayName": "REMANO",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6c02e0951f0cac",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/remano-basil-pesto-190g-000000000000274244",
-        "name": "REMANO",
-        "salePrice": 0.99,
-        "pricePerUnit": 9.9,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/811290eb-12a1-4bca-afb8-ee096da0bbe7/Basil%20Pesto%20190g",
-        "sourceUrl": "https://www.aldi.com.au/product/remano-basil-pesto-190g-000000000000274244",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "REMANO",
-        "displayName": "REMANO",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6c02e0951f0cac",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      },
-      {
-        "externalId": "https://www.aldi.com.au/product/remano-sundried-tomato-pesto-190g-000000000000274249",
-        "name": "REMANO",
-        "salePrice": 0.99,
-        "pricePerUnit": 9.9,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/dd61ce2d-fb6f-416a-abb8-cc5622d93393/Sundried%20Tomato%20Pesto%20190g",
-        "sourceUrl": "https://www.aldi.com.au/product/remano-sundried-tomato-pesto-190g-000000000000274249",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "REMANO",
-        "displayName": "REMANO",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6c02e0951f0cac",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/811290eb-12a1-4bca-afb8-ee096da0bbe7/Basil%20Pesto%20190g"
   },
   {
     "id": "product-7f41839e9e0324",
@@ -5256,86 +4312,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/products/h95/h08/502024918106142.jpg"
   },
   {
-    "id": "product-2c48e4059dfeff",
-    "name": "SWEET VALLEY",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/sweet-valley-peach-slices-in-syrup-825g-000000000000280732",
-        "name": "SWEET VALLEY",
-        "salePrice": 2.9,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/14b8b982-21ea-496e-9fc1-0cfd8f074ce4/Peach%20Slices%20In%20Syrup%20825g",
-        "sourceUrl": "https://www.aldi.com.au/product/sweet-valley-peach-slices-in-syrup-825g-000000000000280732",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "SWEET VALLEY",
-        "displayName": "SWEET VALLEY",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-2c48e4059dfeff",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/14b8b982-21ea-496e-9fc1-0cfd8f074ce4/Peach%20Slices%20In%20Syrup%20825g"
-  },
-  {
-    "id": "product-f4adcc79145d89",
-    "name": "SWEET VINE",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/sweet-vine-pitted-prunes-500g-000000000000266263",
-        "name": "SWEET VINE",
-        "salePrice": 10.98,
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/85581f2f-c0b5-422b-93d2-8a73c8b5415c/Pitted%20Prunes%20500g",
-        "sourceUrl": "https://www.aldi.com.au/product/sweet-vine-pitted-prunes-500g-000000000000266263",
-        "category": "Super Savers",
-        "promotionType": "SALE",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "SWEET VINE",
-        "displayName": "SWEET VINE",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-f4adcc79145d89",
-        "intelligence": {
-          "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 1,
-          "dealScore": 2,
-          "reasons": [
-            "LIMITED_HISTORY"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/85581f2f-c0b5-422b-93d2-8a73c8b5415c/Pitted%20Prunes%20500g"
-  },
-  {
     "id": "product-14c6572d6be944",
     "name": "THE FISHMONGER",
     "category": "Fish & Seafood",
@@ -5364,7 +4340,7 @@
         "canonicalProductId": "product-14c6572d6be944",
         "intelligence": {
           "historicalStatus": "NORMAL",
-          "historicalObservations": 15,
+          "historicalObservations": 16,
           "historicalLow": 32.59,
           "historicalMedian": 34.76,
           "historicalHigh": 34.76,
@@ -5730,52 +4706,6 @@
     "primaryImageUrl": "https://www.costco.com.au/medias/sys_master/default/h5b/hac/486651890532382.png"
   },
   {
-    "id": "product-6dbea64804f022",
-    "name": "WORLD KITCHEN",
-    "category": "Other",
-    "aliases": [],
-    "offers": [
-      {
-        "externalId": "https://www.aldi.com.au/product/world-kitchen-beef-massaman-curry-800g-000000000000630823",
-        "name": "WORLD KITCHEN",
-        "salePrice": 1.25,
-        "pricePerUnit": 12.5,
-        "pricePerUnitType": "kg",
-        "imageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/9d75001d-146d-4ccb-8ecd-4230581885a7/Beef%20Massaman%20Curry%20800g",
-        "sourceUrl": "https://www.aldi.com.au/product/world-kitchen-beef-massaman-curry-800g-000000000000630823",
-        "category": "Limited Time Only",
-        "promotionType": "CAMPAIGN",
-        "sourceType": "web",
-        "sourcePlatform": "aldi",
-        "channel": "physical",
-        "physicalStoreAvailability": "unknown",
-        "locationScope": "state-level",
-        "targetStore": "ALDI Brimbank",
-        "targetPostcode": "3021",
-        "confidence": "HIGH",
-        "store": "aldi",
-        "sourceName": "WORLD KITCHEN",
-        "displayName": "WORLD KITCHEN",
-        "displayNameSource": "AUTO",
-        "canonicalProductId": "product-6dbea64804f022",
-        "intelligence": {
-          "historicalStatus": "LOWEST_OBSERVED",
-          "historicalObservations": 5,
-          "historicalLow": 12.5,
-          "historicalMedian": 12.5,
-          "historicalHigh": 12.5,
-          "percentBelowHistoricalMedian": 0,
-          "dealScore": 32,
-          "reasons": [
-            "LOWEST_OBSERVED_PRICE"
-          ],
-          "comparisonReasons": []
-        }
-      }
-    ],
-    "primaryImageUrl": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/232/9d75001d-146d-4ccb-8ecd-4230581885a7/Beef%20Massaman%20Curry%20800g"
-  },
-  {
     "id": "product-9b0c2f1af1fcfa",
     "name": "WYNNS ESTATE",
     "category": "Other",
@@ -5804,7 +4734,7 @@
         "canonicalProductId": "product-9b0c2f1af1fcfa",
         "intelligence": {
           "historicalStatus": "INSUFFICIENT_HISTORY",
-          "historicalObservations": 0,
+          "historicalObservations": 1,
           "dealScore": 2,
           "reasons": [
             "LIMITED_HISTORY"
